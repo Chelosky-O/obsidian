@@ -36,7 +36,48 @@ Como cada gas tiene una diferente estructura.
 Cada gas tienen efectos diferentes y unos tienen efectos mayores a otros.
 
 El  $CO_2$ No contribuye casi nada al calentamiento global
+
 F es lo mayor
 
 ---
+
+Asistencia 100% a presenciales
+2 Cuestionarios Online y 3 Entregas en equipo
+
+Calor: no es una OEM es una consecuencia de ello
++energía = + trabajo y + temperatura
+
+También el efecto invernadero es pq los gases de la tierra se calientan al interactuar con las ondas electromagnéticas -> como resultado hay calentamiento global osea que la temperatura del ambiente aumenta.
+
+El efecto invernadero lo hace la atmosfera
+
+Que porcentaje de la tierra es agua? + del 70%, el agua puede absorber mucho calor, si la temperatura aumenta, aumenta la temperatura del agua, el fenómeno climático que pasa por esto, la mayoría de los fenómenos del clima tienen que ver con el calentamiento del agua.
+
+10 años antes vs ahora se ve si hay cambio climático = medio variabilidad
+
+
+Hay que tomar consciencia de todo lo que es necesario para tener acceso a estos conocimientos, no muchas personas tienen acceso a eso, cuando alguien niega el cambio climático hay que ponerse en el lugar de la persona y ver si tiene acceso a comprender estos fenómenos o no.
+
+
+
+El carbono esta presente en los humanos y plantas
+
+Emisiones de GEIs (gases de efecto invernadero)
+metano se genera por agricultura
+
+
+---
+
+Disminución de Sumideros
+
+La concentración de GEIs es debido a que aumente la emisión y que disminuya la absorción
+Ganadería y agricultura son las principales cosas que hacen que desaparezcan bosques 
+
+Mitigación del cc -> disminuir GEIs de atmosfera
+Adaptación al CC -> efectos
+
+
+
+
+
 
