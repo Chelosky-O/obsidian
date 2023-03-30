@@ -18,4 +18,10 @@ El tipo de onda electromagnetica que se emite depende de la temperatura,
 
 La luna no tiene atmosfera y la tierra si, 
 
-Debilitamiento de capa de ozono no es cambio climatico, este ocurre en la troposfera, el ozono esta en la estratosfera
+Debilitamiento de capa de ozono no es cambio climatico, este ocurre en la troposfera, el ozono esta en la estratosfera.
+
+Hay rayos que emite la superficie que no salen por que la atmosfera los retiene.
+Entonces hay cuanta energia entra y sale de la tierra, la energia del sol es reflejada por la nubes y por otros gases de la atmosfera.
+Las superficies blancas reflejan mas, por lo que si se derriten glaciares, estos reflejan mas luz, asi que no es muy bueno, el planeta absorbe mas energia, lo que hace que se caliente.
+La energia que se emite de regreso, que la atmosfera emite de regreso hacia la tierra aumenta la temperatura esto haciendo el calemtamiento global.
+
