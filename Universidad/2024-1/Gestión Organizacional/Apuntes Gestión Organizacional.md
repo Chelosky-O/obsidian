@@ -117,3 +117,4 @@ Modelo dice: Para formar decisiones yo debo ponderar los efectos positivos y neg
 
 
 # 14-03
+ 
