@@ -121,12 +121,5 @@ Requisito no funcionales
 Refuerce su conocimiento previo a través del estudio de la Fase de “Levantamiento de  
 Requerimientos” y “Especificación de requisitos”.
 
-
-
-
-
-
-
-
-
- 
+Libro Ingeniería de Software de sommerville
+# :P
