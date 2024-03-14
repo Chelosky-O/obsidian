@@ -53,6 +53,72 @@ Y todas estas deben estar coordinadas.
 
 También crea los 14 Principios (No leyes)
 
+1. DIVISIÓN DEL TRABAJO: Dice relación con el hecho de que cada individuo  
+que realiza una actividad específica, se perfeccionara en esa actividad. Corresponde a  
+un principio de especialización considerando necesario para obtener un uso eficiente del  
+factor trabajo.  
+Señala que la especialización genera expertos para que se desarrollen mejor en su área.  
+
+2. AUTORIDAD Y RESPONSABILIDAD: Concibe la autoridad como una  
+combinación de la autoridad oficial, derivada de la posición del administrador, y la  
+personal, desprendida de su inteligencia, experiencia, dignidad moral, servicios  
+prestados, etc.  
+Es necesario destacar que la autoridad se delega, pero la responsabilidad NO. La  
+responsabilidad es proporcional al grado de autoridad que la institución le otorga a la  
+persona para una actividad determinada.  
+El derecho a mandar y exigir obediencia es el poder para tomar decisiones en un área  
+determinada. La responsabilidad es la cuota de obligación a responder por la autoridad  
+recibida. Recurso- Autoridad. Exigencia – Responsabilidad cuota de cada uno.
+
+3. DISCIPLINA: Es la condición de obediencia y adhesión que resultan de la red del  
+entendimiento explícito o implícito que se forma entre empleados y gerentes. El  
+cumplimiento de los acuerdos expresos y sobre todo de la capacidad de liderazgo de las  
+jerarquías.  
+
+4. UNIDAD DE MANDO: Una persona debe recibir órdenes de un solo jefe y si esto  
+no se aplica se produce ineficiencia y quiebres interpersonales.  
+
+5. UNIDAD DE DIRECCIÓN: Cada grupo de actividades con el mismo objetivo  
+debe tener un Director y un plan. A diferencia del principio anterior, este se refiere a la  
+organización del cuerpo directivo, más que al personal. Ejemplo, en una empresa al  
+Gerente de Relaciones Industriales tendrá un objetivo determinado por la institución y  
+guiará al logro de ese objetivo a todos aquellos que dependan de esa área.  
+
+6. SUBORDINACIÓN DE INTERÉS INDIVIDUAL AL INTERÉS GENERAL:  
+Este objetivo del interés particular debe ir hacia un bien común. Subordinar el interés  
+particular al grupal.  
+
+7. REMUNERACIÓN: Tiene que ser de acuerdo a la capacidad de la empresa y  
+apuntar a los esfuerzos o aportes de las personas. Se debe cancelar una remuneración  
+por la función desarrollada por una parte y por otra por el valor agregado que  
+contribuye a la organización.  
+
+8. CENTRALIZACIÓN: Debe existir un solo cerebro unificador. Una política  
+común y optimizar el uso de los recursos con el fin de lograr coherencia a los  
+esfuerzos.  
+
+9. JERARQUIA DE AUTORIDAD: Se refiere a la cadena de autoridad, la cual va  
+desde l os rangos más altos a los más bajos, pero se podrá modificar cuando sea  
+necesario. Ej. Gerente General, Gerente, Sugerente. Una cadena de autoridad, donde se  
+determina los distintos niveles jerárquicos de una empresa.  
+
+10. ORDEN: De las cosas físicas y personas, cada cual en su lugar. Es indispensable  
+escoger bien el equipo y al personal, asignarlos correctamente y organizarlos para que la  
+empresa funcione sin contratiempos.  
+
+11. EQUIDAD: La afabilidad y la equidad alentarán a los empleados para que  
+trabajen bien y sean fieles. Justicia y amabilidad al personal, de esa manera se logra  
+lealtad.  
+
+12. ESTABILIDAD EN EL EMPLEO: Evitar la rotación excesiva de personal, tiene  
+que ser regulado, de otro modo perjudica la productividad y produce inestabilidad.  
+
+13. INICIATIVA: Se debe dar la posibilidad a las personas que expresen sus ideas y  
+llevarlas a cabo. Los gerentes deberán dejar a un lado su vanidad personal y alentar a los  
+empleados para que en lo posible tomen la iniciativa.  
+
+14. ESPÍRITU DE GRUPO: La unión hace la fuerza para lograr un trabajo mancomunado. Se requiere aprender a trabajar en equipo.
+
 ---
 Contingencia = Tomar decisiones según el entorno
 
@@ -67,14 +133,14 @@ La gente se aburre del Modelo de Taylor
 Explicaba objetivo, permitía relaciones entre trabajadores, no los veía como engranajes si no como personas.
 
 
-1er Psicologo en empresas
+1er Psicólogo en empresas
 
 ---
 ### Teoría X-Y
-X: Escuela Clasica
+X: Escuela Clásica
 Y: Mayo
 
-Este modelo es muy optimista, falta lider, objetivos etc.
+Este modelo es muy optimista, falta líder, objetivos etc.
 
 ESTO NO SE PREGUNTA
 
@@ -116,5 +182,5 @@ El tema es que por ejemplo si hay un problema de estrategia, este problema modif
 Modelo dice: Para formar decisiones yo debo ponderar los efectos positivos y negativos de las restantes 6 y ahí debe tomar la decisión.
 
 
-# 14-03
- 
+# 15-03
+
