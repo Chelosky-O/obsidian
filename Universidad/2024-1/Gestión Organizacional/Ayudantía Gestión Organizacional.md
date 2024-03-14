@@ -87,4 +87,4 @@ Hay que poner en una balanza, no es necesario que todas las s sean igual de impo
 El viernes TGS, martes TGS, luego control :0 (quizá el viernes).
 Metodología → Entrega un caso, 15 min se lee y luego entrega el control, en el control hay preguntas sobre el caso y sobre materia, o sobre materia aplicada al caso.
 
-
+El trabajo es un resumen del ramo con una empresa, posiblemente la de la practica 1.
