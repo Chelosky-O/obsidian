@@ -47,3 +47,49 @@ Clasificación de fallos:
 
 
 SOLUCION: REDUNDANCIA
+
+# 14-03
+## Arquitecturas de Alta disponibilidad
+
+### 1. Clustering
+
+- Definición: Un clúster es un grupo dedos o mas servidores o nodos que trabajan juntos como una sola entidad. Se distribuye la carga de trabajo entré los nodos y, si uno de ellos falla, los demás pueden asumir la carga.
+
+Configura base de datos para que sea un espejo de la otra. Importa la geografia.
+### 2. Replicación
+
+
+
+Son 2 bases de datos descontextualizados, donde mediante un script , toda las transacciones hechas en 1 se repiten en la replica.
+En tiempo real.
+Genera un trafico de red para mandar entre servidores. Penalización de latencia, esta afecta el commit.
+
+### 3. Balanceo de Carga 
+
+- Round Robin Si tengo un trafico de red que viene...
+
+- Balanceo Ponderado: Dependiendo de la conexión se selecciona, se pondera o asigna mas pega a servidor con mayor ancho de banda y proporcionalmente al que tiene menos.
+
+- Basado en la carga: Servidores cdn, por carga de cada servidor.
+- Basado en geolocalización: Selecciona por cercania geografica.
+Códigos http 400 error, 500 error servidor, 200 ok, 300 redirección.
+
+### 4. Conmutación por Error (Fail Over) y Conmutación por Recuperación (Fail Back)
+
+Conmutación por error implica cambiar automáticamente a un recurso de respaldo cuando el recurso principal falla.
+
+La conmutación por recuperación implica volver al recurso principal una vez que se ha recuperado.
+
+Ej: Si un sv web que cambia automáticamente a un servidor de respaldo si el servidor principal se vuelve inaccesible.
+
+### 5. División de Zona y Geoclusterización
+
+Divide los sistemas en zonas geográficas separadas y aisladas para evitar que un desastre local afecte todas las áreas.
+
+Para desastres evitando interrupciones.
+
+### 6. Virtualización y Contenedores
+Contenedores.
+
+
+
