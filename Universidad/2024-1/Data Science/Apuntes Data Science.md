@@ -1,4 +1,4 @@
-# 07-03-2024
+# 07-03
 
 Marzo -> Buscar proyecto
 ## Data Science:
@@ -47,4 +47,77 @@ $$
 Donde M = Modelo y X = Un conjunto de datos estocásticos
 
 #### CRISP-DM
+
+
+# 14-03
+*Ppt clase 3*
+## Train/Dev/Test y Distribuciones
+Se dividen los datos normalmente es Train y Test pero ojala fueran los tres.
+
+### Velocidad Progreso
+
+Normalmente se desarrolla en local.
+
+Se busca configurar conjuntos dev y test.
+
+El dev es el conjunto de validación del modelo. Es un conjunto pequeño.
+El test debe ser más grande.
+
+Train → deb → test
+60% → 20% → 20%
+
+Cuando se hace DeepLearning es 90% 2% 8%
+
+---
+Problema de distribución
+
+## Distribuciones distintas
+Tradicionalmente se utiliza el 70/30 para entrenamiento y test
+o un 60/20/20 para entrenamiento dev y test.
+
+## Deep learning
+98/1/1
+
+---
+Hay que revolver bien los datos a utilizar.
+
+---
+*Ppt Clase 2*
+
+## Single Number Evaluation Metric
+Para medir si va bien o va mal
+
+Si va bien, que tiene buena precisión, que se equivoque poco.
+
+---
+## Precisión y recall
+Búsqueda algo en palabras, cuantas de esas búsquedas retornaron lo que precisamente estaba buscando.
+
+Son métricas utilizadas para evaluar rendimiento de un clasificador.
+
+### Precisión
+Proporción de casos positivos identificados sobre el total de casos positivos identificados.
+
+Sabiendo cuantos eran, cuantos me clasifico correctamente?
+
+Falso positivo: 
+
+### Recall
+Proporción de casos positivos correctamente identificados sobre el total de casos verdaderamente positivos.
+
+El recall se dio cuenta de los 5.
+
+es al revés que precisión, toma en cuenta los falsos positivos.
+
+---
+## Clasificador de gatos
+
+Precisión es mejor el B para casos usos médicos
+Recall para fraude, bloqueos de cuenta.
+
+Clasificaciones → precition recall con f1 score.
+
+
+
+
 
