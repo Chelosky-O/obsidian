@@ -184,3 +184,101 @@ Modelo dice: Para formar decisiones yo debo ponderar los efectos positivos y neg
 
 # 15-03
 
+## TGS
+Luwding Von Bertalanffy sostiene que todos los elementos están integrados en unidades relativamente interdependientes. 
+Por lo tanto Sistema es un “Conjunto de partes coordinadas y en interacción para alcanzar un conjunto de Objetivos”.
+Sistema “Grupo de Partes y objetos que interactúan y que forman parte de un todo o que se encuentran bajo la influencia de fuerzas en alguna relación definida.
+
+Biólogo.
+
+### TEORIA GENERAL DE SISTEMAS 
+Luego de aplicar a la naturaleza, se aplica a la biología, etc...
+Aquí existen 2 sistemas
+
+- Sistemas Cerrados: Conjuntos de partes que interactúan entre si pero no se relacionan con el entorno, tiene distintas partes. Como un motor, trabaja dentro, tira veneno pero no se hace responsable de lo que tira.
+- Sistemas Abiertos: **Este importa para el ramo**: Conjunto de partes que se relacionan entre si y se relacionan con el entorno. Por ejemplo, el humano, sistemas circulatorio, sanguíneo con el objetivo de que vivamos. Aquí entran las empresas.
+- Conglomerados: Conjunto de partes que no tienen ninguna relación. Somos un sistema y la profe se va para la casa yo para al lolla otro al partido otro al cine, etc, pero todos tomamos la misma locomoción, no tenemos el mismo objetivo.
+
+
+
+Hay una corriente de entrada ⇒ Caja negra ⇒ Corriente de salida y una retroalimentación (la corriente de salida a la corriente de entrada)
+
+#### Corriente de entrada
+Para un negocio en la Corriente de Entrada →  se necesita capital, permisos patente, infraestructura, personal, tecnología, materia prima.
+
+*La caja negra es lo que aun no sabemos lo que ocurre*
+#### Corriente de salida
+La corriente de salida es: Producto y/o Servicios que entrega la empresa y Marketing
+
+*Mercado conjunto de personas que consumen un mismo servicio o producto.*
+
+#### Entorno
+El entorno esta compuesto por clientes, Empresas de la competencia, Mercado, Estado.
+AFP, ISAPRES, GUERRAS, INMIGRACIONES ETC... 
+
+*Cliente es el que me compra pero también hay personas que le compran a la competencia.*
+
+
+#### Retroalimentación
+
+La empresa tira un producto, servicio o marketing, la empresa debe evaluar como le fue con esto, si el marketing fue bueno o la gente le compro mas a la competencia, o si me copiaron la idea.
+Todo comportamiento que produce mi producto, servicio o marketing
+
+$\Delta ^{\pm }$ Variación Comportamiento Consumidor
+$\Delta ^{\pm }$ Variación Comportamiento competencia
+$\Delta ^{\pm }$ Variación regulaciones estatales
+
+---
+Trae varios conceptos por ej:
+
+### Sinergia:
+Tengo una buena CE, una buena CS y una buena retroalimentación.
+
+La fuerza de estos 3 elementos es tan buena que es más que la suma de ellos.
+
+
+La sinergia puede ser atacada por la entropía.
+
+### Entropía:
+La cerveza el pisco que tomamos el viernes en lugar de estudiar XD.
+
+El despido de una persona muy querida, mala lectura de un correo.
+
+Le entropía es la tendencia al caos. Este caos debe ser atacado.
+
+Se ataca con Neguentropía.
+
+### Neguentropía
+Corregir lo que ha traído la entropía
+
+### Recursividad
+Para que exista:
+1. El sistema debe ser sinérgico
+
+Si la empresa esta bien o sea sinérgica, todos trabajan juntos en bien de un objetivo.
+Es sinérgica por el esfuerzo de sus trabajadores con la tecnología y su jefatura.
+
+La recursividad dice que cada parte de ese sistema, debe ser sinérgico → Se refiere a que cada función de la clase pasada (finanzas, canal comunicación, producción, marketing...) es sinérgica.
+
+### Homeostasis
+Equilibrio con el Entorno(E)
+
+Estar pendiente sobre la ley, por que el empresario debe hacer la ley.
+Sube el impuesto etc..
+
+Homeostasis: La capacidad del sistema a adaptarse a ello
+
+### Equifinalidad
+Es como decir 2 empresas que pertenecen a la misma industria, Copec Shell 
+Cada una va a llegar a su objetivo de distintas maneras
+Carozi Luchetti , las empresas dicen ya vamos a crecer un 2%
+Vamos a quitarle un 2% a la competencia y a lo mejor ambos logran su objetivo, por que quizás Carozi le quita los fideos a la otra y la otra empresa le quita las galletas.
+
+Todo se hace en base a herramientas de análisis, hay que ver en que soy yo mas fuerte que la otra empresa.
+
+---
+Prox clase ejercicio sobre esto.
+
+---
+
+
