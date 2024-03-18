@@ -117,6 +117,66 @@ Recall para fraude, bloqueos de cuenta.
 
 Clasificaciones → precition recall con f1 score.
 
+# 18-03
+
+## Datos
+
+### Diferencia entre datos e información
+
+Datos es al aspecto 
+
+
+
+### Tipos de datos
+
+En análisis de datos la forma de verlos cambia.
+
+- Categorical (que no es numérico) 0 o 1 por ejemplo o otros
+	- Ordinal:  Dato categórico, pero que tiene cierto nivel de jerarquia, ej segmento de empresa, alto, bajo o medio.
+	- Nominal: Nombre de objeto, comuna
+- Numerical (Datos numéricos)
+	- Discreto
+	- Continuo
+
+
+
+## Cantidad de Información
+
+Información de Shannon → Mide cantidad de información en una fuente de datos
+
+
+#### Entropía
+Mide el nivel de incertidumbre de una fuente de información.
+
+Que tan poca información tenemos de algo.
+
+La entropía tiene un máximo, ej: una columna con un rut, todos los alumnos tienen un rut distinto, la entropía es máxima.
+
+Hay 2 escenarios donde una columna no entrega nada de información, rut por ej, todos casos distintos, nada información 0.
+
+El otro escenario es que todas las columnas digan alumno udp , alumno udp, etc. 
+La entropía es mínima. En ese caso lo que no hay es varianza.
+#### Problemas en los datos
+1. Datos faltantes → Todos tienen edad en udp menos 3 personas
+	1. Missing at Random → El dato se perdió pero depende de si mismo ej: La gente mas vieja no entrega su edad, solución ah tengo el dato promedio les pongo eso. Pero en realidad eran de 70 o más.
+	2. Missing Completly at Random → 
+	3. Missing not at Random → El dato perdido depende del resto de los datos. Ej: Por ej esta perdido el sueldo, pero justo era una persona que salía con crédito hipotecario. Hay un dato que la persona no quiere facilitar por el resto de variables. Estrategia: Inputear el dato.
+
+2. Datos Inútiles (o poco útiles)
+	1. Features completamente concentradas → Datos con la columna entera son datos : basura
+	2. Outliers
+		1. Unidimensionales
+		2. Multidimensionales
+	3. Skewed numerical features
+	4. Clases desbalanceadas
+	5. Maldición de la dimensionalidad → demasiadas columnas para entrenar y esto perjudica
+
+
+
+
+
+
+
 
 
 
