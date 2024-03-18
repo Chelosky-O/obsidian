@@ -122,4 +122,110 @@ Refuerce su conocimiento previo a través del estudio de la Fase de “Levantami
 Requerimientos” y “Especificación de requisitos”.
 
 Libro Ingeniería de Software de sommerville
-# :P
+# 18-03
+#Clase2
+
+Dominio de aplicación != Dominio del sistema
+Dominio de aplicación es entorno que regula el desarrollo
+
+
+### Dominio de Sistema
+
+Pueden gobernar a oros programas
+
+ej: windows, nvidia drivers
+### Software de aplicación
+Sin relación directa con el funcionamiento del computador
+Sirven para funciones determinadas como herramientas de trabajo
+Incluidos o posteriormente instalados despues del software
+
+ej: Google Chrome
+
+### Software ingeniería y ciencias
+Algoritmos devoradores de números
+Campos científicos
+SW de mercado
+ej: stellarium, matlab
+
+### Software Incrustado
+
+Funciones limitadas y particulares
+Capacidad de funcionamiento y control
+
+EJ: sensores, funcionamiento de estufas.
+### Software línea de productos
+
+Control de inventario
+
+Dirigido a mercados limitados, masivos, funciones especificas.
+
+Ej: Neflix, pstore.
+
+### Aplicaciones Web
+BDD corporativas, se ejecutan en navegador web
+
+ej: mercado libre, sap
+
+### Software de Inteligencia artificial
+Uso de algoritmos no numéricos.
+
+Fuente abierta, diversas áreas, requieren gran capacidad de hardware.
+
+Ej: Tensor flow , Keras, Kaluel
+
+Prueba alfa: Prueba con usuario pero función muy acotado.
+Beta: Pruebas en producción.
+
+
+### Requisitos de Usuario
+
+Tienen problemas asociados.
+
+###### Problemas:
+*Arreglar es mas caro que hacer*
+Falta de claridad
+Confusión de Requisitos 
+
+Conjunción de Requisitos: diversos requisitos diferentes pueden expresar la misma funcionalidad.
+
+---
+Reducir ambigüedad
+
+Software que sea intuitivo
+
+
+Pensar + Sentir + Usar
+
+
+Requerimiento lo que la gente pide
+Requisito lo que haremos en el software
+
+---
+- No deben tratar de como se debe diseñar o implementar.
+- Se debe describir el comportamiento externo del sistema y sus restricciones operativas.
+- Son una expresión de requisitos funcionales pues reflejan las operaciones que el sistema llevará a cabo.
+
+---
+
+SqlServer y C# → Para crear cosas de office, tiene buen Portabilidad en cuanto a utilizar office.
+
+---
+
+Los requisitos de usuario se refinan, pero se hacen bien.
+
+### Requisitos de Dominio
+
+
+Ej: tener conexión a internet.
+
+Future options (Te lo doy pero me pagas más después):
+- Formas de pago
+- Garantías
+- Valor actual y futuro
+- Multa
+
+Regla de Negocio → Se sigue si o si.
+Define como se hace.
+
+---
+
