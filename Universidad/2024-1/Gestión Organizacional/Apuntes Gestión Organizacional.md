@@ -282,3 +282,108 @@ Prox clase ejercicio sobre esto.
 ---
 
 
+
+
+# 19-03
+
+## Planificación Estratégica
+
+Mercado != Industria
+Mercado cautivo → los clientes que me compran
+Mercado General → Todo el mercado
+
+A la competencia le esta yendo muy bien y a mi muy mal
+
+Las empresas tienen que decidir su futuro (anualmente) mirando al mercado, la competencia, clientes propios y clientes de otras empresas.
+
+Fijar un objetivo y mediante una estrategia (Conjunto de Acciones) se logra llegar a donde se quiere.
+
+Una empresa tiene 3 niveles.
+- **Nivel Estratégico**: Embarga a toda la organización, es muy importante, por que ahí es donde piensan, hacia donde van el futuro.
+- **Nivel Táctico**: Donde están ejecutivos, áreas funcionales, preciso para cada área. Largo plazo.
+- **Nivel Operativo**: Funciones más rutinarias donde es mas grande la empresa, donde la gente hace control de la tarea en forma semanal, no es de largo plazo
+
+La planificación estratégica se hace en el NE.
+
+La planificación estratégica nace con que aparece un negocio, donde el dueño tiene un Sueño, este nace en el NE. Esto se llama **La visión es un sueño**, a muy largo plazo, Cualitativo.
+
+Misión → Largo Plazo → 6-7 años → *Cuantitativo*
+
+Objetivo General → Mediano Plazo → max 2 años → *cuantitativo* *?*
+
+---
+
+En la misión se ve como hago este sueño en realidad con alguna parte de el.
+
+Misión → Que como donde y por que 
+Que voy a hacer, como lo voy a atacar, donde...
+
+En el sueño dice en todo chile tendré un mercado, en la misión en la región metropolitana tendré un 30%.
+
+En Nivel Táctico están las áreas de la empresa, finanzas, informática, etc.
+De la misión le entrega a estas áreas un objetivo.
+
+Objetivos generales: Obtener un local en Huechuraba.
+
+Cada objetivo general se desglosa en **Objetivos específicos**
+
+
+Los **Objetivos específicos** → A menos de año y es *cuantificable*
+
+**Meta** ⇒ Acciones a semanas → *Cuantificable*
+
+Contratar personas → Objetivo especifico. Hay que buscar una persona muy especial.
+
+---
+VISION, MISION ⇒  NE
+
+Objetivos Específicos ⇒  NT y NO
+
+Metas ⇒  NO
+
+---
+Hasta aquí entra.
+
+## **Texto pastas frescas**
+
+Modelo Insumo-Producto
+
+**CE**: Capital, maquinaria, infraestructura, materia prima, personal, permiso, tecnología.
+
+**CS**: Productos, Servicios, Marketing
+
+Retroalimentación: Variaciones ( $\Delta$ del entorno), $\Delta$ en las políticas, $\Delta$ en gusto de clientes.
+
+---
+Conceptos visibles en el texto:
+
+**Sinergia**: Hay pq le va bien, se esforzaron.
+
+**Entropía**: En al cambio de entorno, también que le enseñan pero debe irse de Milán.
+La pandemia también hubiera sido entropía. Lo que le costo acostumbrarse por los extensos plazos de pago de los clientes.
+
+**Neguentropía**: Hizo el esfuerzo para adaptarse a todo esto.
+
+**Recursividad**: El sistema es sinérgico. además todas sus partes deben ser sinérgicas. En este caso sus partes si funcionan bien. ha superado los problemas. Su marketing es bueno (salió en el diario xd), contabilidad etc también deberían ser
+
+**Homeostasis**: Satisfacía que no habían pastas frescas.
+
+**Equifinalidad**: Había competencia pero no hacían pastas frescas, aprovechó.
+
+---
+- Sueño → Entregar pasta fresca, rescatando la tradición de Italia, entregar a todo quien quiera comer pasta fresca un producto de alta calidad en todo el territorio. *Elegir palabras, y hacer 1 frase*
+
+- Misión → Aparte de potenciar la parte de venta online de nuestras pastas frescas, lograr instalarnos con 1 local en el barrio tanto.
+
+De la misión salen objetivos generales:
+
+- Ver finanzas, presupuestos, de alguna forma obtener capital para evaluar proyecto.
+-  Lograr aumentar mi alcance.
+- Buscar distintos tipos de financiamiento.
+
+META:
+- Realizar citas con banco o futuros inversionistas.
+
+
+
+

@@ -63,9 +63,39 @@ Presentación final, mientras antes mejor.
 	- Throughput → Flujo
 	- Tiempo de respuesta
 	- Plazos → En consultas que toma horas por ejemplo
+
+Los bancos dejan de atender los usuarios, tienen un proceso donde hacen la cuadratura de depósitos, cuentas, etc... Los plazos se extendían tanto que no alcanzaba el tiempo disponible, pq a las 9 tiene que atender de nuevo. Aparece cartelito "No tenemos sistema". Ahora ya no hay estos espacios, ahora hacen procesos de cuadratura y conciliación 
+
 - Escalabilidad:
 	- Carga (tps) → Transacciones x segundo (En requerimiento → respuesta)
 	- Conexiones simultaneas
 	- Volumen de datos
 	- Despliegue → Facilidad o complejidad de instalar una nueva instancia del sistema
-	
+
+- Mantenibilidad: (Cuando decimos que le hacemos mantención al software que hacen? No es corregir errores, es poder incluir nuevos requerimientos, dependiendo de la arquitectura y modificar estos. )
+	- Modificable → 
+	- Nuevos requerimientos funcionales → 
+
+- Seguridad:
+	- Autenticación → Identificar al usuario frente al sistema
+	- Autorización → Definir funciones que un usuario puede tener en un sistema
+	- Encriptación → 
+	- Integridad → Que el mensaje que salió llegue integro al destino. Garantizar
+	- No repudio → Mecanismo que nos permita verificar que quien hizo la transacción es quien la hizo. Pero esto baja la velocidad de hacer cosas al agregar más claves, correos etc... Mientras más seguro menos rendimiento
+- Confiabilidad: Que este disponible no que los resultados sean correctos
+	- Disponibilidad → Que este disponible el mayor porcentaje del tiempo posible
+	- Recuperable → En caso de que falle que se recupere rápido
+	- Regla de los cinco nueves → Es un porcentaje 99.999%
+- Integrabilidad: 
+	- Agregación → 
+	- Interoperable → 
+	- API'S → Poder usar otros sistemas a través de las funcionalidades
+- Portabilidad: NO existe, el sistema que corra en mac y si lo tomo tal cual a linux y va a correr sin ningún problema, luego en otra windows y va a correr sin problemas, eso no es cierto. 
+	- Independencia de plataforma → 
+- Verificabilidad: Autochekeo que hace el sistema, los nuevos autos tienen sensores que te avisan de todas, es verificable. Que tenga elementos de auto
+	- Testeable → 
+# 19-03
+
+
+Componentes, relaciones entre ellos, ambiente.
+## 
