@@ -18,7 +18,7 @@ Y con la Revolución Industrial -> Marxismo -> Iglesia
 
 La iglesia solucionaba la igualdad, por donaciones a "hermanos"
 
-Luego sigue la escuela clasica o cientifica con Taylor.
+Luego sigue la escuela clásica o científica con Taylor.
 
 ## 1.- Taylor
 Partió como estudiante y alcanzo la gerencia.
