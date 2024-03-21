@@ -229,3 +229,112 @@ Define como se hace.
 
 ---
 
+
+# 21-03
+
+Requerimientos funcionales : Requisitos que definen una función del software o de sus componentes.
+Son aquellos que establecen servicios o funciones que proveen el sistema.
+
+Requisitos no funcionales:
+Criterios que se pueden utilizar para evaluar la operación de un sistema en lugar de sus comportamientos específicos.
+
+Son una declaración de propiedades emergentes del sistema. Por ejemplo: Disponibilidad → Que el sistema se encuentre en operación en el momento que sea necesario, Fiabilidad, Tiempos de respuesta, entre otras.
+
+También conocidos como "Atributos de calidad" en el ámbito de la Arquitectura de Software.
+
+---
+
+Requerimiento de seguridad safety  → Vida
+Requerimiento de seguridad Security → Seguridad de información
+Requerimiento de confiabilidad → que su resultado es confiable
+
+Constitución → Ley → Regulación
+
+## SQuaRE (System and Software Quality Requirements and Evaluation)
+Descripción
+
+- Adecuación Funcional
+Capacidad del producto para proporcionar funciones que satisfacen las necesidades declaradas e implícitas, cuando el producto se usa en las condiciones especificadas.
+
+- Eficiencia de desempeño
+Como funciona a la realidad vs como lo probé
+
+Formas de acceso a servidor fisico, etc
+
+Entregar el producto perfecto a contra la perfección  
+
+
+- Compatibilidad
+Red de red o transantiago
+
+Pago integrado con la tarjeta bip
+
+- Usabilidad
+Preguntar si les va a servir o no 
+Cuanto se demora en aprender su aplicación
+Protección errores de usuario
+Estetica
+Accebilididad → Software para persona ciega
+
+- Fiabilidad
+Capacidad para satisfacer fiabilidad en condiciones normales
+
+Que sea maduro
+Disponibilidad → Que este operativo y accesible cuando lo necesito
+Tolerancia a fallos → que opere bien según lo previsto.
+recuperación → recuperar datos en caso de interrupción o fallo
+
+
+- Seguridad
+Confidencialidad → Protección contra el acceso de datos
+Integridad → prevenir acceso o modificaciones no autorizadas.
+Se diferencia en que uno solo ve y el otro altera.
+
+ No repudio → Que no se pueda negar que acción se hizo y quien la hizo
+ Responsabilidad → paso algo y puedo saber quien la hizo
+ Autenticidad → capacidad de demostrar la identidad de un sujeto 
+
+
+Giadach maneja la bd de Corp Banca
+
+
+
+- Mantenibilidad
+
+Modularidad → Capacidad q un cambio tenga un impacto mínimo en los demás.
+
+Reusabilidad → Capacidad que sea utilizado en mas de un sistema de software.
+
+Analizabilidad → Tecnica para 
+
+Capacidad para ser modificado → 
+Esclerosis de codigo → Punto que un codigo llego a un nivel donde modificas algo y caga todo lo demas. Si eso pasa no lo toques
+
+Capacidad para ser probado → todo se puede probar si no está mal planteado
+
+- Portabilidad
+
+Adaptabilidad
+Portal canvas funciona en cualquier navegador
+Sap no
+
+Capacidad para ser instalado
+que sea facil de instalar
+Algunos son faciles de instalar pero de desinstalar??
+
+Capacidad para ser reemplazado
+Word con google docs
+
+---
+LUNES NO FALTAR
+
+
+
+
+
+
+
+
+
+
+
