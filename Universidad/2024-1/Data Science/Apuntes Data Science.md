@@ -181,3 +181,140 @@ La entropía es mínima. En ese caso lo que no hay es varianza.
 
 
 
+
+# 21-03
+#clase4
+¿Cuándo cambiar los conjuntos Dev/Test y las métricas?
+
+DataWareHouse → conjunto de sv donde hay un conjunto de bd.
+BD que no es la productiva o es como un respaldo.
+
+Problema son para datos estructurados, se debe modelar.
+
+
+DATA LAKE: tirar datos
+
+Data lake house : estructurar datos un poco antes de guardarlos ahí ,ya sea como dataset o json.
+
+---
+Proyecto:
+Tenemos un set de datos de proyecto o pruebas.
+
+Cuando se comienza se ve el objetivo.
+
+Se puede cambiar la función de error.
+
+
+---
+Error se trata
+Modificando los datos de entrenamiento.
+Modificando la formula del error.
+
+Matemáticamente son iguales, pero una requiere mas trabajo que otra.
+Claramente los datos de entrenamiento son muchos mas difíciles.
+
+---
+#Clase5
+
+Ideas de proyectos
+
+Hay que tener un objetivo, lo mas importante son los datos y limpiar los datos gg.
+
+Feature ening
+
+
+Se entrena
+Trabajar error del modelo
+Armar algo usable
+
+---
+Sistemas de recomendaciones
+1. Recomendaciones en base a historial → 2 usuarios similares, lo que consuma uno se le recomienda a otro.
+2. Recomendaciones via lo que consume uno, se recomienda algo similar.
+
+En supermercados, aliexpress, siempre usa "otros usuarios tambien compraron esto..."
+
+---
+Proyectos analisis de datos
+
+Análisis de taxis con el clima
+Análisis de datos de tienda
+Análisis de ofert
+
+---
+Analisis de sentimiento en texto
+
+Los LLM se comieron esto, pero son más lentos que los algoritmos hechos para esto.
+
+---
+Sistemas de Detección de fraude
+
+---
+Clasificador de imagenes
+
+---
+Generador de Captions → De que se trata la imagen
+
+---
+Chatbot → Con un LLM valido con un proposito, vendedores en linea, callcenter, etc...
+
+---
+Detectores de imagenes medicas.
+
+---
+Camara que reconoce letreros y dice vel. limite etc..
+
+En los camiones, hay un computador con 2 camaras, una hacia el conductor para ver si esta pendiente y otra viendo la velocidad .
+
+Aplicación de cabezazos? 
+
+---
+
+Detector de Fake News
+
+
+Detectar fuentes, si la url es veridica etc...
+
+---
+Predictor de cuando comienza un incendio
+
+detector de humo pero con camaras
+
+---
+
+ecolocalización
+Saber de donde lanzaron los fuegos artificiales
+
+---
+
+NeRF neural radiance fields
+
+Camara y reconstruir en 3d
+
+---
+
+Stable difussion
+
+----
+LLM para hacer algo
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
