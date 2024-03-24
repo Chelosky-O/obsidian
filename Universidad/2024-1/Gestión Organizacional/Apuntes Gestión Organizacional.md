@@ -194,10 +194,7 @@ Trae varios conceptos por ej:
 
 ### Sinergia:
 Tengo una buena CE, una buena CS y una buena retroalimentación.
-
 La fuerza de estos 3 elementos es tan buena que es más que la suma de ellos.
-
-
 La sinergia puede ser atacada por la entropía.
 
 ### Entropía:
