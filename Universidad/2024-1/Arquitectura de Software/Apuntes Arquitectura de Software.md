@@ -94,8 +94,73 @@ Los bancos dejan de atender los usuarios, tienen un proceso donde hacen la cuadr
 	- Independencia de plataforma → 
 - Verificabilidad: Autochekeo que hace el sistema, los nuevos autos tienen sensores que te avisan de todas, es verificable. Que tenga elementos de auto
 	- Testeable → 
+- Soportabilidad:
+	- Diagnosticar 
+	- Corrección de incidencias
+
+
 # 19-03
 
 
 Componentes, relaciones entre ellos, ambiente.
-## 
+
+Rellene clase pasada.
+# 22-03
+
+## Frases celebres
+
+Simple → no problem
+Complicado → Errores imposibles de encontrar?
+
+#presentacion2
+
+### Diseño de Software
+
+- Fase 0 → Analizar el contexto
+	- Donde se va a instalar
+- Fase 1 → Estructuración
+	- Identificar componentes y sus relaciones
+- Fase 2 → Modelo de control
+	- Comportamiento de los componentes
+- Fase 3 → Descomposición 
+	- Diseño detallado
+
+Estructuración:
+	Descompone el sistema en un conjunto de subsistemas.
+	Utiliza un diagrama de bloques que muestra la estructura del sistema.
+	Indica el flujo de datos entre los componentes del sistema.
+	Muestra las interfaces que provee el sistema.
+
+Ej de modelos: SOA (Arquitectura orientada a servicios), Modelo de repositorio, Cliente/Servidor, Modelo de Capas, Objetos distribuidos, Arquitectura Cloud.
+
+---
+## Modelo de Repositorio:
+
+Cuando hay grandes cantidades de datos que necesitan ser compartidos
+- Gestión centralizada de datos
+- Almacenamiento Centralizado / Distribuido
+
+Modelo Pasivo → Almacena esto, relaciona esto
+Modelo Proactivo → El modelo le avisa a sus usuarios cuando hay modificaciones en los datos.
+
+Componentes aparte de bdd, modulos que controlan el acceso a los datos y que permiten manejar la bdd, los S1, 2 o 3 se conectan a los modulos.
+
+Ej: Registro civil, sistema de cedula de identidad, pasaporte etc...
+Canvas
+
+- Ventajas:
+	- Modo eficiente de compartir datos
+	- Administración centralizada de los datos
+	- Seguridad, Escalabilidad, Mantenibilidad
+- Desventajas:
+	- Fuerza un modelo de datos → La mas terrible
+	- Difícil cambio del modelo de datos
+	- Política centralizada de administración
+	- Punto único de falla → El mas critico
+
+
+
+
+
+
+
