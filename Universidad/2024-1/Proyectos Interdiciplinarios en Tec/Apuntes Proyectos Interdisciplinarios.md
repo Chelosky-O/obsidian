@@ -338,3 +338,24 @@ LUNES NO FALTAR
 
 
 
+
+
+# 25-03
+
+- Próximas 3 clases no se viene
+- 3 Evaluaciones hay, todas en azules
+
+Torniquetes.
+Elicitación de requerimientos
+
+---
+
+Personas relevantes no contratadas por U:
+
+- Personal de Aseo
+- Casino
+
+---
+
+
+

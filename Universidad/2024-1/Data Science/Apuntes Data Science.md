@@ -304,13 +304,17 @@ LLM para hacer algo
 
 
 
+# 25-03
 
+Outlayer → Los datos en la grafica que se salen de la curva. 
 
+:) the lost kl
 
+Grid search el mejor :D ?
 
+AMONGUS
 
-
-
+randomizedsearchcv lo hace mas rapido
 
 
 
