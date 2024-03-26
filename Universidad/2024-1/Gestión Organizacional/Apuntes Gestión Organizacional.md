@@ -345,3 +345,72 @@ META:
 
 
 
+
+# 26-03
+
+El modelo de planificación estratégica (Visión → Misión → Obj generales → Obj específicos → Metas) No serviría, falta ver los clientes, el entorno, etc.
+
+Esto es LO QUE YO QUIERO!
+
+PEST → Análisis de entorno?
+
+Político
+Económico
+Social
+Tecnológico
+
+- Esta información no es de la empresa, es del entorno.
+- SE ESCRIBE COMO DEL ENTORNO, NUNCA COMO DE LA EMPRESA!
+- Se construye entre la MISIÓN y la VISIÓN.
+- Para hacer el PEST necesitamos información.
+- El PEST va cambiando.
+
+Político → Leyes (no política)
+	Que variable política para la UDP es favorable.
+	EJ:
+	(+) Ley Obligatoria para todas las universidades debe acreditarse.
+	Esto afecta a la UDP, es positivo por que hay años.
+	*Se pone (+) Antes de la frase para declarar que es positivo.*
+	(-)  $\Delta ^{-}$ La ley implica la disminución a 40 horas laborales
+	(-) $\Delta ^{+}$ Aumento del impuesto a un 6%
+	(+) $\Delta ^{+}$ del sueldo minimo por ley → La diego tiene a todos con más del sueldo minimo.
+
+Económico
+	(-) Bajo crecimiento. → Por que la Diego 
+	(-) Aumento en el Desempleo 
+	(-) Aumento de la inflación
+
+Social
+	(+) A las personas les interesa estudiar carreras Universitarias.
+	(+) Que existan Universidades con gratuidad implica que la gente puede seguir estudiando.
+	(+) Que las personas puedan optar a CAE
+
+Tecnológico
+	(-) La existencia de plataformas educacionales. → Pueden haber universidades solo online lo que hace que haya mas competencia a la UDP.
+	(+) Permite la creación de herramientas de apoyo al estudio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
