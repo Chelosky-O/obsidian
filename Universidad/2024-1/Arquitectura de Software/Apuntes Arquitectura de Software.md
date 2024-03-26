@@ -167,8 +167,6 @@ Los sistemas de electricidad y celulares están diseñados parra los 5 9´s
 
 El mes pasado, AT&T la red celular tuvo 11 horas caído.
 
-## Arquitecturas de Software Genéricas
-
 
 
 
