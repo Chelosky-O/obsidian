@@ -147,6 +147,7 @@ Componentes aparte de bdd, modulos que controlan el acceso a los datos y que per
 
 Ej: Registro civil, sistema de cedula de identidad, pasaporte etc...
 Canvas
+Github
 
 - Ventajas:
 	- Modo eficiente de compartir datos
@@ -157,6 +158,20 @@ Canvas
 	- Difícil cambio del modelo de datos
 	- Política centralizada de administración
 	- Punto único de falla → El mas critico
+# 26-03
+
+**Control Viernes 5**
+
+
+Los sistemas de electricidad y celulares están diseñados parra los 5 9´s
+
+El mes pasado, AT&T la red celular tuvo 11 horas caído.
+
+## Arquitecturas de Software Genéricas
+
+
+
+
 
 
 
