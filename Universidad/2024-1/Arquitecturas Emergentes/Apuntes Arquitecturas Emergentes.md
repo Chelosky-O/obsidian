@@ -93,3 +93,49 @@ Contenedores.
 
 
 
+---
+---
+
+# 28-03
+
+## Desafios IoT
+
+### Escala
+
+Una red típica soporta del orden de miles de nodos
+Una red IoT debe soportar millones de dispositivos
+
+Una cosa puede ser sensor y otra actuador. 
+Sensor → 
+Actuador → Se ejerce una acción a propósito de lo que se sensó.
+
+---
+### Big data y Analítica
+- Generación de un diluvio de datos de diferentes fuentes de información.
+- Debe manejarse o administrarse de manera eficiente.
+-  Datos proveen información crítica y hallazgos importantes.
+
+---
+
+### Privacidad
+
+- El uso de dispositivos IoT es cada vez más masivo.
+- Capturan y recolectan datos asociados a individuos y a sus actividades o comportamientos.
+
+---
+### Interoperabilidad
+
+- Proceso de estandarización de protocolos y arquitecturas
+- Basados en tecnología abierta y/o propietaria.
+- Incorporar sistemas o dispositivos heredados (legacy).
+
+---
+
+### Seguridad
+
+- 
+
+
+
+
+
