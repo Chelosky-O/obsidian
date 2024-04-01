@@ -133,8 +133,13 @@ Actuador → Se ejerce una acción a propósito de lo que se sensó.
 
 ### Seguridad
 
-- 
+- Riesgo transversal a todo nivel de una red IoT
+- Dispositivos o nodos están físicamente expuestos.
 
+---
+
+### oneM2M
+Es un proyecto de asociacion
 
 
 

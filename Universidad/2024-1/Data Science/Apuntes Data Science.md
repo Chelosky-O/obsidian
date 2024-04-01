@@ -454,3 +454,38 @@ Sin embargo, no te rindes y sigues trabajando en mejorar tu algoritmo. Finalment
 
 
 ---
+
+
+# 01-04
+
+## Regularización
+- Es un concepto importante en el aprendizaje automático que se utiliza para prevenir el sobreajuste.
+- Se aplica principalmente cuando tienes un modelo con demasiados parámetros o características, lo que podría hacer que e modelo se ajuste demasiado a los datos de entrenamiento y no generalice bien a nuevos datos.
+- Dos métodos comunes de regularización:
+	- Regularización L1(Lasso): Agrega la suma de los valores absolutos de los coeficientes como término de penalización.
+	- Regularización L2 (Ridge): Agrega la suma de los cuadrados de los coeficientes como término de penalización. Esto penaliza los valores extremos , pero no los fuerza a ser exactamente cero.
+
+El **Análisis de Componentes Principales** (PCA) es una técnica que se utiliza para reducir la dimensionalidad de un conjunto de datos, especialmente cuando tienes muchos atributos o características (dimensiones) y deseas simplificarlos sin perder demasiada información.
+
+---
+
+La idea principal detrás de PCA es encontrar las direcciones en las que los datos tienen la mayor variabilidad. Estas direcciones se llaman "componentes principales". PCA calcula estos componentes principales y los ordena según la cantidad de variabilidad que representan, de modo que el primer componente principal captura la mayor cantidad de variabilidad en los datos, el segundo componente principal captura la segunda mayor cantidad de variabilidad, y así sucesivamente.
+
+---
+
+1. Calcula la matriz de covarianza de los datos. Esto ayuda a comprender cómo las diferentes características están relacionadas entre sí.
+    
+2. Encuentra los vectores propios (eigenvectores) y los valores propios (eigenvalores) de la matriz de covarianza. Los eigenvectores representan las direcciones de máxima variabilidad, y los eigenvalores indican cuánta variabilidad se encuentra en esas direcciones.
+    
+3. Ordena los eigenvectores en función de los eigenvalores de mayor a menor. Esto determina el orden de importancia de los componentes principales.
+    
+4. Elige cuántos componentes principales deseas retener (por ejemplo, los dos o tres primeros). Esto dependerá de tus objetivos y de cuánta información quieras conservar.
+    
+5. Proyecta los datos originales en el espacio definido por los componentes principales seleccionados. Esto reduce la dimensionalidad de los datos.
+    
+6. Los datos proyectados en el nuevo espacio de componentes principales son los resultados del PCA. Puedes utilizarlos para el análisis, la visualización o el modelado posterior.
+    
+
+PCA simplifica los datos encontrando las direcciones de máxima variabilidad y proyectando los datos en un espacio de dimensiones reducidas, donde las dimensiones principales capturan la mayor parte de la información. Esto facilita la interpretación y el análisis de los datos, así como la reducción del ruido y la redundancia en los conjuntos de datos de alta dimensionalidad.
+
+Las transformaciones de **Box y Cox** son una familia de transformaciones potenciales usadas en estadística para corregir sesgos en la distribución de errores, para corregir varianzas desiguales (para diferentes valores de la variable predictora) y principalmente para corregir la no linealidad en la relación (mejorar correlación entre las variables).
