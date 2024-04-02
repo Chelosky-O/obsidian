@@ -144,3 +144,21 @@ Es un proyecto de asociacion
 
 
 
+
+
+# 01-04
+
+Entidad de Aplicación:
+
+- Representa la lógica del servicio de aplicación 
+- Cada lógica de servicio de aplicación puede residir en varios nodos y/o más de una vez en un solo nodo.
+
+Entidad de Servicios comunes:
+
+- Representa la instancia de un conjunto de funciones de servicios comunes (CSF)
+- Un CSE es en realidad la entidad que contiene la colección de funciones de servicio comunes especificadas por oneM2M que los AE pueden usar.
+
+Pub - Sub : 1 dispositivo iot no necesita tener dirección ip asignada, se conecta a una capa de red tal que es capaz de conectarse con una especie de aforo virtual y ahí se publican y leen avisos.
+
+Entidad de Servicios de red
+- Una entidad de servicios de red proporciona servicios de la red subyacente a los CSEs
