@@ -89,7 +89,7 @@ Los bancos dejan de atender los usuarios, tienen un proceso donde hacen la cuadr
 - Integrabilidad: 
 	- Agregación → 
 	- Interoperable → 
-	- API'S → Poder usar otros sistemas a través de las funcionalidadegits
+	- API'S → Poder usar otros sistemas a través de las funcionalidades
 - Portabilidad: NO existe, el sistema que corra en mac y si lo tomo tal cual a linux y va a correr sin ningún problema, luego en otra windows y va a correr sin problemas, eso no es cierto. 
 	- Independencia de plataforma → 
 - Verificabilidad: Autochekeo que hace el sistema, los nuevos autos tienen sensores que te avisan de todas, es verificable. Que tenga elementos de auto
