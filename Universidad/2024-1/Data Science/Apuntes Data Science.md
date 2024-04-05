@@ -182,8 +182,7 @@ La entropía es mínima. En ese caso lo que no hay es varianza.
 
 
 
-# 21-03
-#clase4
+# 21-#clase4
 ¿Cuándo cambiar los conjuntos Dev/Test y las métricas?
 
 DataWareHouse → conjunto de sv donde hay un conjunto de bd.

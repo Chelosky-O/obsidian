@@ -484,9 +484,38 @@ La UDP es una universidad que va en crecimiento pero debería preocuparse por el
 
 Luego de esto se hace la matriz de FODA dice como estoy hoy para declarar la misión.
 
+**Matriz FODA**
+
+|               | Fortalezas                                                                                                                                        | Debilidades                                                                                                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Oportunidades | EST FO<br>maxi - maxi<br>Estrategia Ofensiva: Con mis fortalezas aprovecho mis oportunidades<br><br>8-7                                           | EST DO<br>mini - maxi<br>Estrategia Reorientación:<br>Las debilidades son fuertes, más que la fortaleza, pero las oportunidades son muchas.<br><br>4-7                                                             |
+| Amenazas      | EST FA<br>maxi - mini<br>Estrategia Defensiva: tengo fortalezas y las amenazas son mas fuertes, con la fortalezas evito a las amenazas<br><br>8-4 | EST DA<br>mini - mini<br>Estrategia Supervivencia: Después de hacer un análisis lo que tengo más son debilidades y amenazas, estoy bien perdido, hay que hacer una acción para salvarla o chao quiebra.<br><br>4-4 |
+Generalmente las empresas caen en 2 cuadrantes como mínimo.
+
+Una empresa debería hacer ambas estrategias.
+
+En el caso anterior tenemos F 8 y O 7
+
+**Estrategia ofensiva**
+
+Con la acreditación hago que la gratuidad sea mayor por ej
+
+**Estrategia Defensiva**
+Se potencian Fortalezas, pero las amenazas no las voy a cambiar, pero en la ofensiva ya estamos trabajando las fortalezas
+
+**Estrategia Reorientación**
+Las oportunidades ya las estoy aprovechando con la ofensiva, pero no se están trabajando.
+
+**Estrategia Supervivencia**
+
+LO MAS IMPORTANTE DE UNA EMPRESA ES SALVAR SUS DEBILIDADES
 
 
-|               | Fortalezas | Debilidades |
-| ------------- | ---------- | ----------- |
-| Oportunidades |            |             |
-| Amenazas      |            |             |
+Si hay recursos en primer lugar se hace una estrategia ofensiva → Las acciones que realiza la empresa deben potenciar las fortalezas para aprovechar las oportunidades
+
+Como segunda → Estrategia de reorientación → En la cual trabajare mis debilidades para seguir aprovechando las oportunidades
+
+Y como tercera si se llega a tener recursos → Vemos si trabajando las fortalezas también puedo lograr evitar las amenazas .
+
+HASTA AQUI ENTRA CONTROL
+DESDE PLANIFICACIÓN ESTRATEGICA A AHORA.
