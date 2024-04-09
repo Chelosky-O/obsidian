@@ -182,7 +182,8 @@ La entropía es mínima. En ese caso lo que no hay es varianza.
 
 
 
-# 21-#clase4
+# 21-03
+#clase4
 ¿Cuándo cambiar los conjuntos Dev/Test y las métricas?
 
 DataWareHouse → conjunto de sv donde hay un conjunto de bd.
@@ -488,3 +489,7 @@ La idea principal detrás de PCA es encontrar las direcciones en las que los dat
 PCA simplifica los datos encontrando las direcciones de máxima variabilidad y proyectando los datos en un espacio de dimensiones reducidas, donde las dimensiones principales capturan la mayor parte de la información. Esto facilita la interpretación y el análisis de los datos, así como la reducción del ruido y la redundancia en los conjuntos de datos de alta dimensionalidad.
 
 Las transformaciones de **Box y Cox** son una familia de transformaciones potenciales usadas en estadística para corregir sesgos en la distribución de errores, para corregir varianzas desiguales (para diferentes valores de la variable predictora) y principalmente para corregir la no linealidad en la relación (mejorar correlación entre las variables).
+
+# 08-04
+
+Objetivos y metricas

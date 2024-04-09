@@ -519,3 +519,41 @@ Y como tercera si se llega a tener recursos → Vemos si trabajando las fortalez
 
 HASTA AQUI ENTRA CONTROL
 DESDE PLANIFICACIÓN ESTRATEGICA A AHORA.
+
+# 09-04
+
+Fayol dice que la sexta función es la ADMINISTRACIÓN:
+- Planificación
+- Organización
+- Dirección
+- Controlar
+
+También esta la  funciones de Contabilidad → Finanzas, Producción
+
+Que es el Marketing: Es el que estimula la necesidad de algo para que compre a través de todo lo que sea publicidad.
+
+Marketing nace con muchos pasos hasta que logra investigar en el mercado → Conjunto de consumidores. Cuando yo defino como empresa vender un producto o servicio que va a impactar al entorno, político, mercado, etc... 
+
+ - Donde esta la necesidad?
+
+Todos los pasos están en "Que es marketing?" en CANVAS
+
+----
+Como se llama la diversidad de un mismo producto?
+
+Mercados de las colas.
+
+COCACOLA UN 60% PEPSI 30% OTRAS 10%
+
+Estos son segmentos.
+
+El mercado se divide en segmentos, para saber si la gente me lo va a comprar, si la gente está dispersa etc...
+
+Existen distintos factores
+
+- Factores culturales
+- Factores sociales
+- Factores que afectan al consumidor directamente
+- 
+
+Hay Nichos, 
