@@ -591,7 +591,7 @@ EJ UDP
 - Ciclo de vida → 
 
 ### Psicográfico
-- Estilo de vida
+- Estilo de vida → ESTUDIANTE
 
 ### Comportamiento
 - De compra
