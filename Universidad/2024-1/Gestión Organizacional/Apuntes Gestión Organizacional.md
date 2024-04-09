@@ -549,11 +549,50 @@ Estos son segmentos.
 
 El mercado se divide en segmentos, para saber si la gente me lo va a comprar, si la gente está dispersa etc...
 
+El marketing es donde esta la necesidad.
+
 Existen distintos factores
 
 - Factores culturales
+	- Cultura → Todos somos chilenos
+	- Subcultura → Todos somos chilenos
+	- Clase social
 - Factores sociales
+	- Grupo de referencia → A quien yo miro sigo
+	- Familia → Soy solo o tengo 4 familiares etc...
+	- Roles Status → 
 - Factores que afectan al consumidor directamente
-- 
+	- Edad
+	- Ocupación
+	- Ciclo de vida
+	- Estilo de vida
+	- Personalidad
+- Factores psicológicos
+	- Motivación → Cuan motivado esta la persona
+	- Creencias
+	- Percepción
+	- Aprendizaje
 
-Hay Nichos, 
+
+Con todo estoc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
