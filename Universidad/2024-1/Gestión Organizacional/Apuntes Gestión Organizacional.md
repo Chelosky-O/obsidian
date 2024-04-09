@@ -588,7 +588,7 @@ EJ UDP
 - Sexo → indefinido
 - Edad → 16 -25
 - Ingreso → Medio
-- Ciclo de vida → 
+- Ciclo de vida → Familiar
 
 ### Psicográfico
 - Estilo de vida → ESTUDIANTE
