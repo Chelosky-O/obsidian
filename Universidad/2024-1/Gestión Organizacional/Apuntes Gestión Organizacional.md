@@ -574,25 +574,23 @@ Existen distintos factores
 	- Aprendizaje
 
 
-Con todo estoc
+## Segmentación
+
+Como puedo ordenar a mi comprador
 
 
+### Geográfico
+- Pais
+- Ciudad
+- 
+
+### Demográfico
 
 
+### Psicográfico
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+### Comportamiento
 
 
 
