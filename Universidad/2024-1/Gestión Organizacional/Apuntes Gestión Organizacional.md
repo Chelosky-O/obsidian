@@ -578,19 +578,27 @@ Existen distintos factores
 
 Como puedo ordenar a mi comprador
 
-
+EJ UDP
 ### Geográfico
-- Pais
-- Ciudad
-- 
+- Pais → Chile
+- Region → Serena a rancagua
+- Comuna → 
 
 ### Demográfico
-
+- Sexo → indefinido
+- Edad → 16 -25
+- Ingreso → Medio
+- Ciclo de vida → 
 
 ### Psicográfico
-
+- Estilo de vida
 
 ### Comportamiento
-
+- De compra
+	- Por ejemplo compra
+		- Diaria
+		- Mensual
+		- *Expedita
+		- Habitual
 
 
