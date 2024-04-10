@@ -407,33 +407,33 @@ Se utiliza mucho en las empresas
 SE MARCAN LAS MAS IMPORTANTES
 - Fortaleza (Empresa) 4
 	- *Habilidades matemáticas y física.*
-	- *Disciplina
+	- *Disciplina*
 	- Gran interés
 	- Habilidades Lógica
-	- *Ser autodidacta
+	- *Ser autodidacta*
 	- Capacidad de solucionar problemas rápidamente.
-	- *Perseverancia
+	- *Perseverancia*
 - Oportunidades (Entorno) (PEST)3
 	- La Gratuidad
 	- $\Delta-$ Inflación
 	- $\Delta+$ del empleo
-	- *Becas
-	- *Que existan muchas instituciones de educación superior que ofrecen la carrera.
-	- *Que existan instituciones en distintos puntos de la capital
+	- *Becas*
+	- *Que existan muchas instituciones de educación superior que ofrecen la carrera.*
+	- *Que existan instituciones en distintos puntos de la capital*
 - Debilidades (Empresa) 1
-	- *Problema en la educación media en el área matemática y física
+	- *Problema en la educación media en el área matemática y física*
 	- Habilidades comunicacional
 	- Problema con el equilibrio mental
 	- No manejar otro idioma
-	- *Tener que trabajar
+	- *Tener que trabajar*
 	- Enfermedades
 	- Falta capacidad adaptación
 - Amenazas (Entorno) (PEST) 3
-	- *Que los puntajes suban mucho
-	- *$\Delta+$ Arancel
+	- *Que los puntajes suban mucho*
+	- *$\Delta+$ Arancel*
 	- Que $\Delta-$ la oportunidad del área
 	- La competencia para ingresar
-	- *$\Delta-$ de vacantes
+	- *$\Delta-$ de vacantes*
 
 De acuerdo al análisis realizado es factible que la persona estudie ingeniería civil, pero la persona si tiene la debilidad del problema área matemática y física. 
 
@@ -442,41 +442,41 @@ Foda de la diego portales
 
 
 - Fortaleza (E) 8
-	- *Planificación 2022-2026
-	- *Acreditación por 6 años
-	- *Posee gratuidad
-	- *Prestigio
-	- *Diversidad de carreras
-	- *Ubicación de UDP
-	- *Buena posición en el Ranking como UDP
+	- *Planificación 2022-2026*
+	- *Acreditación por 6 años*
+	- *Posee gratuidad*
+	- *Prestigio*
+	- *Diversidad de carreras*
+	- *Ubicación de UDP*
+	- *Buena posición en el Ranking como UDP*
 	- Infraestructura
-	- *Indumentaria tecnológica buena.
+	- *Indumentaria tecnológica buena.*
 	- Política de Intercambio
 - Oportunidades (Entorno) PEST 6
-	- *Locomoción y muchas vías viales
-	- *Disponibilidad de distintos tipos de vivienda
-	- *Disponibilidad Muchos lugares para alimentarse
-	- *Estado ofrece pase escolar.
+	- *Locomoción y muchas vías viales*
+	- *Disponibilidad de distintos tipos de vivienda*
+	- *Disponibilidad Muchos lugares para alimentarse*
+	- *Estado ofrece pase escolar.*
 	- Muchas áreas verdes en el sector
-	- *Política estatal de acreditación que certifica la calidad de las instituciones de Educación Superior.
-	- *Bancos permiten créditos
+	- *Política estatal de acreditación que certifica la calidad de las instituciones de Educación *Superior.
+	- *Bancos permiten créditos*
 - Debilidades (E) 5
-	- *Arancel muy alto
+	- *Arancel muy alto*
 	- Horario de clases sin colación
-	- *Tamaño de las facultades
-	- *Falta de áreas verdes
-	- *La App que se cae
-	- *No tenia estacionamiento
+	- *Tamaño de las facultades*
+	- *Falta de áreas verdes*
+	- *La App que se cae*
+	- *No tenia estacionamiento*
 	- No tenga un campo único
 - Amenazas (Entorno) PEST 4
-	- *$\Delta+$ de la delincuencia
+	- *$\Delta+$ de la delincuencia*
 	- Falta de Policía
 	- Falta de profesores
-	- *$\Delta+$ de competencia de otras U.
+	- *$\Delta+$ de competencia de otras U.*
 	- $\Delta+$ sueldo mínimo
 	- $\Delta-$ a 40 horas.
-	- *$\Delta+$ 6% empleador para las cotizaciones
-	-  *$\Delta+$ Inflación
+	- *$\Delta+$ 6% empleador para las cotizaciones*
+	-  *$\Delta+$ Inflación*
 
 FODA sin conclusión no tiene puntaje
 
