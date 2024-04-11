@@ -203,3 +203,14 @@ Analice el siguiente parrafo indicando y corrigiendo los errors:
 	- Objetos distribuidos
 	- Arquitectura orientada a servicios
 	- Arquitectura Cloud 
+
+
+# 09-04
+
+Que componente tiene SOA : BUS y Servicios
+
+En SOA se pueden reutilizar los servicios
+SOA tiene un bus donde se comunican todos sus servicios
+
+
+

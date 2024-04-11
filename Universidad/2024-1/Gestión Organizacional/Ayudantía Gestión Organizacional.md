@@ -236,3 +236,35 @@ Homeostasis: No se sabotean entre compañías, La gente requería mas velocidad,
 Equifinalidad:  Distintas formas para motivar a personas a cambiar a 5g, a proveer 5g.
 
 Recursividad: Los equipos, las compañias, marketing hacen a cambiar a 5g.
+
+# 11-04
+
+## Repaso C2
+
+### Planificación estratégica
+
+Misión
+Visión
+Objetivos generales
+Objetivos específicos
+Meta
+
+Planificar objetivos y establecer objetivos
+
+---
+PEST → Análisis de entorno
+
+Política → Ley x
+Económico → Inflación
+Social → A la gente le gusta x cosa dependiendo del caso
+Tecnológico  → Avance tecnológica  permite optimizar procesos, conectividad, etc...
+
+
+---
+FODA → 
+Fortaleza empresa
+Oportunidad entorno
+Debilidad empresa
+Amenaza entorno
+
+Tiene que tener conclusión

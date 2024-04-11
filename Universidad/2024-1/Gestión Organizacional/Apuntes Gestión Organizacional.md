@@ -601,3 +601,6 @@ EJ UDP
 		- *Expedita
 		- Habitual
 
+
+Que entra en la prueba del viernes:
+
