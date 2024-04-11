@@ -271,3 +271,45 @@ Amenaza entorno
 Tiene que tener conclusión
 
 ---
+Es una síntesis del FODA
+
+Estrategias que puede tomar la empresa
+
+También lleva su propia conclusión
+
+---
+Actividad: 
+[Ganancias de Mall Plaza se duplicaron el tercer trimestre - La Tercera](https://www.latercera.com/pulso/noticia/ganancias-de-mall-plaza-se-duplicaron-y-flujo-de-visitas-subio-5-el-tercer-trimestre/XYZNBQPNVJCMNOMTF5KQFSLFCA/)
+
+- Visión:
+Ser el mall más visitado de la región
+- Misión:
+Expandir mi centro comercial un 20% en presencia nacional
+- Obj General:
+Abrir mas tiendas o ampliar sucursales
+- Obj Especifico:
+avaluar vías de financiamiento
+- Metas:
+Hacer campañas de marketing y publicidad
+
+PEST
+
+POLITICO
+(-)LEY 40 HORAS
+(-)Aumento sueldo minimo
+
+ECONOMICO
+-INFLACION
+-recesión
++-fluctuacion del dolar
+
+SOCIAL
+-Aumento delincuencia
++a la gente le gusta ir al mall
+(-) aumento gusto por comprar online
+
+tecnológico
+
+---
+FODA
+

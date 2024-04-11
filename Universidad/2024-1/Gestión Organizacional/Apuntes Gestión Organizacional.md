@@ -389,14 +389,6 @@ Tecnológico
 	(-) La existencia de plataformas educacionales. → Pueden haber universidades solo online lo que hace que haya mas competencia a la UDP.
 	(+) Permite la creación de herramientas de apoyo al estudio.
 
-
-
-
-
-
-
-
-
 # 02-04
 
 Pest → Análisis entorno
