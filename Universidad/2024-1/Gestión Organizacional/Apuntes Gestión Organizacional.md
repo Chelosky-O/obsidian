@@ -655,7 +655,11 @@ Cuando la persona se quiere ir, se jubila, se cambia o despide
 
 ---
 ## Finanzas
-Otra área funcional
+Otra área funcional.
+
+Leer pero no importa para solemne. Cultura general
+
+VIERNES Y MARTES para trabajo :D 
 
 
 
