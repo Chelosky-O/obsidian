@@ -217,4 +217,134 @@ SOA tiene un bus donde se comunican todos sus servicios
 
 
 # 12-04
+## Arquitectura SOA
+**Ejercicio -SOA**:
+Un banco requiere un sistema para manejar las cuentas corrientes de sus clientes el que debe comtemplar las siguientes operaciones:
+- Consulta del saldo de una cuenta
+- Deposito en una cuenta
+- Giro desde una cuenta
+- Transferencia entre cuentas
+Se pide definir este sistema utilizando la arquitectura SOA.
+
+1. Paso 1: Identificar los servicios. Por lo menos son 4 servicios, ya que se puede incluir un servicio de base de datos(este servicio se conecta directamente a la base de datos) o servicios que son utilizados por los 4 servicios principales (recordar que si un servicio quiere solicitar a otro servicio debe pasar por el Bus)
+	1. Servicio de transferencias
+	2. Servicio de Giros
+	3. Servicio de Depósitos
+	4. Servicio de consulta saldo
+2. Paso 2: Definir las transacciones que se procesarán cada uno de los servicios:
+	1. Servicio de consulta de saldos:
+		1. INPUT
+			1. COSAL
+			2. Cuenta destino
+		2. OUTPUT
+			1. COSAL
+			2. Monto Saldo
+			3. Resultado Consulta Saldo
+	2. Servicio de Depositos
+		1. INPUT
+			1. DEPOS
+			2. Cuenta Origen
+			3. Monto
+		2. OUTPUT
+			1. DEPOS
+			2. Monto Nuevo Saldo
+			3. Resultado Deposito
+	3. Servicio de giros: debe hacer uso del servicio de consulta de saldo mediante el bus para saber si es posible hacer un giro, luego realiza el giro
+	4. Servicio de transferencias: Debe realizar un giro y el giro a su vez debe hacer una consulta de saldo y luego debe hacer un deposito y para esto debe hacer uso del servicio de deposito todo esto mediante el bus
+		1. INPUT:
+			1. TRANS
+			2. Cuenta Origen
+			3. Cuenta Destino
+			4. Monto a Transferir
+		2. OUTPUT:
+			1. TRANS
+			2. Monto Nuevo Saldo Cuenta Origen
+			3. Resultado Transferencia
+3. Paso 3: Especificar las interacciones entre los servicios
+	1. Servicio de giros
+		1. Servicio de consulta de saldos
+	2. Servicio de deposito
+		1. Servicio de consulta de saldos
+	3. Servicio de transferencias
+		1. Servicio de consulta de saldos
+		2. Servicio de giros
+		3. Servicio de depositos
+4. Paso 4: Definir el modelo de datos
+5. Paso 5: Especificar el funcionamiento de cada servicio
+6. Paso 6: Definir la interfaz de usuario
+7. Pasos siguientes: Codificar, Probar, etc.
+# 16-04
+
+ CONTROL REVISION
+2 
+ 1ra mas importante → Capacidad de diseño
+ 2da → Buena comunicación cliente y equipo técnico
+ 3ra → Tecnologia
+3
+confiabilidad pq hay que tener mecanismo o redundancia en caso de caida
+Seguridad
+soportabilidad
+portabilidad
+verificabilidad
+
+
+---
+
+## SOA
+
+Cada servicio implementa 1 funcionalidad
+
+Cada vez que identificamos sus servicios vemos la interfaz del servicio
+la transacción que in y out
+
+BUS esta en docker que acepta conexion en puerto 5000, con protocolo TCP/IP
+
+Para una transaccion de hola mundo
+
+Deberia ser
+
+#### TX in: transaccion de requerimiento
+
+| LARGO | SERVI | DATOS DEL REQUERIMIENTO |
+| ----- | ----- | ----------------------- |
+
+En el caso de hola mundo seria:
+
+| 00017 | HOLAS | HOLA MUNDO!! |
+| ----- | ----- | ------------ |
+
+#### TX out: transacción de respuesta del servicio
+
+| LARGO | SERVI | DATOS DE LA RESPUESTA |
+| ----- | ----- | --------------------- |
+
+#### TX out: transaccion de respuesta del bus
+
+| LARGO | SERVI | ST  | DATOS DE LA RESPUESTA |
+| ----- | ----- | --- | --------------------- |
+ST : STATUS DE LA TRANSACCION OK:CORRECTA NK:ERRONEA
+
+---
+## Servicio
+
+Servicio no tiene idea de los clientes, su unico contacto es con el BUS
+
+Como sabe el bus si un programa es un servicio? por que debe enviar una transaccion sinit → Service init
+
+
+El programa sumar le dice hola soy el servicio sumar
+
+Sumar envía a BUS 00010sinitsumar (se queda esperando) → Bus recibe y luego responde en el BUS 00012sinitOKsumar y lo toma sumar
+
+TCP connect - TCP send - TCP recv ⇒ sinit
+
+TCP recv - x - TCP send
+
+calc es el programa que ve el cliente
+
+bg → background → deja a lo stopeado con (ctrl + z) y queda por detras
+
+ps → procesos
+
+kill PID mata a los procesos
 

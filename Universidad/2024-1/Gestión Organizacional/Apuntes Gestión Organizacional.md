@@ -661,18 +661,6 @@ Leer pero no importa para solemne. Cultura general
 
 VIERNES Y MARTES para trabajo :D 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+7´S → SE DEBE **PONDERAR**
 
 
