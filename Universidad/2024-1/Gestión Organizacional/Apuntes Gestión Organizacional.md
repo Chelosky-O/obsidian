@@ -633,4 +633,4 @@ A cada unidad que necesite algo, un **Perfil de cargo** debe hacer,
 Lo que la persona requiere mientras está trabajando en la empresa, que paguen sueldo, cotizaciones afp isapres, que tenga vacaciones , que tenga una fiesta infantil para hijos, etc políticas de la empresa.
 
 ### Egreso
-Cuando la persona se quiere ir, se jubila, se cambia
+Cuando la persona se quiere ir, se jubila, se cambia.
