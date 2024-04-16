@@ -629,6 +629,10 @@ Ahí parte la tarea.
 ### Obtención
 A cada unidad que necesite algo, un **Perfil de cargo** debe hacer, 
 
+1. Rol (Cargo): Lo da la unidad que lo necesita, el sueldo etc
+2. Reclutamiento: Que canal voy a usar para buscar
+3. Selección: Se puede contratar una empresa para que elija al mejor.
+4. Inducción: Presentación de empresa a persona a contratar.
 ### Mantención y Desarrollo
 Lo que la persona requiere mientras está trabajando en la empresa, que paguen sueldo, cotizaciones afp isapres, que tenga vacaciones , que tenga una fiesta infantil para hijos, etc políticas de la empresa.
 
