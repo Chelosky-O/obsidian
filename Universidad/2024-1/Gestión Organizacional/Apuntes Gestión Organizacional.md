@@ -632,9 +632,18 @@ A cada unidad que necesite algo, un **Perfil de cargo** debe hacer,
 1. Rol (Cargo): Lo da la unidad que lo necesita, el sueldo etc
 2. Reclutamiento: Que canal voy a usar para buscar
 3. Selección: Se puede contratar una empresa para que elija al mejor.
-4. Inducción: Presentación de empresa a persona a contratar.
+4. Inducción: Presentación de empresa a persona a contratar. → Contratación
 ### Mantención y Desarrollo
 Lo que la persona requiere mientras está trabajando en la empresa, que paguen sueldo, cotizaciones afp isapres, que tenga vacaciones , que tenga una fiesta infantil para hijos, etc políticas de la empresa.
+
+En primer lugar las compensaciones
+Capacitación y desarrollo → Esto va asociada a una carrera laboral y una evaluación de potencial
+Evaluación de desempeño
+Evaluación de potencial
+Bienestar y beneficios
+Relaciones laborales
+Seguridad
+Carrera Laboral
 
 ### Egreso
 Cuando la persona se quiere ir, se jubila, se cambia.
