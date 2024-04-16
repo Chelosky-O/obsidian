@@ -596,3 +596,41 @@ EJ UDP
 
 Que entra en la prueba del viernes:
 
+
+
+# 16-04
+
+1 MINUTO 1 PUNTO MENO
+30 MIN 2 PUNTO MENO
+HORA 3 PUNTO MENO
+
+---
+
+## Rol de la empresa moderna
+- Competitividad → 
+- Empleabilidad → Significa que yo me tengo que preocupar de estar siempre adaptada a las condiciones que tienen en la pega, aprender cosas nuevas, ADAPTATEE.
+- Calidad de vida → 
+
+El modelo de gestión es estudiar lo que es "Estrategia", lo que es estructura y cultura.
+
+Cultura → Paradigmas, filtros con los que se mire la realidad
+
+---
+## Función de Personal
+Esta unidad se dedica al ciclo de vida de personas.
+
+Desde que yo decido que necesito a alguien que desarrolle software y que etc...
+
+Esta descripción de cargo ⇒ Que va a hacer?
+
+La persona de la unidad de personal va a saber lo que va a hacer? No, no sabe
+Ahí parte la tarea. 
+
+### Obtención
+A cada unidad que necesite algo, un **Perfil de cargo** debe hacer, 
+
+### Mantención y Desarrollo
+Lo que la persona requiere mientras está trabajando en la empresa, que paguen sueldo, cotizaciones afp isapres, que tenga vacaciones , que tenga una fiesta infantil para hijos, etc políticas de la empresa.
+
+### Egreso
+Cuando la persona se quiere ir, se jubila, se cambia
