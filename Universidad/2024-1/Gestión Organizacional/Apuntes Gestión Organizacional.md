@@ -653,6 +653,20 @@ Cuando la persona se quiere ir, se jubila, se cambia o despide
 - Despido → Chao te fuiste, pagando lo legal
 - Outplacement → NO CONFUSIONES, él despido te despiden te vas. Outplacement es despido también te vas y no vuelves solo se hace en caso de puestos que lleva muchos años en el cargo, además tienen que ver con la cultura que ha generado en la empresa. Por ej un gerente que lleva 30 años y lo respetan etc... Ahora la empresa quiere a alguien nuevo, joven que traiga aires nuevos. Estos caballeros les falta por jubilar, etc. Al despedirlo, la gente dice que se creen estos, PARO PARO PARO. Entonces le dicen se va despedido pero, debido a que no quiero tener problemas en la  empresa, voy a despedirte bajo la condición de OUTPLACEMENT, o sea empresas que hay distintas oficinas, entonces en lugar de ir a la empresa ira a esta consultores para que lo ayude psicológicamente para enfrentar el despido, con una secretaria que le hace el cv. O sea se va con harta plata, en otra empresa consultora que lo ayuda.
 
+---
+## Finanzas
+Otra área funcional
+
+
+
+
+
+
+
+
+
+
+
 
 
 
