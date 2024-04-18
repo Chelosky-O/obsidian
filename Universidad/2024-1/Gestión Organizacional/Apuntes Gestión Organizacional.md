@@ -663,4 +663,3 @@ VIERNES Y MARTES para trabajo :D
 
 7´S → SE DEBE **PONDERAR**
 
-

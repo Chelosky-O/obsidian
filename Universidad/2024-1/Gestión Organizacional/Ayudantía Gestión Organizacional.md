@@ -420,7 +420,7 @@ Orientada a obtener de fuentes internas y externas, personas que puedan cumplir 
 
 ¿Dónde Busco? 
 	De forma externa.
-	De forma interna.
+	De forma interna. → Ligada a cosas de la empresa, búsqueda a través del correo de la empresa
 
 ¿Cómo reclutan?
 	Con CV, entrevistas técnica y/o psicológicas, test, etc.
@@ -451,3 +451,6 @@ Cuando la persona ya está reclutada como tal dentro de la empresa, se le realiz
 Es importante que se realice esta inducción.
 	En el pasado, no se hacía.
 	En la actualidad, tiene mucha más importancia y relevancia la inducción.
+
+---
+
