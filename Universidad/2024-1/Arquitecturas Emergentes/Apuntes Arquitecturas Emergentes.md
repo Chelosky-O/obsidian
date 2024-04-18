@@ -162,3 +162,15 @@ Pub - Sub : 1 dispositivo iot no necesita tener dirección ip asignada, se conec
 
 Entidad de Servicios de red
 - Una entidad de servicios de red proporciona servicios de la red subyacente a los CSEs
+
+
+# 18-04
+
+Solemne entre hasta HOY PPT 12 - PARTE 4
+
+Sabado ZOOM 2 ejercicios tipo problema
+
+calculo de ppt en inicio 
+equipo 2 fuentes de poder 2 tarjeas madre y varias tarjetas de red
+
+---
