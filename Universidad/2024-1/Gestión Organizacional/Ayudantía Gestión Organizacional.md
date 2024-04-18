@@ -313,3 +313,141 @@ tecnológico
 ---
 FODA
 
+
+
+# 18-04
+
+Ayudantía 6
+
+Administración financiera nace en 1900
+
+## Enfoques empresarales
+### Enfoque orientado a las ventas
+
+Politicas agresivas hacia consumidores
+Obliga a comprar productos que desean o solicitan
+
+### Enfoque orientado a Clientes o consumidor (EOC)
+
+1. Encontrar deseos, y no parar hasta satisfacerlos.
+2. Haz lo que se venderá en lugar de tratar de vender lo que haces.
+3. Amar al cliente y no al producto.
+4. El cliente es el dueño. 
+5. Convertir el dinero de los clientes en Valor, Calidad y Satisfacción.
+6. El cliente es el centro de las actividades, y todo se realiza pensando en él.
+
+#### Pasos/Ciclo del marketing
+
+1. Necesidades del consumidor.
+	- Fisiológicas, Seguridad, Sociales, etc.
+2. Estudio del mercado para conocerlas. 
+	- Conocer (1).
+3. Plan de Marketing Previo.
+4. Toma de decisiones.
+	- Si se puede fabricar o no, si es rentable comercialmente.
+5. Preparación de productos.
+	- Materiales, recursos, maquinaria, etc.
+6. Fabricación piloto.
+7. Prueba de mercado piloto.
+8. Modificaciones en la prueba.
+9. Producción a gran escala.
+10. Plan de Marketing Definitivo.
+	- Productos, precios, distribución y publicidad con foco de empezar las ventas.
+	- Proceso continuo, SIEMPRE debe estudiar si el producto SATISFACE las necesidades del consumidor.
+		- Si estas no se cumplen, se ven que CAMBIOS son necesarios. 
+11. Venta al Consumidor.
+12. Vuelta al principio.
+- Vuelta a punto 1 (Necesidades del consumidor).
+
+
+
+#### Departamento Finanzas
+
+
+- Lo más importante del departamento:
+	- Que el banco te considere.
+	- Obtención y uso de recursos (LA MÁS IMPORTANTE).
+		- Por favor, recuerden la más importante.
+- Trabaja o se enfoca principalmente en Balance, Estados de
+Resultados, Indicadores.
+
+
+
+### Segmentación
+La segmentación se hace en el estudio de marketing, cuando buscamos un nicho de mercado.
+- De un conjunto grande, obtener bloques o zonas pequeñas que en su total componen al conjunto grande.
+- La principal idea de segmentar, es que permite identificar al “público objetivo”.
+	- La empresa realiza la segmentación, para saber dónde realizar el “Esfuerzo” en los gastos.
+- Segmentación está dentro de los 12 pasos del Marketing.
+
+#### Tipos de Segmentación
+
+- Geográfica
+	- País, Regiones, Ciudad, Climas, etc.
+- Demográfica
+	- Descripción de lo que se requiere para llegar al nicho.
+	- “Mujeres”, “Hombres”,“Niños”, “Edad”, “Ciclo de Vida”, “Status”.
+- Psicográfica
+	- Características sobre el “perfil” del comprador.
+	- Características sobre el estilo de vida, valores, personalidad, etc.
+- Comportamiento
+	- Habla del comportamiento de compra (Habitual, esporádico, diario).
+	- Periodicidad de las ventas.
+
+## Ingreso Personal
+
+### Rol/Cargo
+
+- Posición de trabajo disponible, o solicitada por la empresa.
+
+También es posible que se solicite:
+
+- Conjunto de tareas y actividades que debe ejecutar y desarrollar la persona.
+
+Observación:
+
+- Roles -> Selección de candidatos aptos para el cargo, edad, profesión, competencia, etc.
+
+Debe contar con la siguiente estructura:
+- Cargo/Rol:
+	- Funcionalidades:
+	- Requisitos/Competencias:
+
+
+
+### Reclutamiento
+Orientada a obtener de fuentes internas y externas, personas que puedan cumplir con las necesidades y exigencias para las necesidades de las vacantes.
+
+¿Dónde Busco? 
+	De forma externa.
+	De forma interna.
+
+¿Cómo reclutan?
+	Con CV, entrevistas técnica y/o psicológicas, test, etc.
+
+Importante que indiquen ambas formas de búsqueda, explicando cada una de estas.
+
+### Selección
+
+Proceso de evaluación de variables físicas, conductuales, conocimiento, competencia, experiencias, etc.
+
+Acá sé verífica que los postulantes cumplan con las exigencias asociadas al cargo.
+	Mediante entrevistas, test psicológicos, etc.
+### Contratación
+
+Formaliza la relación de trabajo, mediante un contrato de trabajo.
+
+Contrato considera:
+	Aspectos legales, administrativos, reglamento interno de la empresa, etc.
+
+En resumen, es la firma de contrato, si se acepta o no.
+
+### Inducción
+
+Cuando la persona ya está reclutada como tal dentro de la empresa, se le realiza una inducción, en donde se presenta de manera más cercana e internamente puntos tales como:
+	Organigrama, oficina, equipo, etc.
+	Políticas, Normas, Cultura, Principios, Valores, etc.
+
+Es importante que se realice esta inducción.
+	En el pasado, no se hacía.
+	En la actualidad, tiene mucha más importancia y relevancia la inducción.
