@@ -413,7 +413,7 @@ SE MARCAN LAS MAS IMPORTANTES
 	- *Ser autodidacta*
 	- Capacidad de solucionar problemas rápidamente.
 	- *Perseverancia*
-- Oportunidades (Entorno) (PEST)3
+- Oportunidades (Entorno) (PEST) 3
 	- La Gratuidad
 	- $\Delta-$ Inflación
 	- $\Delta+$ del empleo
@@ -458,7 +458,7 @@ Foda de la diego portales
 	- *Disponibilidad Muchos lugares para alimentarse*
 	- *Estado ofrece pase escolar.*
 	- Muchas áreas verdes en el sector
-	- *Política estatal de acreditación que certifica la calidad de las instituciones de Educación *Superior.
+	- *Política estatal de acreditación que certifica la calidad de las instituciones de Educación Superior.*
 	- *Bancos permiten créditos*
 - Debilidades (E) 5
 	- *Arancel muy alto*
