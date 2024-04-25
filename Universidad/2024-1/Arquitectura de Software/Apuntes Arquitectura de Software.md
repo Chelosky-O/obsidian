@@ -170,9 +170,6 @@ El mes pasado, AT&T la red celular tuvo 11 horas caído.
 
 # 02-04
 
-<<<<<<< HEAD
-
-=======
 **Preguntas tipo control:**
 Analice el siguiente parrafo indicando y corrigiendo los errors:
 - El objetivo del requerimiento funcional de mantenibilidad es mantener operativo el sistema el mayor tiempo posible. **R:// esta definición es de confiabilidad**
