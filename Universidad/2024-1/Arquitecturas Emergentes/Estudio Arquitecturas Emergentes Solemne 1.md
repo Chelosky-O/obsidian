@@ -390,23 +390,115 @@ Considere un sistema que tiene una tarjeta madre y dos fuentes de alimentación
 redundantes. La tarjeta madre está disponible en un 99,994 por ciento y cada  
 una de las fuentes de alimentación está disponible en un 99,95 por ciento.
 
+#### Solución:
+En estos casos, aplique los criterios aprendidos en la teoría de circuitos sobre series y paralelos y el respectivo orden a ser resueltas.
 
+- Paso 1: Cálculo del paralelo de las fuentes
+$Disp\_fuentes=1-[(1-0.9995)(1-0.9995)]=0.99999975$
 
+- Paso 2: Cálculo de la serie entre la tarjeta madre y las fuentes redundantes
+$Disponibilidad\_sistema=0.99994\cdot0.99999975)=0.99993975$
 
+---
+## Diagramas de bloques de confiabilidad para el análisis de rutas
+Para realizar un análisis de ruta, suele ser una buena idea crear un diagrama de bloques de disponibilidad.
 
+Por ahora, consideraremos un ejemplo muy simple de conexión en red, usando un enrutador grande con componentes que no son cruciales para nuestros cálculos.
 
+Necesitamos eliminarlos de nuestros cálculos y realizar el análisis de disponibilidad para algo que nos importa. En la figura, un dispositivo de red grande está conectado a tres redes.
 
+[![Foo](https://i.imgur.com/xZrTojl.png)]
 
+Solo queremos saber la disponibilidad de la Red 1 a la Red 2. Por lo tanto, el hardware que admite la conexión a la Red 3 puede eliminarse de nuestros cálculos.
 
+Como puede ver en la figura, nuestro dispositivo incluye dos fuentes de alimentación redundantes denominadas Power 1 y Power 2.
 
+Se requieren varios pasos para calcular la disponibilidad de un dispositivo (o red) que tiene  
+componentes paralelos y seriales.  
+En este caso nuestros pasos son:  
+- Paso 1: Determinar la disponibilidad de cada componente  
+- Paso 2: Calcule la disponibilidad de las fuentes de alimentación duales.  
+- Paso 3: Multiplique la disponibilidad de todos los componentes con el resultado del Paso 2.
 
+#### Ejemplo
 
+[![Foo](https://i.imgur.com/xZrTojl.png)]
 
+Disp_fuentes = 99.9%
+Disp_MainBoard = 99.994%  
+Disp_Interface_cards = 99.95%
 
+##### Solución
+- Paso 1:
+$Disp\_power = 1-[(1-0.999)(1-0.999)] = 0.999999$
 
-
-
-
-
+- Paso 2:
+$Disp\_sistema = 0.999999 \cdot 0.99994 \cdot 0.9995 \cdot 0.9995$
+$Disp\_sistema = 0.998939$ → 99.8939%
 
 # Arquitecturas IOT Clase 6-12
+
+## Arquitecturas y Estándares
+
+### Desafíos de IOT
+
+- **Escala:
+	- Una red típica soporta del orden de miles de nodos
+	- Una red IoT debe soportar millones de dispositivos
+- **Datos/Analítica:
+	- Generación de un diluvio de datos de diferentes fuentes de información.
+	- Debe manejarse o administrarse de manera eficiente.
+	- Datos proveen información crítica y hallazgos importantes.
+- **Privacidad**
+	- El uso de dispositivos IoT es cada vez más masivo.
+	- Capturan y recolectan datos asociados a individuos y a sus actividades o comportamientos.
+- **Inter-Operabilidad**
+	- Proceso de estandarización de protocolos y arquitecturas.
+	- Basados en tecnología abierta y/o propietaria.
+	- Incorporar sistemas o dispositivos heredados (legacy).
+- **Seguridad**
+	- Riesgo transversal a todo nivel de una red IoT
+	- Dispositivos o nodos están físicamente expuestos.
+
+### oneM2M
+Es un proyecto de Asociación entre 8 Organizaciones líderes de Desarrollo de Estándares:
+
+- ICT (CCSA China Communications Standards Association)
+- TTA (Telecommunications Technology Association) 
+- ARIB (Association of Radio Industries and Business) 
+- TTC (Telecommunication Technology Committee of Japan) 
+- ETSI (European Telecommunications Standards Institute) 
+- ATIS (Alliance for Telecommunications Industry Solutions) 
+- TIA (Telecommunications Industry Association) 
+- TSDSI (India)
+Se han unido para lanzar una nueva organización para asegurar el despliegue de sistemas de comunicación M2M de una manera más eficiente.
+
+El objetivo de la organización es crear un estándar técnico global para la interoperabilidad con respecto a la arquitectura, las especificaciones de API y la seguridad para las tecnologías de máquina a máquina e IoT en función de los requisitos aportados por sus miembros.
+
+#### Arquitectura de oneM2M
+El modelo arquitectónico de oneM2M consiste en un modelo de 3 capas:
+- Aplicación 
+	- Representa la lógica del servicio de aplicación.
+	- Cada lógica de servicio de aplicación puede residir en varios nodos y/o más de una vez en un solo nodo.
+- Servicios Comunes
+	- Representa la instancia de un conjunto de Funciones de Servicios Comunes (CSF).
+	- Un CSE es en realidad la entidad que contiene la colección de funciones de servicio comunes especificadas por oneM2M que los AE pueden usar.
+- Servicios de Red
+	- Una entidad de Servicios de red proporciona servicios de la red subyacente a los CSEs.
+
+### Paradigma de Silos
+- Mercado muy fragmentado con aplicaciones específicas de proveedores limitadas 
+- Reinventando la rueda: los mismos servicios desarrollados una y otra vez 
+- Cada silo contiene sus propias tecnologías sin interoperabilidad
+
+### Capa de Servicio M2M
+- Plataforma de extremo a extremo: capa de capacidades de servicio común o common service capabilities layer (CSCL) 
+- Interoperabilidad a nivel de intercambios de datos y control a través de API estándar 
+- Interacción perfecta entre aplicaciones y dispositivos heterogéneos
+
+Middleware que permite el intercambio seguro de datos de extremo a extremo entre dispositivos M2M y aplicaciones de clientes, al proporcionar funciones para el aprovisionamiento y activación remotos, autenticación, cifrado, configuración de conectividad, almacenamiento en búfer, sincronización, agregación y administración de dispositivos.
+
+- Es una capa de software 
+- Se encuentra entre las aplicaciones M2M y la comunicación HW/SW que proporciona transporte de datos 
+- Normalmente se monta sobre IP 
+- Proporciona funciones que las aplicaciones M2M en diferentes segmentos de la industria comúnmente necesitan capa horizontal
