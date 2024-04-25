@@ -389,14 +389,6 @@ Tecnológico
 	(-) La existencia de plataformas educacionales. → Pueden haber universidades solo online lo que hace que haya mas competencia a la UDP.
 	(+) Permite la creación de herramientas de apoyo al estudio.
 
-
-
-
-
-
-
-
-
 # 02-04
 
 Pest → Análisis entorno
@@ -600,4 +592,74 @@ EJ UDP
 		- Mensual
 		- *Expedita
 		- Habitual
+
+
+Que entra en la prueba del viernes:
+
+
+
+# 16-04
+
+1 MINUTO 1 PUNTO MENO
+30 MIN 2 PUNTO MENO
+HORA 3 PUNTO MENO
+
+---
+
+## Rol de la empresa moderna
+- Competitividad → 
+- Empleabilidad → Significa que yo me tengo que preocupar de estar siempre adaptada a las condiciones que tienen en la pega, aprender cosas nuevas, ADAPTATEE.
+- Calidad de vida → 
+
+El modelo de gestión es estudiar lo que es "Estrategia", lo que es estructura y cultura.
+
+Cultura → Paradigmas, filtros con los que se mire la realidad
+
+---
+## Función de Personal
+Esta unidad se dedica al ciclo de vida de personas.
+
+Desde que yo decido que necesito a alguien que desarrolle software y que etc...
+
+Esta descripción de cargo ⇒ Que va a hacer?
+
+La persona de la unidad de personal va a saber lo que va a hacer? No, no sabe
+Ahí parte la tarea. 
+
+### Obtención
+A cada unidad que necesite algo, un **Perfil de cargo** debe hacer, 
+
+1. Rol (Cargo): Lo da la unidad que lo necesita, el sueldo etc
+2. Reclutamiento: Que canal voy a usar para buscar
+3. Selección: Se puede contratar una empresa para que elija al mejor.
+4. Inducción: Presentación de empresa a persona a contratar. → Contratación
+### Mantención y Desarrollo
+Lo que la persona requiere mientras está trabajando en la empresa, que paguen sueldo, cotizaciones afp isapres, que tenga vacaciones , que tenga una fiesta infantil para hijos, etc políticas de la empresa.
+
+En primer lugar las compensaciones
+Capacitación y desarrollo → Esto va asociada a una carrera laboral y una evaluación de potencial
+Evaluación de desempeño
+Evaluación de potencial
+Bienestar y beneficios
+Relaciones laborales
+Seguridad
+Carrera Laboral
+
+### Egreso
+Cuando la persona se quiere ir, se jubila, se cambia o despide
+
+- Rotación → Movimiento mercado empresa, entra a cargo o se va un cargo
+- Retiro → Llegue a mi vida laboral, me voy (3 meses de sueldo desgracias y así dependiendo de la política de la empresa)
+- Despido → Chao te fuiste, pagando lo legal
+- Outplacement → NO CONFUSIONES, él despido te despiden te vas. Outplacement es despido también te vas y no vuelves solo se hace en caso de puestos que lleva muchos años en el cargo, además tienen que ver con la cultura que ha generado en la empresa. Por ej un gerente que lleva 30 años y lo respetan etc... Ahora la empresa quiere a alguien nuevo, joven que traiga aires nuevos. Estos caballeros les falta por jubilar, etc. Al despedirlo, la gente dice que se creen estos, PARO PARO PARO. Entonces le dicen se va despedido pero, debido a que no quiero tener problemas en la  empresa, voy a despedirte bajo la condición de OUTPLACEMENT, o sea empresas que hay distintas oficinas, entonces en lugar de ir a la empresa ira a esta consultores para que lo ayude psicológicamente para enfrentar el despido, con una secretaria que le hace el cv. O sea se va con harta plata, en otra empresa consultora que lo ayuda.
+
+---
+## Finanzas
+Otra área funcional.
+
+Leer pero no importa para solemne. Cultura general
+
+VIERNES Y MARTES para trabajo :D 
+
+7´S → SE DEBE **PONDERAR**
 

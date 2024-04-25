@@ -492,4 +492,18 @@ Las transformaciones de **Box y Cox** son una familia de transformaciones pote
 
 # 08-04
 
-Objetivos y metricas
+Clase despues de 9 de mayo comienzan presentaciones y debemos tener datos y algo avanzado aunque sea malo
+
+Objetivos y metricas → ppt clase 11
+
+### Solemne 9 mayo
+Metricas, analisis exploratorios, resultados preliminares, limpieza de datos, overfitting, underfitting, etc... hasta visualizaciones sin incluir visualizaciones.
+
+## Visualizaciones
+Hay 2 tipos de visualizaciones
+- Como va el desempeño del trabajo
+- Visualizacion de resultado
+
+
+
+---
