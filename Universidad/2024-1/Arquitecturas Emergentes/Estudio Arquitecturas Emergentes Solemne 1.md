@@ -502,3 +502,247 @@ Middleware que permite el intercambio seguro de datos de extremo a extremo entre
 - Se encuentra entre las aplicaciones M2M y la comunicación HW/SW que proporciona transporte de datos 
 - Normalmente se monta sobre IP 
 - Proporciona funciones que las aplicaciones M2M en diferentes segmentos de la industria comúnmente necesitan capa horizontal
+
+---
+### Arquitecturas IOT
+
+- OneM2M
+- IoT World Forum
+- Industrial Internet Reference Architecture
+- Microsoft Azure
+- Amazon Web Services
+- Google Cloud Platform
+- IBM
+
+## Arquitectura IoT Simplificada
+
+- Existen diferencias considerables entre cada modelo, a veces orientadas a la industria donde son implementadas. 
+- Todos tienen un enfoque basado en capas. 
+- Permite el desarrollo de tecnologías y estándares de manera independiente entre niveles o dominios. 
+- Interconexión de dispositivos o nodos a una red de transporte de datos que son utilizados por aplicaciones. 
+- Procesamiento o computación distribuida en las capas.}
+
+### Objetivo:
+
+- Definición de bloques constructivos que sean:
+	- Fundamentales.
+	- Comunes entre distintas arquitecturas de referencia.
+	- Asistan al diseño de una red IoT.
+	- Agnósticos a la industria objetivo.
+
+### IoT Stacks o Pilas
+[![Foo](https://i.imgur.com/w6p25lk.png)]
+
+#### Capa Cosas:
+● Compuesta por objetos o cosas que necesitan ser conectadas. 
+● Variedad de objetos conectados o inteligentes según forma, necesidades influyen en el diseño de una arquitectura. 
+● Dispositivos físicos requieren cumplir con las restricciones del entorno donde operan y del objeto o cosa a la cual están asociados
+
+##### Clasificación de Cosas
+● Suministro de energía: batería o externa. 
+● Movilidad: móvil o estática. 
+● Reportabilidad: baja o alta frecuencia. 
+● Datos: simple o complejo, una variable o muchas variables. 
+● Rango de reportabilidad: distancia entre el objeto y el gateway de comunicación. 
+● Densidad: cantidad de objetos en un área común
+
+#### Capa Red de Comunicaciones:
+- Subcapa de acceso a la red: se clasifican según el rango entre el objeto y el colector de datos
+	- PAN (personal area network): rango de los metros, espacio alrededor de una persona. Bluetooth.
+	- HAN (home area network): decenas de metros. ZigBee, Bluetooth Low Energy (BLE).
+	- NAN (neighborhood area network): cientos de metros. Grupo de casas.
+- Subcapa de acceso a la red: se clasifican según el rango entre el objeto y el colector de datos
+	- FAN (field area network): rango de las decenas a cientos de metros, espacio abierto. WirelessHart.
+	- LAN (local area network): hasta 100 metros. Ethernet, IEEE 802.11 (WiFi). 
+	- WAN (wide area network): orden de kilómetros. LTE, NB-IoT, LPWA.
+- Topología: se clasifican según la estructura de conectividad entre el objeto y el colector de datos.
+	- Punto a punto
+	- Punto a multipunto}
+
+#### Capa Aplicaciones y Analítica
+- Aplicación de Analítica
+	- Recopila datos de múltiples objetos, procesa la data y visualiza la información resultante.
+	- Reportes históricos, estadísticas, tendencia de un sistema, etc.
+	- Aspecto relevante es que esta aplicación entrega una vista de la red que no se puede obtener considerando la información de un solo objeto inteligente.
+- Aplicación de Control
+	- Controla el comportamiento de un objeto u otro objeto relacionado con el mismo. Ejemplo, controlar la velocidad de una bomba.
+	- Responde a los cambios de parámetros de la red, configuraciones o comportamientos.
+	- Aspecto relevante es que esta aplicación permite controlar una red IoT compleja cuya lógica no puede programarse en un solo dispositivo u objeto.
+
+---
+
+### Modelo tradicional red TI
+
+- Modelo cliente / servidor.
+- Endpoints: laptops, impresoras, teléfonos IP, teléfonos inteligentes, etc.
+- Acceso a la red de alto ancho de banda.
+- Datos son almacenados en el data center o cloud.
+
+### Cloud Computing: “la nube”
+- Modelo cloud es simple.
+- Objetos se conectan a la nube y el procesamiento es centralizado.
+- Dispositivos IoT son considerados restringidos (constrained devices):
+	- Baja capacidad de procesamiento (CPU).
+	- Memoria limitada (RAM/ROM/FLASH).
+	- Bajo consumo de energía
+#### Modelo red IoT: Cloud Computing
+Qué pasa cuando se requiere un análisis de condiciones críticas:
+- Latencia: en sistemas industriales se requiere una respuesta del orden de los milisegundos. 
+- Ancho de banda: no es práctico enviar data de miles de dispositivos a la nube. 
+- Eficiencia local: no es útil recolectar y almacenar data entre condiciones ambientales muy diferentes
+
+### Edge Computing: “el borde"
+- Nuevos dispositivos IoT no son tan “limitados”.
+- Capacidad de procesamiento permite:
+	- Analítica de bajo nivel. 
+	- Filtrar los datos localmente. 
+	- Tomar decisiones básicas.
+- Se trasladan las aplicaciones de analítica y/o control al objeto mismo: entorno local.
+#### Beneficios:
+- Tiempo de respuesta mucho más rápido.
+- Operación más confiable ante intermitencias de la red de comunicaciones.
+- Optimización de conectividad: alivio del ancho de banda.
+- Solución más económica.
+- Aumento de seguridad y privacidad: data es manejada localmente.
+
+### Fog Computing: “la niebla”
+Estructura de red descentralizada en la que los recursos, incluyendo datos y aplicaciones, se sitúan en algún lugar lógico entre la nube y la fuente que genera los datos.
+
+#### Beneficios:
+- Crear una red con menor latencia y con menor carga de datos hacia la Nube. 
+- Genera una “conciencia de contexto” de los dispositivos que gestiona debido a la proximidad geográfica. 
+- Capacidad de filtrar los datos hacia la nube. 
+- Distribución geográfica de servicios y aplicaciones, la nube es centralizada. 
+- Interacciones a tiempo real entre dispositivos.
+---
+### Modelo Cliente/Servidor
+● Modelo de diseño de software. 
+● Tareas distribuidas: 
+	○ Servidores: proveedores de recursos y/o servicios. 
+	○ Clientes: demandantes. 
+● Cliente inicia solicitudes o peticiones, tiene un papel activo en la comunicación (dispositivo maestro). 
+● Servidor al iniciarse espera a que lleguen las solicitudes de los clientes, desempeña un papel pasivo en la comunicación (dispositivo esclavo).
+
+Ejemplo Cliente / Servidor SMTP
+
+### API (Application Programming Interface)
+
+● Interfaz de Programación de Aplicaciones. 
+● Mecanismo que permite a dos componentes de software comunicarse entre sí. 
+● Se utiliza un conjunto de definiciones y protocolos comunes. 
+● La arquitectura de las API suele explicarse en términos de cliente y servidor. 
+● Tipos de API: 
+	○ SOAP: protocolo simple de acceso a objetos. 
+	○ RPC: llamadas a procedimientos remotos. 
+	○ WebSocket: comunicación bidireccional entre las aplicaciones cliente y el servidor (sesión interactiva).
+
+### API REST
+
+● REST significa Transferencia de Estado Representacional. 
+● REST define un conjunto de funciones para acceder a los datos del servidor: 
+	○ GET, POST, PUT, DELETE, etc. 
+● Clientes y los servidores intercambian datos mediante HTTP distintos formatos: 
+	○ HTML, XML, texto sin formato y JSON. 
+● Principal característica es la ausencia de estado, los servidores no guardan datos del cliente entre las solicitudes.
+
+#### Beneficios:
+● Integración 
+	○ Nuevas aplicaciones utilizando servicios existentes. 
+● Innovación 
+	○ Implementaciones más rápidas. 
+● Ampliación 
+	○ Soporte multiplataforma: web, Android, iOS, etc. 
+● Mantenimiento 
+	○ Cambios internos de una API no afectará a la otra.
+
+### Postman
+
+● Herramienta que permite crear peticiones sobre APIs de una forma muy sencilla: 
+	○ Probar las APIs. 
+● Crear Peticiones. 
+● Definir Colecciones. 
+● Entorno Colaborativo. 
+● Gestionar la Documentación. 
+● Crear mockups de Servidores.
+
+### Webhooks
+• En el desarrollo web tradicional, un botón activa una acción. 
+• Para lograr esto, se programa un “escuchador” del botón, que maneja eventos: 
+```
+handler(event):
+	print(“Apretaste el botón”)
+```
+• Esto se conoce como “programación basada en eventos” (event-driven programming)
+
+Pero ¿qué pasa si no hay nadie que presione el botón?
+
+• Una forma – ineficiente - es hacer un código que esté continuamente consultando si el botón ha sido presionado (“polling”). 
+• Otra forma – más eficiente – es lograr que la porción de código se ejecute “cuando corresponda” (eventos basados en ciclos de vida). 
+• Esto también se conoce como “inversión del control” o “Hollywood Principle” 
+• Y para esto se utilizan los Webhooks
+
+#### Definición:
+• Callbacks HTTP definidos por el usuario, que se disparan automáticamente ante la ocurrencia de eventos predefinidos (triggers). 
+• Cuando ocurre un trigger, el webhook: 
+	• Capta el evento 
+	• Captura los datos asociados al evento. 
+	• Envía la data a las URL especificadas en formato HTTP Request. También pueden especificarse acciones.
+
+#### Eventos soportados 
+• Delivered: Datos entregados. 
+• Dropped: Trigger cancelado o interrumpido (o alguna condición incompleta) 
+• Invalid: Proceso inválido 
+• Bounced: Data “rebotó” (p.e. por problemas de conectividad u otro error) 
+• Opened: Data abierta/consumida. 
+• Unsubscribed: Cancelación de suscripción (por ejemplo, de un tópico) 
+• Abused: Warning de detección de uso malicioso de un webhook (por ejemplo, con payloads muy altos, o con triggers muy frecuentes, u otra condición de riesgo)
+
+---
+
+## Contexto de seguridad IoT
+● Objetos que se han ido IoTizando: 
+	○ Refrigerador smart Linux-embedded 
+	○ Lavadoras conectadas 
+	○ Automóviles 
+	○ Dispositivos médicos implantables 
+	○ Sistemas robóticos de fábricas 
+	○ etc 
+● Históricamente, muchas de estas industrias nunca tuvieron que preocuparse por la seguridad. 
+● Con nuevos productos y características comercializables, se encuentran en un territorio peligroso, sin saber cómo desarrollar, implementar y operar de manera segura.
+## Ciberseguridad vs Seguridad IoT
+● Recordemos que un dispositivo IoT: 
+	○ Conectado directa o indirectamente a Internet. 
+	○ Monitorea y/o manipula objetos físicos. 
+● Seguridad en IoT es una fusión de ciberseguridad tradicional con otras disciplinas de la ingeniería. 
+● Ciberseguridad se preocupa de la data, servidores, infraestructura de red y seguridad de la información. 
+● Seguridad IoT además incluye el monitoreo y/o control directo o distribuido del estado de sistemas físicos conectados vía Internet.
+
+## Conceptos Seguridad IoT
+● Exploit 
+	○ Cualquier ataque que aprovecha vulnerabilidades en aplicaciones, redes, sistemas operativos o hardware. Generalmente son códigos que tienen como objetivo tomar el control de las computadoras o robar datos de la red.
+● Threats 
+	○ La amenaza es el potencial para que se lleve a cabo el daño, o más generalmente representa el potencial de explotación.
+● Vulnerability 
+	○ Vulnerabilidad es el término que usamos para identificar una debilidad, ya sea en el diseño, integración u operación de un sistema o dispositivo. Las vulnerabilidades están siempre presentes y se descubren todos los días. 
+● Risks 
+	○ El riesgo es la exposición a la pérdida de confidencialidad, integridad o disponibilidad de información, datos o sistemas de información (o control) y reflejan los posibles impactos adversos en las operaciones de la organización.
+
+## Relaciones entre conceptos
+
+Threat → Vulnerability → Attack → Compromise
+
+## Ataques IoT
+
+● Radio frequency Jamming 
+	○ Interferir las señales de radio con el objetivo que los dispositivos IoT se comuniquen. 
+	○ Jammer celular, WiFi, GPS, etc. 
+● Mapeo y reconocimiento inalámbrico 
+	○ Similar al escaneo de redes con herramientas como Nmap para recopilar información sobre hosts, subredes, puertos y protocolos en las redes. 
+	○ CatSniffer: objetivo son dispositivos IoT, cosas que pueden abrir la puerta del garage, cerrar la puerta de su casa, enciender y apagar luces, etc. 
+	○ El reconocimiento inalámbrico a menudo precederá a los ataques de dispositivos a gran escala.
+● Physical attacks 
+	○ Simplemente conectar un USB a un dispositivo IoT puede ser suficiente para propagar malware a una red o espiar las comunicaciones. 
+	○ USB Rubber Ducky. 
+● Firmware exploits / hijacking 
+	○ Utilizar vulnerabilidades conocidas. A menudo, estas vulnerabilidades tienen parches disponibles del desarrollador, pero el usuario no los ha descargado, dejándolos abiertos al hackeo. 
+	○ Cada dispositivo tiene software, actualizaciones y modificaciones. Se puede sacar ventaja de este entorno agregando actualizaciones falsas o controladores para descargar software malicioso.
