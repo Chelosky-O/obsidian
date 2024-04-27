@@ -168,7 +168,7 @@ Es un modelo parcialmente distribuido (el procesamiento está dividido tanto en 
 - Desventajas
 	- Datos no compartidos (cada servidor tiene sus propios datos)
 	- Administración de datos en cada servidor
-	- Performance deteriorada (ya que existe un medio de comunicacipon entre cliente y servidor, el cuello de botella es la red)
+	- Performance deteriorada (ya que existe un medio de comunicación entre cliente y servidor, el cuello de botella es la red)
 	- No hay registro centralizado de servicios (No se que servicios están operativos y cuales no, tampoco se donde estan. Todo es en base a prueba y error)
 ### Modelo de capas
 Conjunto de capas de software que ofrecen servicios específicos  
