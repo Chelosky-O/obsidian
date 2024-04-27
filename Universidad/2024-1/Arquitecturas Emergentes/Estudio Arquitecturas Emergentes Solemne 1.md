@@ -51,6 +51,7 @@ La red troncal en serie está formada por dos o más dispositivos que están con
 
 Falla 1 y chao
 
+[![Foo](https://i.imgur.com/PdGLTYj.png)]
 ### Backbone distribuido
 La red troncal distribuida utiliza un diseño jerárquico de la red, donde la cantidad de dispositivos intermedios están conectados a dispositivos de conectividad únicos o múltiples.
 
@@ -62,6 +63,7 @@ En general, es barato, fácil y rápido implementar la red troncal distribuida.
 
 falla el router y chao
 
+![Foo](https://i.imgur.com/iUFNUWk.png)
 ### Backbone colapsada
 Este tipo de red troncal utiliza un router potente y único como punto de conexión central para múltiples subredes.  
 - El dispositivo central es el nivel más alto de la Backbone.  
@@ -70,6 +72,7 @@ Este tipo de red troncal utiliza un router potente y único como punto de conexi
 - Sin embargo, este tipo de red troncal es útil para quien desea interconectar dos tipos de  
 subredes, con la capacidad de administrarlas y solucionarlas.
 
+[![Foo](https://i.imgur.com/xV5qB9B.png)]
 ### Backbone parelela
 La red troncal paralela es una variación de la red troncal colapsada, donde los dispositivos tienen más de una conexión entre ellos.
 
@@ -77,7 +80,7 @@ La red troncal paralela es una variación de la red troncal colapsada, donde los
 - Las conexiones duplicadas aseguran la disponibilidad de las redes en cualquier momento, velocidades más altas y alta tolerancia a fallas.  
 - El inconveniente lógico de estas soluciones es el aumento del precio, ya que la cantidad de cableado requerido aumenta considerablemente.  
 - No es obligatorio tener conexiones duplicadas entre todos los dispositivos, la implementación selectiva de la estructura paralela reduciría significativamente el precio general y haría que los puertos adicionales de los dispositivos estén disponibles
-
+[![Foo](https://i.imgur.com/qSyQH4U.png)]
 ---
 
 
@@ -326,7 +329,7 @@ $Tiempo\_inactividad\_dispositivo = (1-0,99997)\cdot8776\cdot60=15,79\ minutos$ 
 
 $DPM=\frac{1.000.000}{MTBF}=\frac{1.000.000}{200.000}=5$
 
-Downtime(por millón de horas) = $DPM\cdot MTTR=5\cdot 6=30$$
+Downtime(por millón de horas) = $DPM\cdot MTTR=5\cdot 6=30$
 
 Fallas(por año) = $\frac{8766}{1.000.000}=0,008766$
 
@@ -506,13 +509,13 @@ Middleware que permite el intercambio seguro de datos de extremo a extremo entre
 ---
 ### Arquitecturas IOT
 
-- OneM2M
-- IoT World Forum
-- Industrial Internet Reference Architecture
-- Microsoft Azure
-- Amazon Web Services
-- Google Cloud Platform
-- IBM
+- OneM2M![FOO](https://i.imgur.com/tWHOqZv.png)
+- IoT World Forum         ![FOO](https://i.imgur.com/cJJEHYm.png)
+- Industrial Internet Reference Architecture![FOO](https://i.imgur.com/75DSoES.png)
+- Microsoft Azure![FOO](https://i.imgur.com/KoOHFJz.png)
+- Amazon Web Services![FOO](https://i.imgur.com/VduMCin.png)
+- Google Cloud Platform![FOO](https://i.imgur.com/oHyqfwE.png)
+- IBM![FOO](https://i.imgur.com/MdDvy5Z.png)
 
 ## Arquitectura IoT Simplificada
 
