@@ -1,6 +1,6 @@
 # Funciones de la Arquitectura de un Sistema
 
-La arquitectura de un sistema:
+## La arquitectura de un sistema:
 
 - **Define la estructura** del mismo, identificando sus componentes principales (por ejemplo, módulos, clases, o paquetes) y la forma en que estos componentes se organizan y se interconectan.
 - **Especifica la comunicación entre componentes**, detallando cómo los diferentes elementos del sistema interactúan entre sí para cumplir con los objetivos del sistema. Esto puede incluir la definición de interfaces, protocolos de comunicación, y mecanismos de intercambio de datos.
