@@ -449,3 +449,11 @@ kill PID mata a los procesos
 	- Estándar de facto en su dominio
 - Diferencia entre estas arquitecturas: La generica dice, esta es la arquitectura, implementala.. la deja lista. La de referencia es similar pero no es aplicable a la realidad, es lo que deberias tener pero no necesariamente lo tendrás, ejemplo de arquitectura de referencia puede ser
 
+
+
+# 10-05
+
+## Solemne 1
+
+1.- 
+
