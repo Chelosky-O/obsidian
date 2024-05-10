@@ -741,11 +741,11 @@ Desarrollo de mercado: Falabella tenia un producto, ropa, maquillaje etc. Ya est
 es un grafico. y: cantidad de personas, x: tiempo
 
 
-INTRODUCCION:
+INTRODUCCION: cuando lanzo por primera vez un producto. un esfuerzo muy caro. Cuando este tiempo es corto y aumenta mucho la cant de gente GOD. Pero ese dinero no se puede gastar, se debe reinvertir para no morir por competencia. 
 
-CRECIMIENTO:
+CRECIMIENTO: Aquí A el producto no murió, pero debo dejar la huella, de que yo fui el primero en sacar el producto, esto da prestigio, calidad, competitividad, el primero del mercado, el boca a boca etc. Aquí parte la competencia, esta aparece pero no me molesta, se que está, por que debo reinvertir. 
 
-MADUREZ:
+MADUREZ: Aquí la competencia si no logre hacer mi marca, pierdo, me mata, desaparezco. Hay mucha guerra, esfuerzos. Se transforma de empresa a Industria. Productos en forma general, EJ: formato de la empresa hellmans es mayo de 1kg , no todos los productos están en el mismo ciclo de vida. Aquí se reinvierte lo que gana. Esto se alarga, se intenta que no caiga a decrecimiento
 
-DECRECIMIENTO:
+DECRECIMIENTO: nadie lo compra xoco.
 
