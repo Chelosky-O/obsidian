@@ -692,6 +692,6 @@ Diferenciación: Esta enfocada en la calidad, la madera no contamina el medio am
 Ciclo de vida: 
 
 Segmento es cuando es en un mercado muy especifico, santiago no en todo chile
-Hay que ver amplitud que el dueño le pone 
+Hay que ver amplitud que el dueño le pone.
 
 ---
