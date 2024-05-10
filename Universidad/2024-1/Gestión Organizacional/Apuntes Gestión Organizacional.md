@@ -667,6 +667,8 @@ VIERNES Y MARTES para trabajo :D
 
 # 10-05
 
+## Estrategia genérica
+
 Cuando hablo de estrategia genérica hablo que la empresa cuando comenzó a fabricar el producto. Decisiones.
 
 Estrategia genérica: decisión que toma el dueño de hacer una estrategia para todo el mercado o para el segmento como primera decisión, depende de capital y recursos con los que cuenta, segundo decide voy a hacer una silla barata o mas cara, una silla que todos puedan comprar, o sillas de piscina hermosas, de buena calidad que duren años. Gastare mas recursos, con mejor precio y estaré enfocado en calidad.
@@ -689,9 +691,61 @@ Liderazgo en costo (Economía de escala): si hago una silla mas me sale mas bara
 Diferenciación: Esta enfocada en la calidad, la madera no contamina el medio ambiente, va a durar, un escritorio pero a todo dar.
 
 
-Ciclo de vida: 
+Ciclo de vida: INTRODUCCION CRECIMIENTO MADUREZ DECRECIMIENTO
+i - c - m -d
 
-Segmento es cuando es en un mercado muy especifico, santiago no en todo chile
+Segmento es cuando es en un mercado muy especifico, Santiago no en todo chile
 Hay que ver amplitud que el dueño le pone.
 
+Una empresa que tiene una estrategia de liderazgo en costo y la cultura la tiene internalizada, lo que toca es tender a la otra. Viceversa
+
+liderazgo en costo → diferenciación
+diferenciación → liderazgo en costo
+
+debe tender con los años a tender a la otra
+no deja nunca de ser x pero tiende a tener mejor calidad o precios.
+
+NUNCA DEJA DE SER LO QUE ES.
+Tender != Cambiar
+
+Esta estrategia nos dice como vamos a fabricar
+
 ---
+
+## Estrategia de crecimiento (PORT)
+
+**Estrategia intensiva**: Tengo una perspectiva de venta (voy a vender tanto...) , no funciona, no se cumple lo que dice, que hace la empresa? hace encuestas, va a los locales, hace un sondeo de area para ver que pasa, por que no se esta vendiendo. Me dice, te equivocaste, tu marketing esta malo, no especifica a quien va dirigido el producto. 
+Aquí cuando ese esfuerzo de investigar y me dice tu tienes la culpa, como conclusión es AUMENTA EL MARKETING, AUMENTA EL ESFUERZO DE VENTA.
+**Estrategia integrante:** Esta es distinta, para tomarla, tiene que ser una empresa grande, potente, mucha plata, posición o prestigio, interno o externo (nacional o no), Puede ser una estrategia integrante al lado, atrás o adelante.
+	Al lado: compro a la competencia.
+	Atrás: compro al proveedor.
+	Adelante: compro al distribuidor. 
+**Estrategia diversificación:** Es cuando hice el mismo sondeo que la est. intensiva y este me dice que mi producto, con el mercado definido, no tiene por donde. Si quiero crecer tengo que buscar un producto nuevo o un mercado nuevo. La empresa tiene plata, quiere reinvertir pero el mercado esta full.
+
+### Matriz de Ansoff
+P.A: Producto actual
+P.N: Producto nuevo
+M.A: Mercado actual
+M.N: Mercado nuevo
+
+|     | P.A                                             | P.N                    |
+| --- | ----------------------------------------------- | ---------------------- |
+| M.A | Intensiva (para el modelo se llama penetración) | Desarrollo de producto |
+| M.N | Desarrollo de mercado                           | Diversificación        |
+
+Desarrollo de mercado: Falabella tenia un producto, ropa, maquillaje etc. Ya esta en todos lados, no me queda ciudad donde mas poner, prueba en extranjero. Mi producto se va a un mercado nuevo.
+
+---
+
+**Ciclo de vida**
+es un grafico. y: cantidad de personas, x: tiempo
+
+
+INTRODUCCION:
+
+CRECIMIENTO:
+
+MADUREZ:
+
+DECRECIMIENTO:
+
