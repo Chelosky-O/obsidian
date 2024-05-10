@@ -663,3 +663,35 @@ VIERNES Y MARTES para trabajo :D
 
 7´S → SE DEBE **PONDERAR**
 
+
+
+# 10-05
+
+Cuando hablo de estrategia genérica hablo que la empresa cuando comenzó a fabricar el producto. Decisiones.
+
+Estrategia genérica: decisión que toma el dueño de hacer una estrategia para todo el mercado o para el segmento como primera decisión, depende de capital y recursos con los que cuenta, segundo decide voy a hacer una silla barata o mas cara, una silla que todos puedan comprar, o sillas de piscina hermosas, de buena calidad que duren años. Gastare mas recursos, con mejor precio y estaré enfocado en calidad.
+
+Ej: licores, cervezas, autos.
+
+
+|                                            |                        |              |
+| ------------------------------------------ | ---------------------- | ------------ |
+| Liderazgo en costo<br>(Economia de escala) | Diferenciación         | **Mercado**  |
+| Enfoque liderazgo en costo                 | Enfoque diferenciacion | **Segmento** |
+
+
+Mercado: 
+
+Segmento:
+
+Liderazgo en costo (Economía de escala): si hago una silla mas me sale mas barata, por ej la maquina esta hecha para hacer 1000 tapas pero con el tiempo logro hacer 1500, con los mismos costos asociados, me sale mejor. 
+
+Diferenciación: Esta enfocada en la calidad, la madera no contamina el medio ambiente, va a durar, un escritorio pero a todo dar.
+
+
+Ciclo de vida: 
+
+Segmento es cuando es en un mercado muy especifico, santiago no en todo chile
+Hay que ver amplitud que el dueño le pone 
+
+---
