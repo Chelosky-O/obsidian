@@ -749,3 +749,36 @@ MADUREZ: Aquí la competencia si no logre hacer mi marca, pierdo, me mata, desap
 
 DECRECIMIENTO: nadie lo compra xoco.
 
+# 14-05-24
+## 5 Fuerzas de Porter
+Para ver el atractivo de la industia, la empresa hace eso en 2 momentos:
+- Ver su posición de la empresa en la industria.
+- Cuando está evaluando el atractivo de la industria para entrar.
+Nunca habla de la empresa.
+--- 
+Ejemplo:
+*Industria:* Retail.
+*Ciclo de vida:* Madurez.
+
+Peligro de alianza de proveedores → Rivalidad de la industria
+Amenaza nuevos entrantes → Rivalidad de la industria
+Peligro Alianza Clientes → Rivalidad de la industria
+Sustitutos → Rivalidad de la industria
+
+1. **Amenaza nuevos entrantes:** La industria que está en madurez lo que implica que ha desarrollado barreras, lo que me de da un riesgo bajo lo que implica una rentabilidad esperada alta.
+	1. Barreras de entrada: Capital, tecnología, Contratos a futuro, mano de obra calificada. 
+2. **Peligro Alianza Proveedores:** En esta industria los proveedores son fragmentados, lo que me da un riesgo bajo y una restabilidad esperada alta.
+3. **Peligro Alianza Clientes:** En esta industria losclioentes son fragmentados lo que me da un riesgo bajo y rentabilidad esperada alta
+4. **Sustitutos:** Algo que reemplaza la satisfacción de la necesidad a un precio igual o menor. Existen muchos sustitos pero el poder de sustitución es bajo.
+5. **Rivalidad de la Industria:** La industria al estar en madurez implica que ya no es muy atractiva por las barreras de entrada que posee y a competencia adentro de ella es feroz, lo cual le da un riesgo alto y una rentabilidad esperada baja. 
+
+Cada Fuerza se analiza de acuerdo a:
+
+|                                | Riesgo | Rentabilidad (Atractivo) |
+| ------------------------------ | ------ | ------------------------ |
+| 1. Amenaza nuevos entrantes    | bajo   | alta                     |
+| 2. Peligro Alianza Proveedores | bajo   | alta                     |
+| 3. Peligro Alianza Clientes    | bajo   | alta                     |
+| 4. Sustitutos                  | bajo   | alta                     |
+| 5. Rivalidad de la Industria   | alto   | baja                     |
+Conclusión: La industria es muy atractiva pero para los que están adentro ya, los que quieren entrar son destruidos.
