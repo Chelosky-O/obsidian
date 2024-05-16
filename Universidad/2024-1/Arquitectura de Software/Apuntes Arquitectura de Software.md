@@ -453,7 +453,12 @@ kill PID mata a los procesos
 
 # 10-05
 
-## Solemne 1
+PROBLEMA = REQUERIMIENTO
 
-1.- 
+Descripción general.
+Decir lo que debe resolver. necesitamos balanceador de carga, replicas de bdd etc..
+Fueras presentes en el contexto
+	propiedades
+	requisitos
+	restricciones
 
