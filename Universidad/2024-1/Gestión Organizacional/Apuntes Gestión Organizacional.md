@@ -847,3 +847,24 @@ Organizacion formal (visible) → Lo que declaro
 
 ---
 
+Organigrama 3 niveles
+
+Gerente zona
+	Finanzas (jefe finanzas)
+		– – - - - - - - - – - - - - Apoyo externo a presupuesto
+		Presupuesto
+		Contabilidad
+	Función Producción
+		Clavo
+		Tornillo
+		otra cosa
+	Jefe administración general
+	Función marketing
+		S
+		X
+
+
+Cuando alguien externo al giro viene a ayudar a otra función por ejemplo finanzas necesita ayuda por nueva ley de presupuestos, se pone entre presupuesto y finanzas con linea discontinua o segmentada y cuadrado de linea continua.
+
+---
+
