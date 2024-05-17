@@ -749,7 +749,7 @@ MADUREZ: Aquí la competencia si no logre hacer mi marca, pierdo, me mata, desap
 
 DECRECIMIENTO: nadie lo compra xoco.
 
-# 14-05-24
+# 14-05
 ## 5 Fuerzas de Porter
 Para ver el atractivo de la industia, la empresa hace eso en 2 momentos:
 - Ver su posición de la empresa en la industria.
@@ -782,3 +782,68 @@ Cada Fuerza se analiza de acuerdo a:
 | 4. Sustitutos                  | bajo   | alta                     |
 | 5. Rivalidad de la Industria   | alto   | baja                     |
 Conclusión: La industria es muy atractiva pero para los que están adentro ya, los que quieren entrar son destruidos.
+
+# 17-05
+
+- [ ] Estrategia genérica
+- [ ] Estrategia crecimiento
+- [ ] ciclo de vida
+- [ ] 5 fuerzas 
+
+
+Ahora estamos viendo la organización: como me organizo como me estructuro, como divido las funciones, como hago este cuento que hacemos una empresa y la empresa le va bien.
+
+## Tempano Organizacional
+
+Parte baja:
+Organizacion informal (Espontanea) → Lo que no declaro pero existe
+	- Amistad
+	- Influencia Social
+
+Esto mata la empresa.
+
+Parte alta:
+Organizacion formal (visible) → Lo que declaro
+	- Diseño estructural
+	- Descripción de cargo
+	- Planes
+	- Reglas
+
+
+##  Modelos de diseño organizacional
+
+### Variables situacionales
+
+- Estrategia de la empresa
+- Tamaño
+- Caracteristicas del entorno
+- Control (rangos)
+- Tecnologia
+
+⇒ 
+### Caracteristicas
+- Complejidad
+	- Grado de diferenciación
+		- Horizontal
+		- Vertical
+		- Espacial
+- Formalidad
+- centralizada y/o descentralizada
+
+⇒ 
+
+### Modelos organizacionales
+- Organico
+- Mecanico
+	- Departamento
+		- Funcional
+		- X clientes etc...
+
+⇒ 
+### Resultados
+- triangulo +- Productividad
+- Eficiencia
+- Mayor satisfacción al cliente
+
+---
+
