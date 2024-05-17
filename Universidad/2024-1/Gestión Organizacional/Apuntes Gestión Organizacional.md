@@ -828,18 +828,30 @@ Organizacion formal (visible) → Lo que declaro
 		- Vertical
 		- Espacial
 - Formalidad
-- centralizada y/o descentralizada
+- centralizada y/o descentralizada → Toma de decisiones, descentralizada fácil de cambiar, centralizada mas rígida
 
 ⇒ 
 
 ### Modelos organizacionales
-- Organico
-- Mecanico
+- Orgánico → Modelo flexible 
+- Mecánico → Modelo rígido: Codelco, Banco estado
 	- Departamento
 		- Funcional
 		- X clientes etc...
 
 ⇒ 
+##### hola
+###### hila
+#### hola
+### hola
+## hola
+# hola
+## hola
+### hola
+#### hola
+##### hola
+###### hola
+
 ### Resultados
 - triangulo +- Productividad
 - Eficiencia
@@ -862,6 +874,8 @@ Gerente zona
 	Función marketing
 		S
 		X
+
+![[Diagram.svg]]
 
 
 Cuando alguien externo al giro viene a ayudar a otra función por ejemplo finanzas necesita ayuda por nueva ley de presupuestos, se pone entre presupuesto y finanzas con linea discontinua o segmentada y cuadrado de linea continua.
