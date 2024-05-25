@@ -516,3 +516,45 @@ Fueras presentes en el contexto
 	- Contexto: Procesar flujos de datos.
 - **Pizarrón**
 - **Repositorio**
+
+# 24-05-24
+- Tubos y filtros
+	- Estructura aplicaciones en actividades para procesar flujos de datos en que cada actividad (o transformación) es un filtro que está unido por un tubo a los filtros contiguos. 
+	- Contexto: Procesar flujos de datos.
+	- Requerimiento:
+		- Descomponer el procesamientoen una serie de actividades(filtros) que transforman datos de entrada (recibidos desde un tubo) en datos de salida (entregados en un tubo).
+		- Las transformaciones son independientes y no tienen estado
+		- Cada actividad es un filtro
+		- Los filtros se comunican entre sí mediante tubos
+	- Solución:
+		- Tubos(pipe)
+			- Conecta origen de datos con un filtro
+			- Conecta filtro con filtro
+			- Conecta filtro con salida de datos
+			- Esquema de procesamiento FIFO
+		- Filtro(filter)
+			- Aplica procesos de transformación de datos de entrada en datos de salida
+			- Implementa un flujo que solicita datos (al filtro anterior)
+			- Implementa un flujo que entrega datos (al filtro siguiente)
+			- Filtros independientes
+				- Estado no compartido
+				- Desconocimiento de otros filtros
+				- Filtros activos o pasivos
+	- Implementación:
+		- Dividir el sistema en una secuencia de procesos ordenados e independientes.
+		- Definir el formato de los datos transmitidos por los tubos (rendimiento o flexibilidad)
+		- Especificar el procesamiento de cada filtro
+		- Construir los filtros
+		- Definir el esquema para el manejo de errores
+	- Ventajas:
+		- Arquitectura flexible
+		- No requiere de archivos intermedios
+		- Filtros reutulizables
+		- Procesamiento paralelo(eficiencia). (generar nuevas instancias de filtros manteniendo la misma cantidad de tubos)
+		- Construcción independiente
+	- Desventajas
+		- Información no compartida
+		- Conversión de datos (ineficiencia)
+		- Errores pueden afectar el flujo de procesamiento
+- MVC (Modelo Vista Controlador)
+- PAC (Presentación Abstracción y Control)
