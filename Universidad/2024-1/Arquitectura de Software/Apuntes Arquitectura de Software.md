@@ -466,7 +466,7 @@ Fueras presentes en el contexto
 #### Clasificación de patrones
 ##### Patrones simples
 - **Capas**
-	- Estructura aplicaciones descomponiendolas en tareas con diferentes niveles de abstracción
+	- Estructura aplicaciones descomponiéndolas en tareas con diferentes niveles de abstracción
 	- **Contexto**: Sistemas estructurados con diversos niveles de acción
 	- **Requerimiento**: Organización inadecuada genera problemas de escalabilidad y mantenibilidad.
 	- **Solución**: Estructuración en esquema multi-capa
