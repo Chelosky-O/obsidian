@@ -675,7 +675,7 @@ Estrategia genérica: decisión que toma el dueño de hacer una estrategia para 
 
 Ej: licores, cervezas, autos.
 
-
+ 
 |                                            |                        |              |
 | ------------------------------------------ | ---------------------- | ------------ |
 | Liderazgo en costo<br>(Economia de escala) | Diferenciación         | **Mercado**  |
@@ -684,7 +684,7 @@ Ej: licores, cervezas, autos.
 
 Mercado: 
 
-Segmento:
+Segmento: 
 
 Liderazgo en costo (Economía de escala): si hago una silla mas me sale mas barata, por ej la maquina esta hecha para hacer 1000 tapas pero con el tiempo logro hacer 1500, con los mismos costos asociados, me sale mejor. 
 
@@ -785,9 +785,9 @@ Conclusión: La industria es muy atractiva pero para los que están adentro ya, 
 
 # 17-05
 
-- [ ] Estrategia genérica
-- [ ] Estrategia crecimiento
-- [ ] ciclo de vida
+- [x] Estrategia genérica
+- [x] Estrategia crecimiento
+- [x] ciclo de vida
 - [ ] 5 fuerzas 
 
 
@@ -853,7 +853,7 @@ Organizacion formal (visible) → Lo que declaro
 ###### hola
 
 ### Resultados
-- triangulo +- Productividad
+- $\Delta$+- Productividad
 - Eficiencia
 - Mayor satisfacción al cliente
 
@@ -881,4 +881,22 @@ Gerente zona
 Cuando alguien externo al giro viene a ayudar a otra función por ejemplo finanzas necesita ayuda por nueva ley de presupuestos, se pone entre presupuesto y finanzas con linea discontinua o segmentada y cuadrado de linea continua.
 
 ---
+
+# 28-05
+
+## Comunicación
+Transmisión y comprensión de información, utilizando símbolos verbales y no verbales.
+
+→ Comunicador(Quien...) → Mensaje(Dice qué...) → Medio(En qué forma...) → Receptor(A quién...) → Retro-alimentación →
+
+leer indicadores de control y control capitulo 17 eso viene en la solemne.
+
+Tipos de comunicación: Formal e Informal
+En un organigrama no existe comunicación informal
+NO HAY DIAGONAL
+
+---
+
+
+
 
