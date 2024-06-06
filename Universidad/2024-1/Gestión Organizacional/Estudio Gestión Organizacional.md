@@ -387,10 +387,6 @@ Conclusion: (Si no hay conclusión no tiene puntaje)
 La UDP muestra un crecimiento, pero debe abordar preocupaciones como la creciente competencia, la falta de áreas verdes y los aranceles elevados.
 <<<<<<< HEAD
 ## MATRIZ FODA
-=======
-MATRIZ FODA
->>>>>>> 7bdd1d853db47dfadc3edc84c5c3f77a0091f88d
----
 Matriz FODA: me da **acciones** para la misión, objetivos generales, objetivos específicos, metas
 La estrategia a usar es la que posea mas cantidad.
 
