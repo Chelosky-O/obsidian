@@ -631,5 +631,32 @@ Patrones para sistemas adaptables
 		- los que nos permiten acceder al nucleo
 	- Adaptadores: Mecanismo de comunicación cliente con servidor externo
 	- Clientes
-		- tiene un adaptador que permite que los clientes 
+		- tiene un adaptador que permite que los clientes, 
+		- cliente es un proceso que va a recibir requerimiento de los usuarios.
+- Analisis:
+	- Ventajas:
+		- Adaptabilidad
+		- Portabilidad
+		- Flexibilidad
+		- Escalabilidad horizontal, confiabilidad
+		- 
+	- Desventajas:
+		- Sistema complejo
+		- Baja eficiencia
+		- Compleja implementación
+	- Punto único de falla Microkernel, pero depende de como este definido puede que haya solo en una parte
+
+
+EJERCICIO ES UN SISTEMA INTERACTIVO
+PARA INTERACTIVO HAY 4 PATRONES UTILIZABLES
+MVC - PAC - SOA - OBJETOS DISTRIBUIDOS(ESTE CON ALGUNAS CONSIDERACIONES)
+
+CUAL? POR QUE?
+SOA SOBRE MVC POR QUE UNOS DE LOS PROBLEMAS DE MVC ES QUE YO PIERDO EL CONTROL Y NO SE QUE SERVICIOS ESTÁN OPERATIVOS, ENTONCES EL SERVICIO 
+
+falta seguridad, por transmisiones encriptadas etc
+rendimiento, no vas a esperar 30 min pa un cafe xd
+mantenibilidad, en caso de querer agregar otro servicio
+
 ### Reflection
+
