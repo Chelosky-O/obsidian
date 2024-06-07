@@ -614,11 +614,11 @@ Patrones para sistemas adaptables
 	- Sistemas con interfaces de programación parecidas
 	- Basados en el mismo núcleo funciona
 	- Linux por ejemplo, su núcleo su parte central se diseño con esta arquitectura en la mente, entonces si yo quiero que haga algo, se le agrega.
-- Sistemas que perduran con el tiempo (legacy)
+- Sistemas que perduran con el tiempo (legacy → legado, sistemas que han perdurado en mucho tiempo, ej linux, tecnología antigua que aun sigue siendo utilizado en la tecnología actual → COBOL: lenguaje de los años 60, en donde se hicieron todos los grandes sistemas de los 60, toda la infraestructura de los bancos de esa época esta basada en esos sistemas, hoy en 2024 todavía esos sistemas bancarios siguen funcionando. A comienzos del 2000, se estimo que en el mundo habian sistemas programados en cobolt y que estos sistemas tenian 2000 millones de instrucciones (juntando todos los sistemas) esas no serian factibles eliminarlas o cambiarlas a otra cosa. )
 - Deben adaptarse a cambios en la infraestructura (hardware/software)
 - Debe ser:
 	- Extensible a nuevas tecnologías
-	- Portable
+	- Portable → con el mínimo esfuerzo se pueda correr en a b o c, un ejemplo de esto seria wasap, un plugin para windows un plugin para linux uno para android etc. no depende del sistema operativo ni del hardware, eso lo puedo llevar de un lado para otro pero debo hacer un plugin hacia el contexto que debe ser portable.
 	- Adaptable → que se vaya adaptando a los tiempos
-
+- 
 ### Reflection
