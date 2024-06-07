@@ -614,5 +614,11 @@ Patrones para sistemas adaptables
 	- Sistemas con interfaces de programación parecidas
 	- Basados en el mismo núcleo funciona
 	- Linux por ejemplo, su núcleo su parte central se diseño con esta arquitectura en la mente, entonces si yo quiero que haga algo, se le agrega.
+- Sistemas que perduran con el tiempo (legacy)
+- Deben adaptarse a cambios en la infraestructura (hardware/software)
+- Debe ser:
+	- Extensible a nuevas tecnologías
+	- Portable
+	- Adaptable → que se vaya adaptando a los tiempos
 
 ### Reflection
