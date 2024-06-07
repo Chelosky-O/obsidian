@@ -620,5 +620,16 @@ Patrones para sistemas adaptables
 	- Extensible a nuevas tecnologías
 	- Portable → con el mínimo esfuerzo se pueda correr en a b o c, un ejemplo de esto seria wasap, un plugin para windows un plugin para linux uno para android etc. no depende del sistema operativo ni del hardware, eso lo puedo llevar de un lado para otro pero debo hacer un plugin hacia el contexto que debe ser portable.
 	- Adaptable → que se vaya adaptando a los tiempos
-- 
+- SOLUCION:
+	- Microkernel: componente central(núcleo) → todo lo independiente a la plataforma donde va a correr
+		- Funcionalidad basica
+		- Administracion de recursos
+		- Servicio de comunicacion entre componentes
+	- Servidores internos: servicios especificos de la plataforma 
+		- conversan con la plataforma, los plugins
+	- Servidores externos: Interfaz de acceso al núcleo
+		- los que nos permiten acceder al nucleo
+	- Adaptadores: Mecanismo de comunicación cliente con servidor externo
+	- Clientes
+		- tiene un adaptador que permite que los clientes 
 ### Reflection
