@@ -597,4 +597,22 @@ Fueras presentes en el contexto
 
 # 07-06
 
+## Patrones Adaptables
 
+Patron es Herramienta no solución
+
+
+Patrones para sistemas adaptables
+### MicroKernel
+- Sistemas que deben adaptarse a cambios en los requerimientos
+- Requisitos Cambiants
+- Separa funcionalidad en
+	- Minima: Común a todos los clientes, no es minimo es lo comun lo para todo el mundo
+	- Extendida: específica de un cliente
+- Usa plugin para conectarse, e incorporar cosas funcionalidades etc![[Obsidian/Universidad/2024-1/Arquitectura de Software/Diagram.svg]]
+- Este patrón adaptable sirve para:
+	- Sistemas con interfaces de programación parecidas
+	- Basados en el mismo núcleo funciona
+	- Linux por ejemplo, su núcleo su parte central se diseño con esta arquitectura en la mente, entonces si yo quiero que haga algo, se le agrega.
+
+### Reflection
