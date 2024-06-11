@@ -658,5 +658,20 @@ falta seguridad, por transmisiones encriptadas etc
 rendimiento, no vas a esperar 30 min pa un cafe xd
 mantenibilidad, en caso de querer agregar otro servicio
 
+# 11-06
+
+Microkernel: núcleo que hace funcione básicas y plugin que hacen que el núcleo se adapte a distintos entornos.
+
+Estructura mínima: núcleo
+Extendida: plugins
+
+Si quiero que el sistema pueda añadir cosas como escuchar musica etc, se hacen con plugins
 ### Reflection
+REFLECTION la adaptacion lo hace en tiempo real, mientras se esta ejecutando, es una adaptacion activa. a diferencia de micro kernel
+
+Se usa cuando quiero que el sistema se adapte, cambie, etc en tiempo real.
+
+En las primeras versiones de UNIX, se podian instalar nuevas versiones con el sistema corriendo sin reiniciar etc... 
+Ahora es impensado.
+
 
