@@ -680,3 +680,37 @@ Ejemplos de aplicaciones:
 - Middleware's
 
 
+#### Nivel Base: 
+- El sistema, que hacen los programas, en que están etc...
+#### Nivel Meta:
+- El que sabe las características (no es el dato, es el tipo por ej).
+- Provee mecanismos de análisis y modificación a nivel base en tiempo de ejecución
+- Es como un programador automático, que esta verificando lo que esta pasando en el nivel base y nos permite modificar en tiempo real .
+- Este es el intruso, el que ve que hace el sistema XD
+
+#### Análisis
+- Ventajas:
+	- Adaptable a los cambios
+	- Flexible: se puede hacer y deshacer cosas en tiempo de ejecución, por que los componentes del nivel meta son capaces de inspeccionar lo que esta pasando.
+	- Extensible: permite adición de nuevas funcionalidades, sin afectar a las que están corriendo (quiero soportar audio en mi sistema, digitalización de caracteres, etc...)-> tiene que ver con mantenibilidad, pero es más que eso.
+- Desventajas:
+	- Complejidad en el diseño
+	- Complejidad en implementación
+		-  mucho mas complejo pero en tiempo de ejecución se ve la paga, es en tiempo real y dinámico, pago mas tiempo en diseño e implementación.
+	- Seguridad en peligro
+		- Por que como los cambios se hacen dinámicamente, alguien malicioso podría hacer un cambio y tomar el control. Si no se maneja bien la seguridad, fácilmente se puede exponer a alguien que pueda interferir en el meta puede interferir en el sistema. 
+
+#### Ejercicio:
+organigrama con gerencias:
+a) justifica arquitectura
+REPOSITORIO: puede ser pero por que no?
+repositorio tendría los datos generales y además los datos específicos de cada una de las gerencia.
+por que no? es por que repositorio su objetivo es compartir grandes volúmenes de datos, pero aquí en la empresa no hay grandes volúmenes de datos.
+
+SOA:ESTE SI, por 
+
+CLIENTE SERVIDOR:
+
+b) explicar las modificaciones
+
+
