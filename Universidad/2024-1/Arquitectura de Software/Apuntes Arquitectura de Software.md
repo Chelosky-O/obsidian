@@ -672,6 +672,11 @@ REFLECTION la adaptacion lo hace en tiempo real, mientras se esta ejecutando, es
 Se usa cuando quiero que el sistema se adapte, cambie, etc en tiempo real.
 
 En las primeras versiones de UNIX, se podian instalar nuevas versiones con el sistema corriendo sin reiniciar etc... 
-Ahora es impensado.
+Ahora es impensado.xd profe hater con esto
+
+Ejemplos de aplicaciones:
+- frameworks
+- IDE'S
+- Middleware's
 
 
