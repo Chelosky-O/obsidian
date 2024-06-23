@@ -875,7 +875,7 @@ Gerente zona
 		S
 		X
 
-![[Diagram.svg]]
+![[Obsidian/Universidad/2024-1/Arquitectura de Software/Diagram.svg]]
 
 
 Cuando alguien externo al giro viene a ayudar a otra función por ejemplo finanzas necesita ayuda por nueva ley de presupuestos, se pone entre presupuesto y finanzas con linea discontinua o segmentada y cuadrado de linea continua.
