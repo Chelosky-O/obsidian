@@ -385,7 +385,6 @@ Ejemplo estudiante que quiere entrar a estudiar, informática y telecomunicacion
 
 Conclusion: (Si no hay conclusión no tiene puntaje)
 La UDP muestra un crecimiento, pero debe abordar preocupaciones como la creciente competencia, la falta de áreas verdes y los aranceles elevados.
-<<<<<<< HEAD
 ## MATRIZ FODA
 Matriz FODA: me da **acciones** para la misión, objetivos generales, objetivos específicos, metas
 La estrategia a usar es la que posea mas cantidad.
