@@ -703,7 +703,7 @@ Ejemplos de aplicaciones:
 #### Ejercicio:
 organigrama con gerencias:
 a) justifica arquitectura
-REPOSITORIO: puede ser pero por que no?
+REPOSITORIO: puedser e pero por que no?
 repositorio tendría los datos generales y además los datos específicos de cada una de las gerencia.
 por que no? es por que repositorio su objetivo es compartir grandes volúmenes de datos, pero aquí en la empresa no hay grandes volúmenes de datos.
 
