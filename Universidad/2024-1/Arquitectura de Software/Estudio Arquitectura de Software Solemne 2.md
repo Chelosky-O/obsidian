@@ -416,7 +416,7 @@ Finalmente, se tendría el BUS de datos que controlaría el flujo de datos entre
 
 ###### Ejercicio
 Comente el siguiente párrafo, justificando sus comentarios.
-1. ´ón PAC posibilita la satisfacción de cada una de las funcionalidades especificas mediante la ejecución de varios agentes, los cuales aportan colaborativamente con una parte de la respuesta.
+1. El patrón PAC posibilita la satisfacción de cada una de las funcionalidades especificas mediante la ejecución de varios agentes, los cuales aportan colaborativamente con una parte de la respuesta.
 Verdadero, en la satisfacción de un requerimiento pueden participar varios agentes, los cuáles aportan con lo que les corresponde de la solución.
 2. Ello es posible dado que cada agente tiene una copia del proceso de control que administra la ejecución de los agentes, proceso caracterizado con la ‘C’ de la sigla PAC.
 Falso, si bien cada agente tiene un proceso de control, se utiliza para sus fines propios. No existe una copia común en todos los agentes.
