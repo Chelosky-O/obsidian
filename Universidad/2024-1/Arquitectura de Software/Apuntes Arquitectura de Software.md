@@ -466,7 +466,7 @@ Fueras presentes en el contexto
 #### Clasificación de patrones
 ##### Patrones simples
 - **Capas**
-	- Estructura aplicaciones descomponiendolas en tareas con diferentes niveles de abstracción
+	- Estructura aplicaciones descomponiéndolas en tareas con diferentes niveles de abstracción
 	- **Contexto**: Sistemas estructurados con diversos niveles de acción
 	- **Requerimiento**: Organización inadecuada genera problemas de escalabilidad y mantenibilidad.
 	- **Solución**: Estructuración en esquema multi-capa
@@ -703,7 +703,7 @@ Ejemplos de aplicaciones:
 #### Ejercicio:
 organigrama con gerencias:
 a) justifica arquitectura
-REPOSITORIO: puede ser pero por que no?
+REPOSITORIO: puedser e pero por que no?
 repositorio tendría los datos generales y además los datos específicos de cada una de las gerencia.
 por que no? es por que repositorio su objetivo es compartir grandes volúmenes de datos, pero aquí en la empresa no hay grandes volúmenes de datos.
 
