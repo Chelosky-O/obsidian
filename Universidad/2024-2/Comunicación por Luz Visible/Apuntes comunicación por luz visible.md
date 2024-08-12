@@ -31,3 +31,28 @@ Bases de comunicación de luz visible
 	hardware: construir sistema y transmitir usando arduinos o raspberrys 3 integrantes
 
 
+---
+
+Tx Canal Rx
+
+Tx
+Primero se verá como se transmite, el como se procesa o trabaja es lo mismo en radiofrecuencia o luz visible, cambia en la final, proceso de cambio de eléctrico a óptico.
+
+Canal
+Modelo de Friis
+Modelo Hata
+en vacio va perdiendo potencia, estos modelos dan una expresión matemática 
+
+Aquí se utiliza el modelo LoS y mom-LoS(Reflexiones)
+
+Rx
+No se usa una antena si no que un photodetector o photoresistor
+
+photodetector es mejor.
+
+---
+
+Revisión literaria de papers
+Manejo de MATLAB
+Análisis de la tecnología VLC
+
