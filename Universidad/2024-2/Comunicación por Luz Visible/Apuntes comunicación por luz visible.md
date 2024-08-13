@@ -116,8 +116,54 @@ VLP OOC VLC-IoT
 VLC Indoor LiFi
 
 
+---
+
+VLC orden de Tera Hz [THz]
+VLC trabaja en el rango de la luz visible [380 hasta 730]nm(nanometros)
+La frecuencia [411 THz - 789 THzs]
+
+f=c/long de onda
 
 
+---
 
+## Componentes del Sistema VLC
 
+### MODULADOR
+Dispositivo que se coloca al lado de la bombilla LED. Varia la onda de la señal, haciendo que esta viaje en forma de código binario hasta el fotorreceptor
+### FOTORECEPTOR
+El que transforma luz en electricidad
 
+---
+
+### Velocidades transmisión
+
+En distancias cortas indoor max 1.5 m velocidades de Gbps 
+Más distancia menos tasas.
+
+### Interferencia EM
+nunca interferirá entre señal de radiofrecuencia (wifi o otra) y la comunicación por luz visible, pueden trabajar a la par.
+
+Las bandas y frecuencias de radiofrecuencia esta regulada a diferencia de vlc
+
+### Seguridad y costo
+
+Con wifi es relativamente fácil interceptar la radiofrecuencia.
+
+Con la luz no traspasa paredes, no puede venir alguien afuera xd
+da mas seguridad sin agregar nada.
+
+En costo, es mas costoso crear algo desde 0, mano de obra, pruebas, equipos. La idea de VLC es añadir pequeños circuitos a la luminaria ya existente.
+
+---
+## Aplicaciones en entornos industriales
+
+- Aplicaciones Medicas: Disminuir la interferencia electromagnética
+- UnderWater: Radiofrecuencia bajo el agua no es tan optima
+- Aviones: Ya no apagar celulares o dispositivos al no interferir en radiofrecuencias.
+- Visible Light Positioning:
+- High speed internet
+- IoT and Smarts Infraestructures
+- VLC en entornos mineros subterráneos
+- VLC en Invernaderos
+- 
