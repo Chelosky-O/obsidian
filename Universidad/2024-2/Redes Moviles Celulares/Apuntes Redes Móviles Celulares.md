@@ -1,4 +1,4 @@
-# Clase 1
+# 09-08
 Correo: robertocarlos231@gmail.com
 
 3 unidades c/u evaluación. Promedio simple
@@ -215,3 +215,5 @@ Modulación adaptativa
 cuando tengo buenas condiciones el sistema me pondra el mejor modulacion
 luego va bajando segun 
 ![[941.jpg]]
+# 13-08
+

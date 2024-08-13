@@ -1,4 +1,4 @@
-# Clase 1
+# 09-08
 
 ## Evaluación de proyectos TIC
 
@@ -64,22 +64,8 @@ Ayudantías: da rapidez
 Evaluaciones → Solemnes 1h 30min
 Controles
 
+---
 
+# 13-08
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## xd

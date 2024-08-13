@@ -1,4 +1,4 @@
-# Clase 1
+# 09-08
 
 Estrategia → Generales 
 Nosotros se enfocaran a las de Informática
