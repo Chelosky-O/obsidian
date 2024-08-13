@@ -22,6 +22,10 @@ Visión → Donde queremos llegar
 
 Es como el canal, no señala el destino, orienta las motivaciones de la visión.
 
+---
+
+
+
 
 
 

@@ -56,3 +56,68 @@ Revisión literaria de papers
 Manejo de MATLAB
 Análisis de la tecnología VLC
 
+
+
+# 13-08
+
+## Introducción
+
+Distintos tipos de tecnología con luz.
+
+### Motivación:
+
+Por que estamos en continua mejora, innovación, nuevas tecnologías, etc... Por que innovar?
+- Limitaciones, toda tecnología incluso vlc tiene limitaciones, ninguna es perfecta, tienen ventajas y desventajas.
+	- Las desventajas de una sirven para aprovecharla en otra forma.
+- Interferencias, ruido y saturación
+- Masificación de equipos. El crecimiento ha sido exponencial, existen millones de equipos por usuarios. → Genera Saturación. (IOT)
+
+Alexander Graham Bell → Fotófono → Cambio en colores al hablar, representaban un sonido. primer teléfono inalámbrico basado en cambios de intensidad de luz.
+
+Harald Hass → LiFi → Light Fidelity 
+
+---
+
+Tecnologia VLC
+
+El principio basico es modular la intensidad de la luz.
+
+Hay muchos parientes de VLC (OWC optical wireless comunication), en redes opticas se transmitia laser o leds en fibra. ese es un medio alambrico, lo que veremos aca es inalambrica.
+
+Como se clasifican: Que usamos como transmisor y receptor
+- Led → Fotodetector (quizas panel solar) y ambiente indoor: VLC
+- Laser → Fotodetector: FSO[FREE SPACE OPTICAL]
+- LED ARRAY → Fotodetector Array o Camera: OCC [OPTICAL CAMERA COMUNICATION]
+
+
+---
+## OWC
+
+### OUTDOOR
+
+Free space optics
+
+V2V/V2l = Vehicle 2 Vehicle Usar comunicación usando los faros para comunicarme con vehículos delante y detrás.
+
+VLC outdoor LiFi
+
+OOC VLC-IoT
+
+VLC-IOT usando camaras ya instaladas en las ciudades que utilizan las luminarias
+
+UWOC: Under Water Optical Communication → La radiofrecuencia bajo el agua es muy dificil
+
+### Indoor
+
+IR WSN: Wireless Sensors Network
+
+VLP OOC VLC-IoT
+
+VLC Indoor LiFi
+
+
+
+
+
+
+
