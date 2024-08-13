@@ -68,4 +68,121 @@ Controles
 
 # 13-08
 
-## xd
+*Leer Sapag capitulos 1 y 3
+## Preparación y evaluación de Proyecto
+
+### Que es un proyecto:
+Trabajo o conjunto de actividades coordinadas con un objetivo específico, generalmente de cambio, que es planeado, dirigido y controlado, con un una cantidad de recursos, un comienzo y un final predeterminado.
+
+El cambio puede ser cambiar una cosa por otra o quitar etc...
+
+Un proyecto:
+- Tiene un propósito, un objetivo
+	- Recordar:
+		Planear → Organizar → Supervisar → Controlar → Planear...
+		El objetivo viene en Planear.
+- Plazo determinado
+	- Fecha inicio
+	- Fecha termino
+- Recursos determinado
+
+Como podemos decir que un proyecto es exitoso: Cuando cumplió el objetivo, se termina en un plazo planeado y usando los recursos  que se estimaron.
+
+### No es un Proyecto
+Un trabajo periódico o continuo, en su realización regular, una vez que entró en operación. Un proceso del negocio normalmente no será un proyecto, salvo que el negocio sea hacer proyectos.
+
+No es un proyecto cuando es un proceso normal de una compañía por ej: un proceso de seguridad de redes, entonces tiene un centro de control de la red, a ese es un proyecto que dura harto, no, es un proceso, el proyecto puede haber sido crearlo, eso si es un proyecto.
+
+#### Confusiones Respecto a los Proyectos
+
+- No es planificar (proyectar)  
+- No es una nueva actividad  
+- No es un proceso de negocio  
+- No es una empresa nueva → crear la empresa es un proyecto
+- No es algo inseguro o poco probable  
+- No es un emprendimiento informal  
+- No es lo que “salvará la situación”  
+- No asegura que no se produzcan problemas o imprevistos.
+- No puede quedar sin supervisión estricta, por bien definido que esté.
+- No pueden dirigirse sólo en base al “sentido común”
+
+---
+
+### Proyectos como medio de cambio
+
+Las empresas tienen ciertos niveles de trabajo
+
+![[Pasted image 20240813115152.png]]
+
+---
+
+La misión es lo que somos y la visión es lo que queremos llegar a ser.
+
+---
+
+Proyectos como Medios de Cambio.
+![[Pasted image 20240813115531.png]]
+
+La empresas evolucionan de acuerdo a su edad y a su tamaño. más grande o más madura.
+
+Estamos hablando de una empresa que se crea.
+
+A)
+- Cuando la empresa pequeña, crece por creatividad.
+	- El énfasis es producir y vender. en base a esto crece
+	- Una empresa sin liderazgo 
+	- Sin administración no es sustentable, no se sustenta.
+- Crisis de liderazgo: gente sale, entra, etc
+
+B)
+- Crece por dirección, que te dicen lo que hay que hacer, ej: el tipo de finanzas: no se aceptara ningún gasto que no esté en el presupuesto.
+- Ahora hay plantas en distintos lugares.
+
+C)
+- Se crean las contralorias, etc...
+
+
+---
+### Tipos de proyectos
+
+Según la finalidad o el objeto de la inversión , es decir, del objetivo de la asignación de recursos, es posible distinguir entre proyectos que • buscan crear nuevos negocios o empresas → *Cuando se crea una empresa se debe pensar en todo.*
+y aquellos que  
+• buscan evaluar un cambio, mejora o modernización en una empresa ya existente.  
+
+En el primer caso, la evaluación se concentrará en determinar todos los costos y beneficios asociados directamente con la inversión.  
+En el segundo, solo considerará aquellos que son relevantes para la decisión que se deberá tomar. Así, por ejemplo, si se evalúa el reemplazo de una estación de trabajo gráfica, el costo de la remuneración del diseñador es irrelevante, puesto que, sin importar e modelo o la marca por la que se opte, el sueldo será el mismo. Esto se conoce también como evaluación marginal o incremental .
+
+**Los Objetivos del Proyecto Condicionan su Gestión:**  
+•Creación de Nuevo Negocio  
+•Incorporación de Nuevo Producto o Servicio. 
+•Mejoramiento de Procesos  
+•Innovación de Procesos  
+•Renovación o Ampliación de Infraestructura o Tecnología
+
+Todo funciona pero quieren tener mejoras, hay que estudiar no el mercado competidor, no el de venta, si no el mercado de oferta de tecnología .
+
+**La Situación en que esto Ocurre Condiciona los  Objetivos, Alcance y Estrategia del Proyecto:**  
+•Negocio “saludable”(que tiene excedentes y toma la decisión de invertirlos en el mismo negocio), amenazado o “desesperado”(No esta en condiciones de tomar riesgos) 
+•Plazos Determinados por la Factibilidad o Forzados por  
+la Circunstancia.  
+•Riesgos del Problema y Riesgos de los Métodos y  
+Tecnologías
+
+---
+![[Pasted image 20240813122041.png]]
+
+**Experiencia aprendizaje**
+
+la base de conocimiento esta basado en lo que hemos hecho antes.
+
+Como se materializa una base de conocimiento: se materializa como avances, reportes, tableros de indicadores.
+
+Al final del proyecto hay una reflexión.
+
+---
+
+
+
+
+
+
