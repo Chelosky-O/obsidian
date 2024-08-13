@@ -68,7 +68,7 @@ Controles
 
 # 13-08
 
-*Leer Sapag capitulos 1 y 3
+*Leer Sapag capítulos 1 y 3
 ## Preparación y evaluación de Proyecto
 
 ### Que es un proyecto:
