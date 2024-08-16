@@ -217,3 +217,223 @@ luego va bajando segun
 ![[941.jpg]]
 # 13-08
 
+# 16-08
+
+## Arreglo de antenas
+Cuando pongo mas de una antena, lineal o matricial.
+Cada antena tiene su patrón de radiación en particular.
+
+### Antena inteligente
+Mover el patrón de radiación.
+
+en 5G tengo distintas antenas y al final se combinan las respuestas en amplitud y fase.
+
+el usuario reporta hacia arriba y puede direccionar el patrón de radiación. puede seguirlo mientras reporta su nivel de señal
+![[Imagen de WhatsApp 2024-08-16 a las 08.40.21_b3070d0c.jpg]]
+
+5g nace con antenas inteligentes 32 a 64 tx y rx
+
+---
+
+#### BeamForming
+
+##### Dinámico
+El ejemplo de aparatos, defensa antiaérea, antimisiles, se va ajustando a la trayectoria del misil o avión
+
+##### Estático
+Significa:
+
+![[Imagen de WhatsApp 2024-08-16 a las 08.45.54_3cec9b19.jpg]]
+
+Alojando a los diferentes usuarios, eso queda quieto, no sigue solo pasa al siguiente.
+
+---
+
+#### Massive MIMO
+
+Combinar los 2 anteriores.
+
+4G a lo más tiene 4 receptores y transmisores.
+
+Los celulares más modernos tienen 2 transmisores y 4 receptores.
+
+El problema es que si se agrega otro celu perdió esas 4 recepciones.
+
+---
+
+Ahora si hay 16 en la antena como se muestra en el ejemplo.
+
+![[Imagen de WhatsApp 2024-08-16 a las 08.50.13_5a805bff.jpg]]
+
+Se tiene un celular 2Tx/4Rx y un 1Tx/2Rx, todos tienen sus rx ocupados
+
+ahora si aparece un tercero se puede distribuir el arreglo de antenas.
+
+---
+
+3G 3.7 es H+.
+4G+ es 4.5
+
+---
+
+## Zonas de Fresnel
+
+Sirve par Diseño, Simulación, 
+
+Aire medio no ideal. obstruccion → perdida en espacio libre
+
+ademas hay obstrucciones que no tienen que ver con el aire como edificio montañas etc...
+
+Se puede modelar con Fresnel
+
+Lobulo de cobertura que se genera entre transmisor y receptor.
+
+Todo el calculo se hace para la primera por que tiene linea de vista.
+
+### Calculo de Enlace
+
+Elipsoide (elipse 3d)
+
+El radio de este es r = 17,32\*sqrt((d1\*\d2)/(d\*f))
+
+
+### Perdida espacio libre
+
+Esto no da negativo, pero cuando se ocupa para calcular le pongo el menos
+por que es una perdida.
+![[Pasted image 20240816090707.png]]
+
+
+
+---
+
+
+
+PIRE O EIRP Presupuesto para salir hacia el aire.
+
+![[Pasted image 20240816090152.png]]
+
+---
+
+![[Pasted image 20240816090055.png]]
+
+![[Imagen de WhatsApp 2024-08-16 a las 09.03.22_59950c96.jpg]]
+
+---
+
+
+
+
+![[Imagen de WhatsApp 2024-08-16 a las 09.06.14_f60fec31.jpg]]
+
+Ahora el ejercicio con fre
+
+![[Imagen de WhatsApp 2024-08-16 a las 09.09.54_8c8f92d5.jpg]]
+
+mas frecuencia menos radio osea soy mas resiliente a obstrucciones
+mientras mas grande el radio mas choque.
+
+no creo que se pregunte esto en la prueba pero si lo siguiente.
+
+---
+
+## Modelos de propagación
+
+Cuando se invierte se debe definir un diseño apalancado por cálculos.
+
+Simulación previa.
+
+- Terrestrial path with one terminal in woodland: En bosque no considera espacio libre, solo vejetacion a eso se debe sumar la perdida de espacio libre.
+- ITU TERRAIN MODEL: modelo para desnivel geografico, montañas, mecetas, etc... obstrucciones con perdidas adicionales. Tampoco tiene la perdida en espacio libre, se tiene que sumar.
+- HATA MODEL: Este se utiliza en redes moviles celulares. Ecuaciones para suburbanos rurales, abiertas, ciudades. Tiene restricciones. Pero funciona para 3G. Toma todo el fenomeno de problemas que hay
+- HATA EXTENDIDO → COST 231: Este si que si se usa ahora. Ahora añade una constante para acoplarse a las ciudades que uno va a simular
+
+Tanto hata como cost321 depende de 4 elementos, 
+- distancia de los 2 elementos en KM.
+- Frecuencia de operación en MHZ
+- ht Altura estación base, depende de la zona, desde 10m hasta 60m zona ma rurale, medida comun 30-36m y
+- HT altura dispositivo celular, se usa 1.5 metros en promedio. 1.6 si quisiera
+
+---
+En el software se usara longly raise usa itu terrain model osea Fresnel.
+Por perdidas adicionales por condición climatológica.
+
+Por aquí termina lo de antes.
+
+---
+
+## Redes móviles
+
+Problemas:
+- Espectro disponible limitado (ancho del canal en frecuencia)
+	- Eficiencia espectral: bits/Hz/Seg cuanto bits puedo enviar por hertz por segundo.
+		- El segundo no puedo manipularlo, los bits depende de la tecnologia. pero si hay algo manipulable a mi antojo, los hz. la frecuencia. si yo agrando mi BW añado ma
+		- 2G el ancho del canal son 200 KHZ
+		- 3G 5 MHZ
+		- 4G 20 MHZ
+		- 5G 100MHZ
+		- puede ser menos? si, la subtel licito 50 MHZ para cada operador en 5G, estas son maximas, pero se puede tener menos
+		- Mayor generacion mas ancho de canal osea mas informacion puedo mandar. El problema es que es un recurso limitado.
+		- Hay que distribuir para evitar congestión
+
+Una torre celular esta compuesta por 2 partes:
+	El sistema radiante, el que da potencia a señal
+	Y sistema de bandabase o procesamiento digital, de aqui va al nucleo de la red.
+Estructura de celdas:
+	El concepto de movilidad entre celdas lo da el HANDOVER
+		El handover es: el terminal reporta a que antena le va mejor, la señal de una torre es mayor a otra dependiendo de distancias, hay un punto donde las 2 se equilibran, hay un delta para hacer el traspaso, hasta que se llega a el margen, y como esta mejor se cambia.
+
+
+---
+
+### Tópicos observados en redes móviles
+
+- Cobertura: tener un buen nivel de señal y mínimo nivel de interferencia para tener cobertura eficiente
+- Calidad: congestión en servicio, cortes de llamadas, que no se pueda usar el servicio. Aquí se despoja la integridad del servicio
+- Capacidad: Relacionado a cantidad de usuarios en una celda, si tengo muchos usaros todos van a pedir recursos, habrá muy poquito para mi, me va mal.
+
+---
+
+SOLO VOZ
+2G → 2G
+2,5G → GPRS
+2,7G → E (Edge)
+2 ESTANDARES CDMA GRINGO Y GSM EUROPEO MA ADOPTADO
+
+3G → 3G
+3,5G → H
+3,7G → H+
+
+4G → 4G
+4,5G → 4G+
+
+5G → 5G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

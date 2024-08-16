@@ -166,4 +166,3 @@ En costo, es mas costoso crear algo desde 0, mano de obra, pruebas, equipos. La 
 - IoT and Smarts Infraestructures
 - VLC en entornos mineros subterráneos
 - VLC en Invernaderos
-- 
