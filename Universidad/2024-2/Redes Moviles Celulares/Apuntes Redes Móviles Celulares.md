@@ -959,7 +959,7 @@ Cuando se invierte se debe definir un diseño apalancado por cálculos.
 Simulación previa.
 
 - Terrestrial path with one terminal in woodland: En bosque no considera espacio libre, solo vejetacion a eso se debe sumar la perdida de espacio libre.
-- ITU TERRAIN MODEL: modelo para desnivel geografico, montañas, mecetas, etc... obstrucciones con perdidas adicionales. Tampoco tiene la perdida en espacio libre, se tiene que sumar.
+- ITU TERRAIN MODEL: modelo para desnivel geográfico, montañas, mesetas, etc... obstrucciones con perdidas adicionales. Tampoco tiene la perdida en espacio libre, se tiene que sumar.
 - HATA MODEL: Este se utiliza en redes moviles celulares. Ecuaciones para suburbanos rurales, abiertas, ciudades. Tiene restricciones. Pero funciona para 3G. Toma todo el fenomeno de problemas que hay
 - HATA EXTENDIDO → COST 231: Este si que si se usa ahora. Ahora añade una constante para acoplarse a las ciudades que uno va a simular
 
@@ -1030,15 +1030,110 @@ SOLO VOZ
 
 # 20-08
 
-## 
+## Historia y Evolución de la redes móviles
+![[Pasted image 20240820085217.png]]
+
+FDMA → Muchos canales FM.
+
+
+---
+![[Pasted image 20240820085322.png]]
+
+La ITU le puso orden. en 1G todos los países tenían un standard propio.
+
+GSM se adopto más.
+
+Se pasó de analógico a digital. Comienzan a aparecer SMS.
+
+Se crea a 3GPP que standariza las redes móviles
+3GPP2 para CDMA
+después 3GPP2 desaparece.
+
+Canales dedicados a voz y a datos.
+
+---
+![[Pasted image 20240820085547.png]]
+salió como 2005
+
+GSM evoluciona a → UMTS ahora las 3g son UMTS
+
+Aquí hasta 64QAM en cuanto a modulación digital.
+
+También hay canales dedicados a voz y datos. para voz esta bien asegurar conexión, pero datos era ineficiente.
+
+crearon HSPA, tengo un poll de recursos y existe una disposición.
+
+---
+![[Pasted image 20240820085833.png]]
+desplego 2014 y 5g 2023
+
+quiebre con predecesores, volvemos a tener segmentación en frecuencia y tiempo como en 2g pero más eficiente.
+
+Todos los sistemas de teleco tienen OFDMA como método de acceso.
+
+Postularon LTE+ y WIMAX2, pero gano LTE+, ya que LTE queda standarizado a nivel mundial.
+
+Chile usa mucho su red celular. agresivos >:(
+
+Se acabo la conmutación de circuitos, todo es paquetizado hasta la voz.
+
+
+## Estación base móvil
+
+![[Pasted image 20240820090550.png]]
+
+1RO se necesita montar una estructura y abajo un gabinete ojala protegido.
+
+Monoposte para ciudades.
+
+Autosoportada ciudades o rurales.
+
+![[Pasted image 20240820090759.png]]
+
+Arriba esta el amplificador y la antena.
+
+Puede ser alimentado con fibra óptica o cable coaxial.
+
+Abajo todo el sistema de procesamiento digital y permite comunicarme al núcleo de la red a través de micro ondas etc...
+
+---
+
+Ejemplo pasivo con RRU's
+![[Imagen de WhatsApp 2024-08-20 a las 09.16.37_1f6d16b9.jpg]]
+
+---
+
+5G TODAS ACTIVAS.
+4G PUEDE SER ACTIVAS PERO DE NORMAL SON PASIVAS.
+
+---
+
+![[Pasted image 20240820092117.png]]
+
+
+baseband digital unit, de ahi sale las fibras q llega a unidad de radio o antena activa.
+
+![[Pasted image 20240820092338.png]]
+![[Pasted image 20240820092357.png]]
+
+![[Pasted image 20240820092412.png]]
+
+![[Pasted image 20240820092424.png]]
+![[Pasted image 20240820092451.png]]
+Funcionan con corriente continua
+
+También se utiliza climatización para mantener una temperatura dentro de esto.
+
+---
+
+# 23-08
+## Estructura celular de una red móvil
+
+![[Pasted image 20240820092545.png]]
 
 
 
-
-
-
-
-
+![[Pasted image 20240820092609.png]]
 
 
 
