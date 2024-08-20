@@ -1124,9 +1124,6 @@ Funcionan con corriente continua
 
 También se utiliza climatización para mantener una temperatura dentro de esto.
 
-
-
-
 ---
 
 # 23-08
