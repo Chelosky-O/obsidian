@@ -33,7 +33,7 @@ Es como el canal, no señala el destino, orienta las motivaciones de la visión.
 
 ![[Pasted image 20240820131702.png]]
 
-HASTA PAGINA 32
+HASTA PAGINA 36
 
 
 
