@@ -186,3 +186,37 @@ Al final del proyecto hay una reflexión.
 
 
 
+
+
+# 20-08
+
+## Elementos de Matemáticas Financieras
+
+Evaluaciones en Excel.
+
+### Conceptos
+
+- Agente económico: persona natural o jurídica, institución, etc... puede ser una corporación sin fines de lucro (que el dinero no se puede retirar por personas). Interviene en intercambio de bienes y servicios en sociedad
+- Capital o Principal (C o P): dinero que se transa en operación, préstamo o inversión.
+- Interés: pago que hace agente económico por hacer uso de dinero de otro agente económico, por periodo de tiempo.
+- Tasa de interés (i o r): Factor numérico representativo de la proporción del capital que se devenga como interés en un período de tiempo determinado, que llamaremos “período de definición de la tasa” o período de la tasa.
+
+
+devengar: pasas un monto de dinero y pasa el tiempo, entonces si se pacta una tasa de interés, tu derecho a la devolución si son 1000 no te devolverán 1000 será 1000 + interés.
+
+![[Imagen de WhatsApp 2024-08-20 a las 11.58.32_b4078f8a.jpg]]
+
+---
+
+#### Monto de Intereses y Tasa de Interés porcentual
+
+De acuerdo a las definiciones iniciales, si un agente económico toma en préstamo una cantidad de dinero P (Principal), al término del período pactado deberá retornar una suma S (saldo) que cubra el monto del principal más los intereses que se han acumulado en dicho período. 
+Sucede algo similar cuando un agente económico deposita dinero en una institución financiera.
+
+
+![[Pasted image 20240820120110.png]]
+
+![[Pasted image 20240820121108.png]]
+
+El mercado de capitales:
+Que es el dinero? 
