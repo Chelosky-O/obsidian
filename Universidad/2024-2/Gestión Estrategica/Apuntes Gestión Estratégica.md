@@ -26,9 +26,14 @@ Es como el canal, no señala el destino, orienta las motivaciones de la visión.
 
 # 20-08
 
+![[Pasted image 20240820131434.png]]
 
+![[Pasted image 20240820131538.png]]
+![[Pasted image 20240820131548.png]]
 
+![[Pasted image 20240820131702.png]]
 
+HASTA PAGINA 32
 
 
 
