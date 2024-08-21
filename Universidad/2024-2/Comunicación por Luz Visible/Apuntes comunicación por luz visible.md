@@ -166,3 +166,199 @@ En costo, es mas costoso crear algo desde 0, mano de obra, pruebas, equipos. La 
 - IoT and Smarts Infraestructures
 - VLC en entornos mineros subterráneos
 - VLC en Invernaderos
+
+
+# 16-08
+## Configuración básica de sistema VLC/LiFi
+![[Pasted image 20240820201726.png]]
+Transmisor
+- Fuente de datos
+- Driver Controlador de lámparas leds
+
+Receptor
+- Dongle
+	- Fotodetector
+	- Todo el sistema de procesamiento de la señal que estamos recibiendo
+
+---
+![[Pasted image 20240820202202.png]]
+
+Ciertas etapas o bloques que se parecen mucho a radiofrecuencia.
+
+![[Pasted image 20240820202229.png]]
+
+![[Pasted image 20240820202237.png]]
+
+Se necesita en VLC otros bloques adicionales para ser transmitida por el propio evento físico de la luz y uno de esos es el pre distorsionador que es añadir una pequeña distorsión a la señal modulada para que pueda contrarrestar la propia distorsión que se genera por efectos físicos.
+
+![[Pasted image 20240820202413.png]]
+
+Pulse Shaping: Es la formación de un pulso adecuado para representar el dato digital a señal analógica y pueda ser transmitida por el led ya que el led funciona con corriente y voltaje por lo que son señales analogicas, hay que variar la magnitud de la corriente o voltaje para que varie la potencia luminosa y con eso emular bits o simbolos.
+
+![[Pasted image 20240820202650.png]]
+
+Señal OFDM: en comunicaciones por luz visible necesitamos que la señal sea unipolar positiva y real. Por lo que todas las amplitudes negativas tienen que ser subidas añadiéndole un DC bias (sumar una seña dc a la ac que tenemos como señal de datos).
+
+![[Pasted image 20240820202751.png]]
+
+Modificando el voltaje se aumenta o disminuye la corriente y viseversa.
+
+![[Pasted image 20240820202821.png]]
+
+Hay que tener cuidado en el área DC que se trabaja para no cortar o saturar el led. corriente debe ser manejada con un driver. Los leds suelen tener un driver.
+
+![[Pasted image 20240820203004.png]]
+
+Se usan leds masivamente y no ampolletas, por que? Por la potencia que consumen. mucha deficiencia en consumo de potencia en ampolleta incandescente.
+
+![[Pasted image 20240820203107.png]]
+
+# 20-08
+
+![[Pasted image 20240820203204.png]]
+
+Unidades fotométricas: como medir la luz dependiendo de donde nos encontremos, el punto de vista del observador o de algún área especifica.
+Cambia la unidad por el punto de vista que se tome.
+
+hay 4 unidades:
+
+- Candela(cd): unidad en sistema internacional, intensidad luminosa solo en una dirección especifica. es un vector que dice intensidad. Fuente de luz monocromática. 
+- Lumen(lm): flujo luminoso en todas las direcciones.
+- Lux(lx): 
+- Luminancia(L$\alpha$):fuente de luz que irradia en un punto específico o área especifica, pero nos colocamos como observadores, y el área que nosotros observamos que se ilumina es la luminancia. depende del angulo del observador.
+
+![[Pasted image 20240820203738.png]]
+
+1. Intensidad Luminosa (I): flujo que cae en Angulo determinado de apertura.
+2. Flujo luminoso($\phi$): no interviene Angulo, si no todo lo que yo irradio con el led en todas las direcciones. medido en lumen
+3. Luminaria(L):fuente de luz que irradia en un punto específico o área especifica, pero nos colocamos como observadores, y el área que nosotros observamos que se ilumina es la luminancia. depende del Angulo del observador.
+4. Iluminancia(E): la que mas nos sirve. El que se necesita optimizar. es los  rayos de luz que emite en una área especifica o determinada. todo el flujo que puede caer en una área determinada. vista desde el punto del área donde estoy recibiendo la luz. Se mide con lux
+	- Flujo en área determinada
+
+
+- Transmisión regular: pequeña desviación del Angulo con el que iba el rayo.
+- Transmisión difusa: muy usada en ambientes indoor con polvo, choca con este y se dispersa.
+- Transmisión mixta: algunos rayos tienen una transmisión regular y otros una difusa y esto se combina en ambientes mineros por ejemplos.
+
+
+Nosotros estudiamos la luz como onda.
+
+![[Pasted image 20240820204840.png]]
+
+Tipos de leds comerciales.
+
+Led es un diodo → Semiconductor : Galio - cilicio - germanio.
+
+Funciona con electroluminiscencia: energizo, doy un voltaje al led y hay 2 tipos de elementos un tipo p que tiene una deficiencia de electrones y un tipo n que tiene una carga de electrones. cuando energizo hay un cambio de energía al pasar electrones del tipo n al tipo p, se van llenando estos espacios y esa energía que se va liberando se libera como una fuente de luz fotones onda luminosa.
+
+El led debe estar polarizado en directa.
+
+Tipos de leds:
+- Led basado en fosforo: barato → Luz azul, molestosa a la vista. Para formar la luz blanca se cubre con una capa de fosforo amarillo, con esto la luz va a pasar por esa capa de fosforo y cambia su longitud de onda a blanca.
+	- ![[Pasted image 20240820205242.png]]
+- Multi-chip: arreglo de leds
+- Organic LEDs: oleds, mayor investigación.
+	- ![[Pasted image 20240820205255.png]]
+	- Muchos televisores tienen este tipo de pantallas. basados en cristales o polímeros.
+	- Ventajas: flexibles, delgados, se pueden reconstituir y tienen cierta inteligencia para saber cuanto transmitir a mas o menos intensidad.
+	- Con esto puedo aumentar el ancho de banda y se puede enviar mas datos que con un led. por su material flexibilidad y su adecuación a una estructura de transmisión.
+
+---
+
+![[Pasted image 20240820205514.png]]
+
+Si se quiere transmitir o usar una modulación para poder transmitir mas dígitos o bits, necesito modulaciones que permitan transmitir símbolos o conjuntos de bits.
+Se deben considerar 2 cosas:
+- Que la modulación o la energía que necesito para modular el dato este justo en el rango de funcionamiento lineal del led.
+
+
+![[Pasted image 20240820205741.png]]
+
+En términos de la señal se necesitan 2 características:
+- Que la señal sea positiva
+- Que la señal a transmitir sea real.
+Si no es alguna de esta se debe forzar a ser positiva y real
+
+Lo recomendable es usar modulaciones que usen cambios en intensidad.
+
+No se pueden usar constelaciones para representar una señal, como en 2d en radiofrecuencia
+y los valores negativos se deben hacer positivos usando aumentos de corriente.
+
+Modulaciones:
+OOK
+PAM
+PWM
+PPT
+OFDM → modificada:  a+jb(parte real y una parte imaginaria) se usa la real
+
+---
+![[Pasted image 20240820210032.png]]
+
+![[Pasted image 20240820210514.png]]
+modulación pasabanda
+
+---
+
+![[Pasted image 20240820210707.png]]
+
+A este circuito se pueden añadir cambios en intensidad con alguna señal de datos que cambie intensidad (apagando o prendiéndose) se pueden transmitir cosas básicas pero a poca distancia.
+
+![[Pasted image 20240820210754.png]]
+
+Por ejemplo un modulador, da una señal mas adecuada modulada para que sea transmitido por el led.
+Opamp para poner señal de comunicación.
+
+![[Pasted image 20240820210931.png]]
+
+Raspberry ya tiene todo para transmitir señales.
+
+![[Pasted image 20240820210951.png]]
+
+Los lasers tienen un mayor consumo de potencia, son mas dirigidos. se puede modular con mas frecuencia pero el ancho espectral óptico usado es muy bajo comparado con el led. no sirve mucho en indoor.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
