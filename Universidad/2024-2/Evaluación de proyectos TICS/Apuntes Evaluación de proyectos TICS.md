@@ -220,3 +220,30 @@ Sucede algo similar cuando un agente económico deposita dinero en una instituci
 
 El mercado de capitales:
 Que es el dinero? 
+
+# 23-08
+
+![[Pasted image 20240823120319.png]]
+
+M = Suma de operaciones de colocación por tasas de colocación - Suma de Operaciones de captación por tasas de interés.
+
+p = montos de capital
+
+---
+
+![[Pasted image 20240823120554.png]]
+
+
+Interes simple: el interes se aplica al capital original en cada periodo → desarrollo lineal
+n veces la tasa de interes (r)
+
+![[Pasted image 20240823120654.png]]
+
+Interés compuesto: se toma sobre el interes capitalizado del periodo anterior, no sobre el capital origi
+
+
+
+
+
+
+
