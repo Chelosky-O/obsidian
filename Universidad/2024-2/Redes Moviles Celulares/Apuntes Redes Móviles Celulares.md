@@ -1135,6 +1135,78 @@ También se utiliza climatización para mantener una temperatura dentro de esto.
 
 ![[Pasted image 20240820092609.png]]
 
+Las celdas se separan por tecnología, con cada portadora diferente
+Pero varias celdas pueden ser parte de un mismo sector.
+
+2 Portadoras 3G (2 Celdas)
+3 Portadoras 4G (3 celdas)
+1 portadora 5G (1 Celda)
+
+1 Sector → 6 Celdas
+
+---
+![[Pasted image 20240823083721.png]]
+
+Comúnmente se bajan datos. En general, el trafico de subida es el 10% del trafico de bajada.
+
+Duplexación no es lo mismo que una multiplexación. Es como administro el enlace descendente y ascendente de un usuario. de 2 formas:
+Tengo FDD, 1 canal dedicado solo a subida y un canal dedicado solo para la bajada. Permite comunicación sin colisión
+Distribución por distribución de tiempo se usa cuando tengo un solo canal y tengo que administrarlo para bajada y subida. Por cierto tiempo esto es bajada cierto tiempo subida. Como se baja más se designa mas tiempo bajada que subida.
+
+En 2G se usa FDD
+3G FDD
+4G FDD pero empieza el concepto de TDD muy poco explotado
+5G TDD
+
+
+![[Pasted image 20240823084904.png]]
+
+Estado IDLE: modo dormido, el teléfono puede estar en modo conectado o IDLE. Cuando no estoy haciendo nada estoy en modo IDLE.
+
+Como el teléfono despierta? Existe un mensaje llamado mensaje de paging, le dice al teléfono oye tienes algo. El mensaje de paging se coordina cuando el teléfono hace este ping.
+
+
+![[Pasted image 20240823085055.png]]
+CC es 56 es Chile
+NDC Numero que sigue (nosotros usamos el 9) pero aveces aparecen unos 8 o 7. Depende del pais que numero utilice
+Subcriber Number son los 8 digitos que componen el numero
+
+
+![[Pasted image 20240823085115.png]]
+dificil de clonar
+IMSI: 3 CAMPOS
+MCC: país 730 esto se usa bastante para la ubicación de cada usuario en un país. se usa para roaming.
+MCN: identifica proveedor del país.
+MSIN: Codigo de simcard, identifica del resto
+
+
+![[Pasted image 20240823085522.png]]
+
+Identificador de dispositivo movil. es facil de clonar
+
+---
+![[Pasted image 20240823085552.png]]
+En edge 200kbs max 
+
+
+![[Pasted image 20240823085603.png]]
+
+
+
+![[Pasted image 20240823085613.png]]
+
+frecuencia en downlink es mayor que el uplink. por que no al reves? 
+
+![[Pasted image 20240823091018.png]]
+
+
+
+![[Pasted image 20240823091056.png]]
+
+
+
+
+
 
 
 
