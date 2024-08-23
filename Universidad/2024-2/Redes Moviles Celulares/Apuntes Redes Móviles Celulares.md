@@ -1212,6 +1212,8 @@ BCCH →
 
 ![[Pasted image 20240823092729.png]]
 
+En su momento habian 40 bsc una por región y en Santiago 10.
+
 ---
 
 #
