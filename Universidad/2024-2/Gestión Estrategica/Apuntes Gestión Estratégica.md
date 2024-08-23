@@ -35,6 +35,4 @@ Es como el canal, no señala el destino, orienta las motivaciones de la visión.
 
 HASTA PAGINA 36
 
-
-
-
+# 23-08
