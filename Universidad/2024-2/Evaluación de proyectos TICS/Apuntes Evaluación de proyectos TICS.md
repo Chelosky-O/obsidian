@@ -239,7 +239,48 @@ n veces la tasa de interes (r)
 
 ![[Pasted image 20240823120654.png]]
 
-Interés compuesto: se toma sobre el interes capitalizado del periodo anterior, no sobre el capital origi
+Interés compuesto: se toma sobre el interés capitalizado del periodo anterior, no sobre el capital original.
+
+![[Pasted image 20240823121613.png]]
+tasa nominal → el periodo de capitalización es distinto al periodo de la tasa. 
+![[Imagen de WhatsApp 2024-08-23 a las 12.21.49_7872a9cf.jpg]]
+
+
+![[Pasted image 20240823121623.png]]
+
+
+
+![[Pasted image 20240823122409.png]]
+
+
+![[Pasted image 20240823123145.png]]
+
+![[Pasted image 20240823123621.png]]
+
+
+
+![[Pasted image 20240823124032.png]]
+![[Pasted image 20240823124625.png]]
+
+![[Pasted image 20240823124636.png]]
+
+
+![[Pasted image 20240823124645.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
