@@ -1199,17 +1199,20 @@ frecuencia en downlink es mayor que el uplink. por que no al reves?
 
 ![[Pasted image 20240823091018.png]]
 
-
+las operadoras tienen su frecuencia propia no la comparten con nadie.
+BCCH → 
 
 ![[Pasted image 20240823091056.png]]
 
 
 
 
+![[Pasted image 20240823091955.png]]
 
 
+![[Pasted image 20240823092729.png]]
 
-
+-
 
 
 
