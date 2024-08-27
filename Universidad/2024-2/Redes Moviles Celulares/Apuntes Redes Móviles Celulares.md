@@ -1383,6 +1383,10 @@ Aquí no hay plan de frecuencias, entonces como se a que celda esta conectada? h
 
 ![[Pasted image 20240827093341.png]]
 
+Si se esta completamente seguro de que se va a cambiar, me tiro, antes era mas brusco aquí no.
+En 3g siempre tengo una segunda opción. si no me funciona la segunda opción me quedo.
+
+![[Pasted image 20240827093722.png]]
 
 
 
