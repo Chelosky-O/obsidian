@@ -1187,6 +1187,7 @@ Identificador de dispositivo movil. es facil de clonar
 ---
 ![[Pasted image 20240823085552.png]]
 En edge 200kbs max 
+![[Imagen de WhatsApp 2024-08-27 a las 08.36.22_ebc84575.jpg]]
 
 
 ![[Pasted image 20240823085603.png]]
@@ -1200,25 +1201,94 @@ frecuencia en downlink es mayor que el uplink. por que no al reves?
 ![[Pasted image 20240823091018.png]]
 
 las operadoras tienen su frecuencia propia no la comparten con nadie.
-BCCH → 
+BCCH → la primera frecuencia Broadcasting control channel, indicador que el usuario ve para identificar la celda. Eso va alojado en el primer slot de la primera frecuencia.
+
+Los primeros slots son para control y señalización, todo el resto trafico.
 
 ![[Pasted image 20240823091056.png]]
 
 
-
+# 27-08
 
 ![[Pasted image 20240823091955.png]]
+
+Núcleo de red hace todas las funciones básicas que hace una red móvil.
+
+Torre celular : BTS
+
+Interfaz UM: la que va en el aire.
+
+En 2g las estaciones celulares no se manejan solas tienen un administrador. Se llama BSC y tiene una interfaz que se llama Abis.
+
+Cada BSC tiene un U definido para administrar Q cosas.
+
+Estos administradores llegan al MSC (conmutador de circuitos) que hace las transiciones para distribuir x entre 2 entes que quieren comunicarse.
+
+
+
+
 
 
 ![[Pasted image 20240823092729.png]]
 
 En su momento habían 40 bsc una por región y en Santiago 10.
 
+
+
 prueba martes 10
 
 ---
 
-#
+
+
+![[Pasted image 20240827082659.png]]
+
+Cuantos BSC yo tenga necesito una x cantidad MSC
+
+Ahora tenemos unos 6 MSC a nivel nacional, hay de redundancia entre estos ya que se cae y chao.
+
+
+Todos los msc tienen un GMSC que es un gateway hacia otros operadores móviles o fijos.
+
+
+
+
+
+
+
+![[Pasted image 20240827082711.png]]
+
+
+
+![[Pasted image 20240827082725.png]]
+
+
+
+
+![[Pasted image 20240827082738.png]]
+
+
+![[Pasted image 20240827082752.png]]
+
+
+
+![[Pasted image 20240827082904.png]]
+
+
+
+
+![[Pasted image 20240827082918.png]]
+
+
+![[Pasted image 20240827082938.png]]
+
+
+
+![[Pasted image 20240827082949.png]]
+
+
+
+
 
 
 

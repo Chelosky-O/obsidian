@@ -36,3 +36,54 @@ Es como el canal, no señala el destino, orienta las motivaciones de la visión.
 HASTA PAGINA 36
 
 # 23-08
+
+
+
+BSP → ERP
+
+ORACLE ERP
+SAP
+ETC...
+
+---
+
+Propuestas comerciales de consultoría 1
+#### Azurian
+ROI → capital compañía
+
+
+
+
+Estudios que publicara el profe:
+→ CETIUC → Estudios ENTI
+
+NO SE PUEDE CONOCER TODO
+Los estudios de demanda aplicación etc que se hacen en chile o extranjero nos apoya para tomar decisiones.
+
+Por que se debería considerar esa información: por que el hecho de que haya una oferta de una tecnología una forma de operar, no significa que se deba adoptar.
+
+Proyecto final: Diagnosticar una empresa y sugerirle un plan estratégico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
