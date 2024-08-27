@@ -263,9 +263,186 @@ tasa nominal → el periodo de capitalización es distinto al periodo de la tasa
 ![[Pasted image 20240823124625.png]]
 
 ![[Pasted image 20240823124636.png]]
-
+# 27-08
 
 ![[Pasted image 20240823124645.png]]
+
+La uf tiene un valor diario.
+Hay un valor de la uf hasta el día 10, se calcula con el valor.
+El 10 de agosto le aplicaron la variación del índice de precio de consumidor, del mes pasado.
+
+la variación del índice del consumidor hay periodos que sube y otros que baja.
+
+si el ipc sube en uf te conviene, tu deuda en menos. sin embargo si hiciste un deposito no te conviene mucho. la uf tiene menos valor que antes.
+
+yahoo finance usd/clp = x
+
+---
+
+operaciones corto plazo 180 dias app se toma en peso, pq la inflacion está mas o menos controlada. Sin embargo las operaciones a largo plazo, se toma un credito hipotecario para adquirir x... esos creditos se toman en uf para tener una claridad.
+Se puede en pesos pero me van a cobrar una tasa de interes enorme.
+
+Costo del dinero: lo que cobran por usar el dinero.
+
+
+---
+
+
+![[Pasted image 20240827115340.png]]
+
+Hay tasas libres de inflación, que el dinero aqui y alla vale lo mismo.
+
+La unidad tributaria mensual que va variando de acuerdo el ipc, se usa para multas, cobro de impuestos etc..
+
+---
+
+![[Pasted image 20240827115818.png]]
+
+Tasa nominal era por que no representaba intuitivamente lo que me estaban cobrando.
+
+if: es lo que se espera de inflación en el periodo
+rf: tasa con inflación
+r: lo que esperas recibir por que te usen el dinero
+
+las r son tasas
+P es dinero
+S es dinero
+
+---
+
+CAE la tasa incluye la inflación.
+
+Si la inflación sube mas de lo esperado el acreedor pierde y deudor gana.
+
+Cuando hay una tasa única, la tasa es rf o sea incluyendo inflación.
+
+---
+
+Sacas un auto de la tienda y chao, vale 30% meno.
+
+Por remate, por 1/3 del valor se compra lo mismo, pero si hay que esperar.
+
+---
+
+
+![[Pasted image 20240827122218.png]]
+
+n son los n periodos que hay.
+
+A la inversa, te voy a dar 1 M de pesos en 12 meses más. Si me lo das a futuro 1M de futuro vale menos.
+
+Valor presentes es Valor HOY.
+
+Pero esto es una tasa, que pasa si tenemos tasa variable? this:
+
+---
+
+![[Pasted image 20240827122533.png]]
+
+![[Pasted image 20240827122847.png]]
+
+Si ya tengo muchos flujos, todos los traigo a valor presente, se suman
+
+![[Pasted image 20240827123246.png]]
+Estos son los creditos en cuotas.
+
+
+
+
+![[Pasted image 20240827123326.png]]
+
+![[Pasted image 20240827123337.png]]
+
+![[Pasted image 20240827123500.png]]
+
+![[Pasted image 20240827123825.png]]
+
+El profe lo ha usado 1 vez noma para un cementerio.
+El programa de necesidad futura.
+
+---
+
+![[Pasted image 20240827124005.png]]
+
+Todo lo visto sirve para financiar los proyectos. Lo que ocurre es que hay una persona que hace una inversión P.
+
+---
+
+La nomenclatura es financistas
+Cuando te presto plata es Colocación.
+Cuando recibo deposito de ustedes es una Captación.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 30-08
 
 
 
