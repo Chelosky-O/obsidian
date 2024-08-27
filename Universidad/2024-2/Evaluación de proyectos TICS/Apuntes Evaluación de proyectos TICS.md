@@ -375,7 +375,6 @@ Cuando recibo deposito de ustedes es una Captación.
 ---
 Amortizar: suena como amortiguar, pero lo que pasa es que de alguna manera cuando tengo un crédito y lo voy a devolver, hay una parte en que estoy devolviendo el capital (P), pero además el interés, pero si no se hace de una, si no en cuotas, estas cuotas en parte cubre interés y en parte cubre parte del capital.
 
-
 # 30-08
 
 ![[Pasted image 20240827124454.png]]
