@@ -1256,35 +1256,141 @@ Todos los msc tienen un GMSC que es un gateway hacia otros operadores móviles o
 
 
 
+
+
 ![[Pasted image 20240827082711.png]]
 
+Hay bases de datos
 
+HLR estan nuestros datos, el plan el rut etc..
+
+Cuando tengo un servicio paso por todo y la red conoce lo que yo tengo a traves de una consulta a través de desta db
+
+EIR otra db que tiene 3 listas, blanca, negra y gris. Los lista blanca pueden traficar en la red, los lista negra estan bloqueados y gris son los que están intervenidos, por ej la pdi necesita seguir un nro y chao.
 
 ![[Pasted image 20240827082725.png]]
 
-
+La SIMCAR tiene una IMCI , el HLR sabe las 3 variables del IMCI, cada imci tiene una tripleta única. 
 
 
 ![[Pasted image 20240827082738.png]]
 
+VLR: Lo mismo que el HLR, base de datos de los abonados, el vlr es como una ram. se consulta primero al hlr y luego se la pasa al vlr.
+cada msc tiene un vlr.
+
+Este sirve para localizar al cliente cuando tiene un servicio. Con el LAC (location area code). es un codigo que le asigno a las celdas.
+
+
 
 ![[Pasted image 20240827082752.png]]
 
+Para ubicar desde afuera se usa el LAI, lo mismo que LAC pero + pais y red.
 
 
 ![[Pasted image 20240827082904.png]]
 
-
+Usa QPSK
 
 
 ![[Pasted image 20240827082918.png]]
 
+GPRS VS EDGE es que pasamos de QPSK A 8PSK ya no son 2 bits si no que 3.
 
 ![[Pasted image 20240827082938.png]]
 
+Lo mismo que antes pero para paquetes.
+
+Msc con vlr para vos
+y sgsn con su gateway para datos, salidas a internet.
+
+Es lo único que se adicionó.
+
+En 3g es igual solo cambia el controlador y la torre.
 
 
 ![[Pasted image 20240827082949.png]]
+
+8 SLOTS DE TIEMPO 4 FRECUENCIAS.
+
+Stand Alone SD asignan recursos para tráficos 
+
+en 5g es igual el dar recursos.
+
+tch T trafico
+PDCH P trafico pero datos, 
+
+rojo datos
+amarillo voz
+los demás control.
+
+Best efford ocurre hoy en dia en 5g.
+
+---
+
+# 30-08
+
+![[Pasted image 20240827091821.png]]
+
+3G cambia completamente el tipo de acceso al medio
+
+De fdma y tdma a algo que depende de una visión mas lógica de la 
+cdma acceso múltiple por división de código.
+
+![[Pasted image 20240827092041.png]]
+
+hoy en dia 3g aguanta hasta 64qam 6 bits.
+
+GSM pedacito de tiempo y de frecuencia.
+
+En 3g, todo el tiempo y toda la frecuencia a los usuarios.  como se segmenta? por que se crea un tercer plano de códigos, código 1 a un usuario 2 a otro 3 a otro y así.
+
+3G 64 usuarios simultaneos, para voz no problem, pero para datos es poco.
+
+En sus inicios 388 kbps por segundo.
+
+
+el 80% del trafico se sigue cursando en 4g. un 15% 5g y remanente en 5% en 3g. 
+
+Sin embargo 3g sigue siendo poderoso por que la gran parte del trafico de voz se usa en 3g.
+
+2G Muere este año. 
+
+![[Pasted image 20240827092414.png]]
+
+![[Pasted image 20240827092449.png]]
+el código es único para cada usuario. 
+
+recibo la señal de todos pero solo recupero lo que viene asociado a mi código.
+Es como una especie de broadcasting.
+
+Cada codigo se llama Spread Factor (SF) → Este es el recurso de 3G.
+
+En GSM (2G) el recurso es el Time Slot.
+![[Pasted image 20240827092801.png]]
+Usa FDD
+
+5 Mhz Downlink y 5 Mhz Uplink
+
+10 MHZ efectivos.
+
+Tiene un código para los canales en frecuencia en 2g era ARFCN ahora es UARFCN.
+
+En chile la GSM las mantuvimos hacia 3g, se apagan gsm para meter 3g.
+
+![[Pasted image 20240827093215.png]]
+
+Aquí no hay plan de frecuencias, entonces como se a que celda esta conectada? hace plan de celdas. ese código es Scrambling code vendría siendo el análogo al BCCH.
+
+![[Pasted image 20240827093341.png]]
+
+
+
+
+
+
+
+
+
 
 
 
