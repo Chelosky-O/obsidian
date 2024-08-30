@@ -143,7 +143,6 @@ Cuanto hemos gastado o invertido económicamente, cuanto hemos dedicado a soport
 # 30-08
 
 
-
 # 03-09
 
 
