@@ -1398,18 +1398,6 @@ En 3g siempre tengo una segunda opción. si no me funciona la segunda opción me
 ![[Imagen de WhatsApp 2024-08-30 a las 09.00.02_6d1283f6.jpg]]
 
 
-
-![[Pasted image 20240830090129.png]]
-
-![[Pasted image 20240830090143.png]]
-
-![[Pasted image 20240830090156.png]]
-![[Pasted image 20240830090209.png]]
-![[Pasted image 20240830090220.png]]
-
-![[Pasted image 20240830090231.png]]
-
-
 Estoy en una celda 1 y me muevo a una celda 2, no se cambia por magia.
 Para poder hacerlo necesito definir una vecindad.
 Tenemos celda 1 y 2 y debemos decir en la configuración, tu puede moverte a la celda 2, celda 5, celda 10... etc, y si me voy moviendo a qui y empiezo a detectar la celda 2 y si la tiene se mueve, pero si no estuviera se cae.
@@ -1419,3 +1407,38 @@ Esta definición se llama adyacencia o vecindad.
 
 ![[Imagen de WhatsApp 2024-08-30 a las 09.05.59_822242a8 1.jpg]]
 
+
+![[Pasted image 20240830090129.png]]
+R99 canal dedicado, se usaba para voz y datos.
+Antes si no había voz agarraba menos datos y si había agarraba más.
+
+Con esta tecnología, mala eficiencia para datos.
+
+
+
+
+![[Pasted image 20240830090143.png]]
+EN HSPA TOPE 16QAM Y EN HSPA+ 64QAM, Es la unica diferencia entre los 2, nada más.
+
+
+
+![[Pasted image 20240830090156.png]]
+
+Es como una piscina, mientras más personas mas te puedes mover. llegaran tantas personas que no podre hacer nada.
+R99 ahora solo se usa para voz. todo lo que queda disponible para datos, estos si estoy solito buena, si no ... 
+
+Lo ideal es que nadie usara voz para poder usar todo ese canal.
+
+
+![[Pasted image 20240830090209.png]]
+con r99 siempre tendria el downlink de 384
+
+
+![[Pasted image 20240830090220.png]]
+buena cobertura mejora la velocidad, siempre y cuando tuviera pocos usuarios de voz obviamente.
+Si estoy en mala cobertura tendré menos velocidad.
+
+
+![[Pasted image 20240830090231.png]]
+
+Ahora no se usa eso hoy en dia, hoy seria high speed noma XD pq se utilizan mucho espacio los R99.
