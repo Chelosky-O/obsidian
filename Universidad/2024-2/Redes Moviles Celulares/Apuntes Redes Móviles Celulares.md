@@ -1392,20 +1392,30 @@ En 3g siempre tengo una segunda opción. si no me funciona la segunda opción me
 
 
 
+![[Pasted image 20240830090103.png]]
+
+![[Pasted image 20240830090115.png]]
+![[Imagen de WhatsApp 2024-08-30 a las 09.00.02_6d1283f6.jpg]]
 
 
 
+![[Pasted image 20240830090129.png]]
+
+![[Pasted image 20240830090143.png]]
+
+![[Pasted image 20240830090156.png]]
+![[Pasted image 20240830090209.png]]
+![[Pasted image 20240830090220.png]]
+
+![[Pasted image 20240830090231.png]]
 
 
+Estoy en una celda 1 y me muevo a una celda 2, no se cambia por magia.
+Para poder hacerlo necesito definir una vecindad.
+Tenemos celda 1 y 2 y debemos decir en la configuración, tu puede moverte a la celda 2, celda 5, celda 10... etc, y si me voy moviendo a qui y empiezo a detectar la celda 2 y si la tiene se mueve, pero si no estuviera se cae.
 
 
+Esta definición se llama adyacencia o vecindad.
 
-
-
-
-
-
-
-
-
+![[Imagen de WhatsApp 2024-08-30 a las 09.05.59_822242a8 1.jpg]]
 
