@@ -375,79 +375,148 @@ Cuando recibo deposito de ustedes es una Captación.
 ---
 Amortizar: suena como amortiguar, pero lo que pasa es que de alguna manera cuando tengo un crédito y lo voy a devolver, hay una parte en que estoy devolviendo el capital (P), pero además el interés, pero si no se hace de una, si no en cuotas, estas cuotas en parte cubre interés y en parte cubre parte del capital.
 
+---
+
+
+
+
 # 30-08
 
+Tendremos un control más del capitulo 8
 ![[Pasted image 20240827124454.png]]
 
 El pago cubre el interés más algo más.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 # 30-08
+
+![[Pasted image 20240830121031.png]]
+
+![[Pasted image 20240830121043.png]]
+
+Nosotros siempre usaremos interés vencido
+
+![[Pasted image 20240830121313.png]]
+
+pago vencido: un pago
+
+cuotas iguales de pago con interés sobre saldo insoluto:
+insoluto es que no lo has pagado todavía.
+
+![[Pasted image 20240830121625.png]]
+esto es lo típico 12 cuotas mensuales.
+
+![[Pasted image 20240830121639.png]]
+
+Calcula las amortizaciones por ej: crédito/cantidad de cuotas. calculo interés saldo insoluto * tasa y lo que sobre achica la deuda.
+La cuota es decreciente.
+
+esto es poco usual, lo normal es cuotas iguales.
+
+![[Pasted image 20240830121650.png]]
+
+
+
+![[Pasted image 20240830122041.png]]
+
+![[Pasted image 20240830122055.png]]
+
+![[Pasted image 20240830122109.png]]
+
+![[Pasted image 20240830123911.png]]
+
+Csubt > Isubt Solo asi funciona → lA Amortización Asubt > 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
