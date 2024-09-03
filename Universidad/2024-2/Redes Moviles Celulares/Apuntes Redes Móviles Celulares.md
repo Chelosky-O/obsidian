@@ -1625,7 +1625,7 @@ En realidad se obtienen aprox:
 
 mas actualmente se usan 20 MHz 256 QAM(8bits) y mimo4x4(x2)
 
-200 Mbps x 2 x 1,33 = 532 Mbps teorico DL
+200 Mbps x 2 x 1,33 = 532 Mbps teórico DL
 %25 control
 400 Mbps DL realidad
 
