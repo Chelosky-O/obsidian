@@ -1561,6 +1561,81 @@ cada cuadrito se llama resource element y se modula bajo un esquema de modulacio
 
 ---
 
+sync → fourier → escalon
+escalon → fourier → sync
+
+aumenta la capacidad del sistema con ofdma, se cumple con la ortogonalidad. con fourier los separa.
+
+doopler le pega mucho a esto...
+
+pero hay tecnicas para mitigar este fenomeno.
+tambien el multitrayecto
+
+![[Imagen de WhatsApp 2024-09-03 a las 09.17.22_0c5a2d63.jpg]]
+
+---
+
+En 4G:
+
+OFDMA → DL
+SC-FDMA → UL
+
+---
+
+HARQ - HYBRID AUTOMATIC REPEAT REQUEST
+
+Retransmisiones
+envía una paquete de datos, espero el ack o el no ack.
+
+transmito el siguiente si llego ack
+vuelvo a enviar si llego no ack
+
+
+que hace harq? los paquetes que llegan mal, no los descarta, los almacena.
+envió paquete llega mal
+envió de nuevo llega mal de nuevo
+que hace? con los guardados ve si se puede recuperar y si lo hace pide el siguiente.
+
+
+---
+
+Calculo velocidad máxima en DOWNLINK
+![[Imagen de WhatsApp 2024-09-03 a las 09.26.20_20534fe5.jpg]]
+
+
+20MHz(100PRB) 64QAM(6bits) MIMO2x2(MULTIPLICA X2)
+
+14 slots de tiempo x 12 subcarriers = 168 RE
+
+1 prb dura 1 ms, un rb dura la mitad 0.5 ms
+
+(168 RE x 6 bits )/ 0.001 seg = 1Mbps
+
+---
+en teoria con 20MHz, 64QAM y mimo2x2 se obtendrian
+200 Mbps DL
+100 Bps UL
+
+
+En realidad se obtienen aprox:
+150 Mbps DL
+75 Mbps UL
+
+---
+
+mas actualmente se usan 20 MHz 256 QAM(8bits) y mimo4x4(x2)
+
+200 Mbps x 2 x 1,33 = 532 Mbps teorico DL
+%25 control
+400 Mbps DL realidad
+
+en subida me quedo casi igual, 256QAM no se usa en subida.
+
+
+
+
+
+
 
 
 
