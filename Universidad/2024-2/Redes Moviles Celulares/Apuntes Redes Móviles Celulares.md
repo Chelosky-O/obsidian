@@ -1631,8 +1631,9 @@ mas actualmente se usan 20 MHz 256 QAM(8bits) y mimo4x4(x2)
 
 en subida me quedo casi igual, 256QAM no se usa en subida.
 
+---
 
-
+estudiar core 3g y 2g, interfaz 2g 3g mimo diversidad espacial, binforming, fading, nose xd.
 
 
 
