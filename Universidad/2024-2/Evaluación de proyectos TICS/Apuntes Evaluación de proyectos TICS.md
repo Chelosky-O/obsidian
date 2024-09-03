@@ -443,6 +443,49 @@ para los proyectos es usual pedir un periodo de gracia.![[Pasted image 202408301
 ![[Pasted image 20240830125146.png]]
 # 03-09
 
+Hacer formula y hacer lo mismo con la función para comparar resultados
+
+Las funciones comparadas con las formulas, si parametrizamos mal la función o nos equivocamos en algo, veremos lo que pasa
+
+Función PAGO
+va = saldo de credito
+tipo = 0 en nuestro caso casi siempre es al final del periodo
+
+PERMITE CALCULAR LA CUOTA
+
+no maneja gracias, hay que hacer la gracia y luego usar la funcion
+
+---
+
+Función TIR
+
+es la tasa que hace igual a los flujos.
+
+Cuando tenemos una inversión y tenemos una serie de flujos de retorno, la pregunta es, que rentabilidad tengo.
+
+si fuera un credito seria la cuota
+
+la pregunta es cual es la tasa de interes?
+
+Lo que ocurre es que es el problema cuando le venden en 10000 en 5 cuotas de 2100 + el COSTO ANUAL EQUIVALENTE CAE
+
+el valor presente o actual VP(F1,F2,...,FN)
+
+la pregunta es con que tasa lo convierto? esto es un polinomio de grado n. 
+
+---
+
+### TALLER
+1) periodo referencia tasa 3 meses, periodo capitalizacion 1 mes, osea el tipo de tasa es: tasa nominal. por que la capitalizacion mensual de un tercio de la tasa me da a la larga me va a dar más que un 1.2, he aumentado el capital de calculo.
+2) xd
+3) xd
+4) xd
+5) 
+
+
+
+
+
 
 
 
