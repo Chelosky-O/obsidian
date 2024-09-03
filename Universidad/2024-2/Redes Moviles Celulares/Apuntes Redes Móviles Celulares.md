@@ -1442,3 +1442,148 @@ Si estoy en mala cobertura tendré menos velocidad.
 ![[Pasted image 20240830090231.png]]
 
 Ahora no se usa eso hoy en dia, hoy seria high speed noma XD pq se utilizan mucho espacio los R99.
+
+
+# 03-09
+
+## Ejercicios Solemne No 1
+
+
+1)
+HM altura en metro terminal
+Ht altura en metros base celular
+
+
+puede dar la perdida y nosotros calculamos la distancia.
+
+en okumura nos dan constantes. la frecuencia va en MHz
+
+La altura de la estación celular va en metros
+en okumura son:
+distancias en km
+alturas en metros
+frecuencias en MHz
+
+no solo considera perdida en espacio libre si no la demografía. las estructuras.
+
+---
+en fresnel la frecuencia es en GHz.
+y distancia en km.
+
+considera perdida en espacio libre
+
+---
+3 4 preguntas, la 1 va siosi pero de distinta forma quizas?
+
+---
+
+la 1 de cost231
+
+cost231 es para ciudad y el itu para nivel geográfico.
+
+estudiar si o si la 1 y la 1 de ambas solemnes.
+
+puede pedir la distancia en lugar de lo que pide.
+
+---
+
+
+## CAPITULO 2
+
+### Redes Móviles 4G
+
+#### LTE (Long Terminal Evolution)
+
+Al inicio habían 2 postulantes LTE → EEUU y UE.
+WIMAX ma asiáticos :P 
+
+Caracteristicas mas significativas:
+- 4G 200 MB por segundo a 1 GB/s
+- 4G llega a 20 MHz pero se usan 20 para subida y 20 para bajada, en teoria son 40 los que necesita.
+- Lo bueno es que es una ancho de espectro variable.
+Pueden ser 20 15 5 10 5 ....
+Menos frecuencia, menos capacidad de transporte de información tengo.
+
+max velocidades 100 mbs en bajada y 50 en subida.
+Puede usar MIMO, tiene mas antenas en el transmisor para multiplexar y multiple streams. con esto se llega a 200 mbs de bajada y 100 de subida.
+
+DL-> 200Mbps
+UL → 100 Mbps
+ESTO ESTA EN 64QAM
+
+
+Luego sale MIMO 4X4 y serian 400 y 200.
+
+
+4G disminuye la latencia en la interfaz de aire, no es el end to end (depende de la red de transporte, etc...) es la de radio y disminuya a 20ms (0.02s)
+
+OFDMA → Acceso multiple por division de frecuencia ortogonales (perpendicular) → Esta es una de las grandes impulsoras para que la tecnología sea eficiente.
+
+Red IP → La voz es paquetizada 
+No hay controlador de estaciones celulares.
+La estacion celular se conecta directamente al core.
+
+EN 2G USA ARFCN
+3G UARFCN
+4G EARFCN
+
+---
+IGUAL QUE EN 3G las celdas se definen por codigo
+
+PCI physical cell identity
+no tienen que quedar adyacentes los pci
+
+PSS → primario 
+SSS → secundario
+
+nunca primarios contiguos
+
+![[Imagen de WhatsApp 2024-09-03 a las 09.03.24_f9c7cf29.jpg]]
+
+![[Imagen de WhatsApp 2024-09-03 a las 09.03.46_6aff0207.jpg]]
+
+---
+
+Acceso al medio
+
+Resource block
+
+Matriz tiempo frecuencia vuelve a aparecer.
+
+prb se entrega par servicio
+
+15x12 en frecuencia son 180 khz
+un rb dura 0.5 ms
+
+cada cuadrito se llama resource element y se modula bajo un esquema de modulacion diferente 64qam por ej.
+
+![[Imagen de WhatsApp 2024-09-03 a las 09.11.50_579431bf.jpg]]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
