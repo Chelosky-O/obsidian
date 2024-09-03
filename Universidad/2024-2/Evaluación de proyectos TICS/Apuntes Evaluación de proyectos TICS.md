@@ -484,10 +484,13 @@ la pregunta es con que tasa lo convierto? esto es un polinomio de grado n.
 
 
 
+# 06-09
 
 
+# 10-09
 
 
+# 13-09
 
 
 

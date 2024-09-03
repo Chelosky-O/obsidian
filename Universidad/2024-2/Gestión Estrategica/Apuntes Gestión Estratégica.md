@@ -146,7 +146,13 @@ Cuanto hemos gastado o invertido económicamente, cuanto hemos dedicado a soport
 # 03-09
 
 
+# 06-09
 
+
+# 10-09
+
+
+# 13-09
 
 
 

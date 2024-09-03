@@ -1636,6 +1636,14 @@ en subida me quedo casi igual, 256QAM no se usa en subida.
 estudiar core 3g y 2g, interfaz 2g 3g mimo diversidad espacial, binforming, fading, nose xd.
 
 
+# 06-09
+
+
+# 10-09
+
+
+# 13-09
+
 
 
 
