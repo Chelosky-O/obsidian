@@ -351,13 +351,11 @@ Los lasers tienen un mayor consumo de potencia, son mas dirigidos. se puede modu
 
 
 
+# 03-09
 
 
 
-
-
-
-
+# 06-09
 
 
 
