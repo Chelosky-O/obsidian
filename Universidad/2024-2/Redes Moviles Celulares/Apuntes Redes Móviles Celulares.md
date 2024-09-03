@@ -1560,7 +1560,7 @@ cada cuadrito se llama resource element y se modula bajo un esquema de modulacio
 ![[Imagen de WhatsApp 2024-09-03 a las 09.11.50_579431bf.jpg]]
 
 ---
-P
+
 
 
 
