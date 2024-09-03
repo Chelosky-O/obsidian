@@ -353,6 +353,77 @@ Los lasers tienen un mayor consumo de potencia, son mas dirigidos. se puede modu
 
 # 03-09
 
+## Modelo de canal
+- Alámbrico
+	- Deterministico
+	- Medio físico
+		- Líneas de fuga
+		- Fibra óptica
+		- Cobre
+		- Semi-conductores
+	- El canal se modela con modelos matemáticos probabilísticos o estadísticos.
+	- distancia → atenuaciones → pathloss
+- Inalámbrico
+	- No determinístico
+	- Medio físico
+		- aire/vacío/agua o estados del agua
+			- Mucha más atenuacion que alambricamente
+			- shadowing
+			- scattering
+		- LoS
+		- Hokumura
+		- Friss
+		- Fresnel
+
+---
+
+## Link Configuration
+
+![[Pasted image 20240903162143.png]]
+
+Linea de vista (LoS)
+De los 4 los lineal de vista son: a) 
+
+
+d) usa Tracking Los(Line of Sight), es lo más optimo pero tambien lo más caro.
+angulo de irradencia 
+
+b) escenario de reflexion(non LoS) y linea de vista indirecta.
+
+c) Reflexión →  solo non-Los
+
+![[Pasted image 20240903162952.png]]
+
+
+todos receptores y transmisores están en el suelo (mismo nivel)
+
+![[Pasted image 20240903163428.png]]
+
+
+![[Pasted image 20240903163442.png]]
+
+a) hay 2 canales UL y DL.
+b) mas facilito pq se sabe donde estarán los equipos.
+
+
+## Indoor Optical Wireless Communication Channel
+
+![[Pasted image 20240903163650.png]]
+
+![[Pasted image 20240903164345.png]]
+
+metodo recursivo suma de todas las trayectorias, no se solapan llegan en tiempos distintos.
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 06-09
