@@ -1747,6 +1747,21 @@ S1 bearer o portador S1 servicio de transferencia a traves de la interfaz S1-U.
 
 Toda la señalización en este plano de control se realiza mediante SCTP, como una mezcla de udp y tcp, como que espera feedback pero no mucho, lo deja pasar si no llega.
 
+La interfaz X2
+Control y trafico
+Control SCTP y trafico UDP
+
+La interfaz S1 hace control y trafico, pero de punto de vista de control se llama diferente al del nodo.
+Este se llama NAS non access stratum. los mensajes que vienen del core para controlar a un usuario, por ej autenticar, encriptacion, etc...
+
+radio bearer interfaz de radio, portador de radio
+
+el portador desde SGW a Equipo se llama E-RAB
+![[Imagen de WhatsApp 2024-09-06 a las 09.28.53_dd269103.jpg]]
+
+Interfaz X2, es lo mismo que S1, entre nodos.
+
+
 
 
 
