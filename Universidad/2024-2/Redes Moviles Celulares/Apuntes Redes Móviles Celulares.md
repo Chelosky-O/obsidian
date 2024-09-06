@@ -1638,6 +1638,159 @@ estudiar core 3g y 2g, interfaz 2g 3g mimo diversidad espacial, binforming, fadi
 
 # 06-09
 
+Mediciones en un red LTE
+
+El terminal es tonto, no hace nada solo reporta los valores a la red y en conclusión se hacen cosas por ej cambiar celda, asignación de esquema de modulación, si uso mimo o no etc...
+
+RSRP → nivel de señal de una red.
+RSRQ → nivel de calidad.
+RSSI → Interferencia.
+
+CODIGO MODO SAMSUNG
+$\* \# 0011 \#$
+
+#### Movilidad a redes legadas 2g/3g
+
+El teléfono preferirá la red mas moderna, pero que tenga un servicio decente, después de un nivel de señal, se cambia a una tecnología más antigua.
+
+El hacer cambio, se pierde servicio por 3 seg aprox. a diferencia de hand over, que no se pierde servicio.
+
+#### EPS EVOLVED PACKET SYSTEM
+
+Aquí cambia por completo el core de 3g/2g.
+
+Aquí no hay tantas cajas, no hay tantas funciones, se comprimen.
+
+Arquitectura menos robusta según comunicaciones, pero más robusta en cuanto a cada cajita.
+
+El core se llama EPC Evolved packet core. la conmutación de circuito para voz se llama switched core.
+
+eUu → interfaz entre terminal y nodo.
+
+Los nodos no depende de un controlador para llegar al core, llegan directamente.
+
+Hay un elemento que se llama MME que controla y señaliza.
+
+La conmutación la hace el gateway GW.
+
+La base de datos se llama HSS todo esta ahi.
+
+antes tenia como 10 cajas ahora tengo la mitad.
+
+Hay una cajita PSRF que define las políticas, por ej tengo un usuario que tiene un plan de 10 gb mensuales, la red siempre va viendo cuanto consume, si ese usuario ya llego a su tope, ahora lo estrangularemos, tendrá servicio, pero muy poco, calidad de servicio, restricciones, etc...
+También se usaba en redes antecesoras, pero aquí si se usa mucho.}
+
+Terminar celular (UE user equipment) 
+eNodeB (evolved NodeB) 
+
+Todas las funciones de controlador pasa al nodo. ya no hay una estructura tan arbol. es mucho mas reciliente, se cae un nodo y muere la zona del nodo nomás no los contiguos. antes se caia el controlador y chao todo xd.
+
+Aquí tengo 2 interfaces importantes: interfaz X2 ES PARA COMUNICACION ENTRE NODOS, aquí ya no esta el controlador,logicamente conectados pero fisicamente pueden haber intermediarios para la conexion, tienen conexion directa.
+
+![[Imagen de WhatsApp 2024-09-06 a las 08.58.31_05c303b7.jpg]]
+
+
+e interfaz S1 → control y trafico.
+
+---
+
+el eNodeB hace broadcast de PCI por ej.
+hace Información dedicada
+transportar información de control hacia o desde.
+información de recursos
+
+
+---
+
+HSS home suscriber server
+Es la base de datos de la red 4g Todo lo de antes junto. (HLR EIR AuC)
+
+las bases de datos de 4g y antiguas están en pull, osea cruzadas.
+
+MME cerebro de control de la red 4g
+Si no está no hay servicio.
+Antes de tener el trafico tengo en control y señalización primero. esto hace el MME.
+administra sesiones, negocia parámetros calidad, autenticación, cifrado, etc... Hace todo el cerebro de la arquitectura.
+
+En 3g y 2g existía el LAC, para encontrar a usuario por voz, RAC lo mismo pero para datos.
+
+Aquí todo esta paquetizado, para geolocalizar se usa el TAC tracking area code. se tienen varias celdas, cada una con un TAC distinto.
+El terminal sabe a que tac esta conectado.
+
+El MME sabe que TAC tiene cada nodo de la red.
+
+---
+
+S-GW (Serving GateWay): es el conmutador de paquetes, el que administra la sesión, hace internet, servicio fijo. Pasarela entre E-utran(la radio) con el EPC que es el core.
+
+El s-gw no puede hacer nada sin el P-GW
+
+P-GW (Packet gateway): para salir a internet. si es voz paquetizado puede salir a otro operador pero por internet. no por conmutador de circuito como la red antecesora.
+
+PCRF (policy and charging rules function) el que estrangula si no pagas el plan xd. al que se le dice que las redes sociales son libres si lo son.
+
+---
+
+INTERFAZ S1
+
+plano de control
+
+plano de trafico
+
+S1U
+
+comunicacion entre nodo y serving gateway
+
+Utiliza protocolo UDP. transporte pero no orientado a conexion, no espera feedback.
+
+S1 bearer o portador S1 servicio de transferencia a traves de la interfaz S1-U.
+
+Toda la señalización en este plano de control se realiza mediante SCTP, como una mezcla de udp y tcp, como que espera feedback pero no mucho, lo deja pasar si no llega.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 10-09
 

@@ -412,7 +412,6 @@ b) mas facilito pq se sabe donde estarán los equipos.
 
 ![[Pasted image 20240903164345.png]]
 
-metodo recursivo suma de todas las trayectorias, no se solapan llegan en tiempos distintos.
 
 
 
