@@ -486,6 +486,49 @@ la pregunta es con que tasa lo convierto? esto es un polinomio de grado n.
 
 # 06-09
 
+## Preparación - Formulación
+
+Estudio de Ingeniería del Proyecto
+También llamado: Viabilidad Técnica.
+
+3 Etapas a considerar:
+
+- Construccion, desarrollo e instalación
+- Puesta en Marcha (puesta en régimen operacional)
+
+---
+
+Hay que costear un monton de recursos.
+
+En esta etapa costeamos.
+
+- diseño del producto o servicio de acuerdo a los requerimientos
+- Recursos de know how, físicos, técnicos, requeridos para desarrollo operación del proyecto, disponibilidad actual y proyectada.
+- Métodos de desarrollo, construcción de pruebas, operación y control
+- Características y disponibilidad de los contratistas, consultores, especialistas requeridos para las etapas del proyecto
+- Etapas, proceso, recursos y componentes a tercerizar (outsourcing)
+- Recursos necesarios para operar, administrar y soportar (mantener) el producto o servicio, de acuerdo a sus características y contratos.
+
+ventajas subcontrato
+acceder a personal tecnico que no necesito tener todo el tiempo.
+ej servicios auditoria información. la nube
+
+desventajas
+mi info esta en otra parte
+
+Trust
+Risc
+MAMASEMP
+
+TRm
+
+
+seguridad:
+confidencialidad
+integridad
+
+
+
 
 # 10-09
 
