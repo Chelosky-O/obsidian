@@ -1761,55 +1761,6 @@ el portador desde SGW a Equipo se llama E-RAB
 
 Interfaz X2, es lo mismo que S1, entre nodos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 10-09
-
-
 # 13-09
 
 
