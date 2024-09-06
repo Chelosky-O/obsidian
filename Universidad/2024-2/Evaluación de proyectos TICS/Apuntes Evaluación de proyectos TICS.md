@@ -528,7 +528,10 @@ confidencialidad
 integridad
 
 
+---
 
+
+poderar factores, poner minimos a cada factor.
 
 # 10-09
 
