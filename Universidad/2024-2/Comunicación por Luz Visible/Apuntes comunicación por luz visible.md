@@ -427,6 +427,122 @@ b) mas facilito pq se sabe donde estarán los equipos.
 
 # 06-09
 
+## LOS propagation model
+- Linea de vista directa.
+- No hay obstrucciones.
+- Escenario ideal
+### Light Source Model
+![[Pasted image 20240906161521.png]]
+(1) El ángulo de irradiancia es con respecto a la normal en el led, si el angulo del haz de luz está en 0° con respecto a la normal se alcanza el máximo de intensidad.
+(2)
+El semiángulo de la mitad de potencia va entre [60°-90°)]
+Siendo 90°el peor
+A medida que se amplía el angulo más se dispersa la luz, mientras que con menos angulo, mas concentrada está la potencia.
+
+### Light Detectors
+![[Pasted image 20240906162547.png]](3) Ángulo de incidencia, lo ideal es que sea 0°
+(4) n es el coeficiente de reflexión
+
+Todo se une en la siguiente formula:
+![[Pasted image 20240906163656.png]]
+
+Pauta Solemne 1 2022-2
+Calcular y graficar la respuesta al impulso ( magnitud vs tiempo) de la componente de canal LoS de un sistema 
+Angulo de incidencia = 30°
+Angulo de irradiancia = 45°
+Posición del led = (2, 4, 4)
+Posición del PD = (1, 4, 1)
+Área efectiva del PD = 12 mm^2
+Asumir ganancia unitaria y modo lambertiano de 1
+distancia se saca con los puntos = raiz(1+0+9) = raiz(10)
+Aeff = Ap x cos(ang_inc)
+Ap = 12 / cos(30°) = 10,39 mm^2
+Ap = 1,39 x 10^-3
+m se asume como 1
+H_LoS = (1+1) x 1,39 x 10^-3  x cos(45) x cos (30) x 1 /(2 x pi x 10)
+H_LoS = 2 x 1,39 x 10^-3  x 0,707106 x 0,866025 / (20 x pi)
+**H_LoS = 2,71 x 10 ^-5**
+
+tiempo que va a demorar en llegar al receptor
+d/c = raiz(10) / (3x10^8) = **1,05 x 10^-8 segundos** = 0,105 nanosegundos
+Ahora graficar eje X tiempo(ns) y eje Y (adimensional) se dibuja un pulso en los 0,105 ns con una altura de 2,71 x10^-5
+
+# 10-09
+Solemne 1
+
+![[Imagen de WhatsApp 2024-09-10 a las 16.15.31_eb9ba556.jpg]]
+1)
+B) 430um A 770um
+
+2)
+B) Real y positiva
+
+3)
+C) Dependencia de condiciones del entorno
+
+4)
+C) Modificar la intensidad o la fase de la señal óptica para llevar información.
+
+![[Imagen de WhatsApp 2024-09-10 a las 16.17.15_c4d50302.jpg]]
+5)
+c) Filtro Optico
+
+![[Imagen de WhatsApp 2024-09-10 a las 16.20.15_e3088b4a.jpg]]
+6)
+b) La disminución de la intensidad de la señal a medida que viaja a través del canal debido a la disperción y absorción de la luz
+
+La distancia es lo más critico para la atenuacion de la comunicacion de LOS
+
+![[Imagen de WhatsApp 2024-09-10 a las 16.23.51_c657c4bf.jpg]]
+7)
+b) A medida que las
+
+en el transmisor
+
+![[Imagen de WhatsApp 2024-09-10 a las 16.24.04_100da505.jpg]]
+8)
+no se representa en frecuencia, en tiempo, frecuencia o peaks
+
+b)
+
+![[Imagen de WhatsApp 2024-09-10 a las 16.24.14_7930e863.jpg]]
+![[Imagen de WhatsApp 2024-09-10 a las 16.26.37_c6c8e234.jpg]]
+9)
+
+los siempre sera la que llega mas rapido por que es directa, el peak de la foto en todas las graficas
+lo demas es non los, disperciones, reflexiones, etc...
+
+el mejor desempeño es el a,b o c? depende del contexto, los 3 tienen la misma amplitud, en termino de llegadas en tiempo, el a llega más rapido, pero sin conteto no puedo decir que b es correcta.
+
+los 3 tienen el mismo desempeño?
+
+correcta d) tienen la misma cant de reflexiones.
+
+e) no se puede concluir sobre el desempeño de los sistemas con esta información
+
+f)
+Dispercion temporal: el ancho que ocupa la señal en el tiempo.
+es buena o mala? depende
+
+
+
+Problema 1:
+![[Imagen de WhatsApp 2024-09-10 a las 16.30.34_642b229c.jpg]]
+preguntan calcular distancia aprox 
+
+forma extensa y facil.
+
+extensa es la formula de h.
+
+
+la forma rapida es con:
+v=d/t → t=d/v
+
+
+delta representa impulso, va a multiplicar
+![[Imagen de WhatsApp 2024-09-10 a las 16.33.58_e97e2d16.jpg]]
+
+
 
 # 10-09
 

@@ -533,7 +533,9 @@ integridad
 
 poderar factores, poner minimos a cada factor.
 
-# 10-09
+# Clase 06-09
+
+
 
 
 # 13-09
