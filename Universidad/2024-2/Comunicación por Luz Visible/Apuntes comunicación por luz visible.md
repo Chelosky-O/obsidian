@@ -542,7 +542,8 @@ v=d/t → t=d/v
 delta representa impulso, va a multiplicar
 ![[Imagen de WhatsApp 2024-09-10 a las 16.33.58_e97e2d16.jpg]]
 
-
+---
+s
 
 # 10-09
 
