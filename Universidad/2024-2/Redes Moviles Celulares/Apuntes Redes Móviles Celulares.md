@@ -1911,6 +1911,10 @@ consideraciones adicionales.
 
 LINK BUDGET → Presupuesto del enlace.
 
+la distancia de antena a celular es un radio y se puede sacar un area. tendria el area de una celda y si tengo la superficie total que quiero cubrir se divide por lo que ocupa una celda.
+
+Superficie a cubrir/Superficia de una celda = Q celdas
+
 
 
 
