@@ -1909,6 +1909,8 @@ ahí entra el match de la percepción del cliente.
 
 consideraciones adicionales.
 
+LINK BUDGET → Presupuesto del enlace.
+
 
 
 
