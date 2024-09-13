@@ -1811,6 +1811,112 @@ GTP-U Protocolo de Tunel, que se monta en UDP, UDP + Tunel.
 
 
 ---
+gtp u se usa en 3g y 2g pero tienen otro nombre las capas, etc... 
+
+
+La imagen más interesante 
+
+relay → correlacionar 2 protocolos diferentes
+
+---
+
+Servicio de Conectividad IP
+
+![[Imagen de WhatsApp 2024-09-13 a las 08.58.11_560810fb.jpg]]
+
+la cajita por Se conecta a la PGW y a internet, el camino end to end sedefine como secion PDN.
+
+bearers son portadores o recursos qe se pueden definir en pdn
+
+E UTRAN
+EPC CORE
+
+EUTRAN - EPC = EPS
+
+---
+
+Se pueden tener distintas conexiones PDN, para usar distintos servicios.
+La red esta diseñada para una sesion multi rab Radio Access Beater
+
+
+
+---
+
+Cada una de estas conexiones PDN o beaters pueden tener calidad de servicio (QoS o en jerga QCI ) o no.
+
+Habian 9 QCI tradicionales. los primeros 4 son garantizados, exceso de recursos para que la secion no se caiga
+y los demás no garantizados, best efford
+
+---
+
+APN parametro que determina o permite establecer nexo por conexion APN para salir a algo.
+
+
+---
+
+Radio Resource Control RRC
+
+los bearers de radio.
+
+SRN Signal in Radio Bearer
+DRB Data Radio Bearer
+
+NAS INFO QUE VIENE DE CORE 
+S1-U QUE VA AL CORE
+S1-C Q VIENE DEL CORE
+
+![[Imagen de WhatsApp 2024-09-13 a las 09.21.27_627b496f.jpg]]
+
+
+
+---
+
+MATERIA PARA TRABAJO
+
+## Dimensionamiento LTE RAN
+
+Introducción:
+
+![[Imagen de WhatsApp 2024-09-13 a las 09.23.13_4f17f03e.jpg]]
+
+![[Imagen de WhatsApp 2024-09-13 a las 09.26.00_55c7ca3f.jpg]]
+
+Cobertura vs Capacidad siempre 
+pero al final este match siempre se tiene que iterar con platita $ $ $ 
+
+---
+![[Imagen de WhatsApp 2024-09-13 a las 09.26.09_a50be9f0.jpg]]
+
+SUBURBANO SOLO ASAS
+Urbano san miguel
+dense urbane providencia
+
+la densidad de casa es muy importante.
+
+la red siempre se mide con kpi, cuando se degradan se pone mas.
+
+
+---
+
+hay que definir velocidad objetivo y probabilidad de cobertura.
+siempre hay márgenes de tolerancia.
+
+si quiero exigir velocidad más altas, significa mas sitios, mas sitios = mas plata.
+
+ahí entra el match de la percepción del cliente.
+
+---
+
+consideraciones adicionales.
+
+
+
+
+
+
+
+
+
 
 
 
