@@ -1763,6 +1763,54 @@ Interfaz X2, es lo mismo que S1, entre nodos.
 
 # 13-09
 
+![[Imagen de WhatsApp 2024-09-13 a las 08.48.22_0c844e43.jpg]]
+
+x2-c/ s1-c usa sctp (control)
+x2-u/ s1-u usa udp (tráfico)
+
+entre antena y celular es udp, para entre antenas sctp.
+## Protocolos Interfaz de radio
+
+Packet Data Convergence Protocol (PDCP) como capa de aplicación, la que entrega información. la envia
+
+la capa de transporte no existe 
+
+Canales de Control:
+
+Radio link control (RLC) -< capa de control
+
+Medium Access Control (MAC) → lo mismo q mac de toda la vida.
+aqui se hacen más retransmisiones, es la main retransmisiones, luego el RLC envia pero aqui inicia.
+
+
+capa física → el aire.
+
+Radio Resource Control (RRC): CAPA INTERMEDIA PARA CONTROL.
+
+Por que? SE preocupa solamente de control.
+
+
+
+----
+
+pa arriba es tcp/ip-
+para abajo rrc
+
+![[Imagen de WhatsApp 2024-09-13 a las 08.50.12_d2974563.jpg]]
+
+
+
+hay 2 tipos de control, que viene del nodo o del core.
+
+---
+
+
+GTP-U Protocolo de Tunel, que se monta en UDP, UDP + Tunel.
+
+
+
+
+---
 
 
 
@@ -1790,3 +1838,18 @@ Interfaz X2, es lo mismo que S1, entre nodos.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
