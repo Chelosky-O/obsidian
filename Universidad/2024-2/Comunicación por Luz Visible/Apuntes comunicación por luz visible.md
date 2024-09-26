@@ -197,7 +197,7 @@ Pulse Shaping: Es la formación de un pulso adecuado para representar el dato di
 
 ![[Pasted image 20240820202650.png]]
 
-Señal OFDM: en comunicaciones por luz visible necesitamos que la señal sea unipolar positiva y real. Por lo que todas las amplitudes negativas tienen que ser subidas añadiéndole un DC bias (sumar una seña dc a la ac que tenemos como señal de datos).
+Señal OFDM: en comunicaciones por luz visible necesitamos que la señal sea unipolar positiva y real. Por lo que todas las amplitudes negativas tienen que ser subidas añadiéndole un DC bias (sumar una señal dc a la ac que tenemos como señal de datos).
 
 ![[Pasted image 20240820202751.png]]
 
