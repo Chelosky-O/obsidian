@@ -547,10 +547,7 @@ delta representa impulso, va a multiplicar
 ## Proyecto:
 APP EN CANVAS
 
-# 10-09
 
-
-# 13-09
 
 
 
