@@ -414,17 +414,6 @@ b) mas facilito pq se sabe donde estarán los equipos.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # 06-09
 
 ## LOS propagation model
