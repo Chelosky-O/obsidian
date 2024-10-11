@@ -154,6 +154,10 @@ Cuanto hemos gastado o invertido económicamente, cuanto hemos dedicado a soport
 
 # 13-09
 
+# 11-10
+
+de pag 125 hasta pag 151
+
 
 
 

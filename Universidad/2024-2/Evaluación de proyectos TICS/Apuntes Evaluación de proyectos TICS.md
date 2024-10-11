@@ -540,4 +540,13 @@ poderar factores, poner minimos a cada factor.
 # 11-10
 resumen b
 ![[Pasted image 20241011114717.png]]
-informacion cualitativo: se usa cuando no hay cuantitativo
+información cualitativo: se usa cuando no hay cuantitativo
+
+![[Pasted image 20241011114906.png]]
+
+![[Pasted image 20241011114916.png]]
+
+
+
+
+
