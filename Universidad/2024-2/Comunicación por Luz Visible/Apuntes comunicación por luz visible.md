@@ -541,109 +541,52 @@ APP EN CANVAS
 
 # 8-10
 
+
 # 11-10
 
-![[Pasted image 20241011092233.png]]
+
+## VLC_ind_int_canal_UM_VLC.pdf
+
+Martes 15 oct Ing Diego Alonso Cond
+Viernes 25 oct Ing Miguel Contreras Peg
 
 
-![[Pasted image 20241011092247.png]]
+1ro modelo teorico
+2do modelamiento o pruebas simuladas
+3ro test experimentales
+4to prototipo funcional
 
-![[Pasted image 20241011092301.png]]
+Factores fenomenos que perjudican vlc en tunel minero
 
-![[Pasted image 20241011092310.png]]
+polvo → scattering
+interferencia
+reflexiones → non regular
+absorciones → scattering/non regular
+distancia → tilt/rotation tx rx
+forma del tunel → tilt/rotation tx rx/ non regular tunnel walls
+bloqueo shadowing
+potencia tx, sensibilidad rx
+humedad scattering
+material non regular tx rx
+angulo o direccion → tilt rota
 
-![[Pasted image 20241011092320.png]]
-
-![[Pasted image 20241011092329.png]]
-
-![[Pasted image 20241011092338.png]]
-
-![[Pasted image 20241011092348.png]]
-
-![[Pasted image 20241011092356.png]]
-
-![[Pasted image 20241011092407.png]]
-
-
-![[Pasted image 20241011092420.png]]
-
-1 para voz
-
-![[Pasted image 20241011092431.png]]
-
-![[Pasted image 20241011092443.png]]
-
-primero se señaliza y controla.
-
-Señalización: señalización del nodo con celular y de core con celular, esta ultima se llama NAS
-
-2 tipo de bearer de datos, el default, este es el primero que se toma para solicitar recursos de servicios, luego sigue con señalizacion y el dedicado para hacer trafico, mi canalsito
-
-![[Pasted image 20241011092540.png]]
-
-del core al terminal se llaman canales
-
-canal de radio el que el celular detecta
-
-DRB default bearer → para solicitar
-Dedicado → para trafico en si
+se resumen en 4
+scattering
+random shadowing
+non regular tunner walls
+tilted and rotated leds and pds
 
 
-Un usuario puede tener mas de un dedicated bearer, por ej tener una llamada y descargar un juego, etc...
-
-![[Pasted image 20241011092842.png]]
-
-SRB1 → Transmite mensajes nas, la mensajería del core
-SRB2 → Mensajes srbc de alta prioridad, señalización de radio del nodo
-
-
-
-
-![[Pasted image 20241011092851.png]]
-
-derecha subida, izquierda bajada
-
-dtch datos
-
-sbr0 señalizacion comun dedicado
-sib mid es aparte, pero son los mensajes que el nodo emite donde emite sus parametros, nvl de señal para celda a otro, canales de rach, pci etc...
-
-
-pdsch → es el packet data share channel trafico DL
-pusch → trafico ul
-pdcch → control dl
-pucch → control ul
-
-
-phich tira los ack nack
-
-pcfich administra que tan grande son los recursos de control que 
-
-pbch canal de broadcasting
 
 ---
 
-prach random access channel, canal para solicitar servicio a la red, cuando estoy en modo idle y no tengo nada.
+el modelo los dc channel gain, sus angulos de inicdencia e irradiancia
+ahora hay que descomponerlos en alpha y beta
 
+---
+poison → 
 
-![[Pasted image 20241011093009.png]]
-
-![[Pasted image 20241011093031.png]]
-
-![[Pasted image 20241011093040.png]]
-ultimas 2 no pescar muxo ni muy importante
-![[Pasted image 20241011093641.png]]
-
-![[Pasted image 20241011093712.png]]
-
-![[Pasted image 20241011093723.png]]
-
-![[Pasted image 20241011093733.png]]
-
-
-
-
-
+como modelo el tamaño de algo???? 
 
 
 
