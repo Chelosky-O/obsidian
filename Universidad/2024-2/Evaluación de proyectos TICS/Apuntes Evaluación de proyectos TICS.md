@@ -550,3 +550,28 @@ información cualitativo: se usa cuando no hay cuantitativo
 
 
 
+
+
+# 22-10
+
+## TAREA LEAN FLUJOS SAPAG
+
+![[Pasted image 20241022115117.png]]
+
+Flujo serie de tiempo, beneficios e ingresos en una serie de tiempo y materia de costos, lo que cuesta que esto opere.
+
+inversión es egreso que se utiliza para un bien mas permanente.
+
+publicidad no es una inversión.
+
+---
+![[Pasted image 20241022120539.png]]
+remuneraciones fijas: gente contratada
+remuneraciones variables: servicios externos, comisiones
+
+![[Pasted image 20241022124803.png]]
+
+fin
+
+
+# 25-10
