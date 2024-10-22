@@ -573,5 +573,5 @@ remuneraciones variables: servicios externos, comisiones
 
 fin
 
-
+horizonte debe ser cercano tipo 5 años
 # 25-10
