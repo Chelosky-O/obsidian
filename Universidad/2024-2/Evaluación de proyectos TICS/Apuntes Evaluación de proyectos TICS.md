@@ -570,8 +570,9 @@ remuneraciones fijas: gente contratada
 remuneraciones variables: servicios externos, comisiones
 
 ![[Pasted image 20241022124803.png]]
-
+horizonte debe ser cercano tipo 5 años
+![[Pasted image 20241022125255.png]]
 fin
 
-horizonte debe ser cercano tipo 5 años
+
 # 25-10
