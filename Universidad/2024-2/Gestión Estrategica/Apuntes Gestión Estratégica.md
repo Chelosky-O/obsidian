@@ -158,17 +158,24 @@ Cuanto hemos gastado o invertido económicamente, cuanto hemos dedicado a soport
 
 de pag 125 hasta pag 151
 
+# 22-10
+![[Pasted image 20241022131347.png]]
+
+## Tarea Investigar CMI
 
 
 
+![[Pasted image 20241022135354.png]]
+
+corto plazo 1 años
+mediano 2 a 4
+largo plazo a 5 años
 
 
 
+![[Pasted image 20241022140759.png]]
 
-
-
-
-
+fin
 
 
 
